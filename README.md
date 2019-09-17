@@ -4,6 +4,17 @@
 
 This project was completed as a final project for MAP-674 (Spatial Analysis) as part of the New Maps Plus MSc in Digital Mapping. Included are a Jupyter Notebook and dynamic web map of breweries and distilleries within a half mile of a winery in the Finger Lakes region of upstate New York.
 
+### Future Considerations and Updates
+
+As is, the current map isn't very visually interesting; a bit more data manipulation, geoprocessing, and styling would improve it. Some future improvement considerations are:
+
+1. Increase buffer range or make dynamic in the map with a slider range
+2. Dissolve or group establishments with multiple types (some establishments are both wineries and distilleries and are plotted as separate entities on top of each other, masking whichever is on bottom)
+3. Split the winery and brewery/distillery datasets into separate layers and include a layer control to toggle them
+4. Add additional datasets (population? alcoholism rates? drunk driving statistics? etc.)
+5. Add establishment website data to JSON to include in mouseover label
+6. Perform nearest neighbor analysis to include in mouseover label ('X establishment is Ydistance from Z establishment, its closest neighbor')
+
 ### Data
 #### New York Breweries and Wineries
 Wineries, Breweries, and Distilleries data provided by https://data.ny.gov/.
