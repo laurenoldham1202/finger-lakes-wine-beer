@@ -255,16 +255,6 @@
 
         legend.addTo(map);
 
-        // TODO: Dissolve establishments with multiple types
-        // Add generic 'winery' and 'brewery or distillery' columns
-        // dissolve multiple establishments and define as 'multiple'
-        // Remove counties without overlapping establishments or style them differently
-        // extend to a mile?
-        // add layers control - split data into separate layers
-
-        // 'Brewer', 'Distiller A-1', 'Distiller B', 'Distiller B-1', 'Distiller C', 'Farm Brewer', 'Farm Distiller D', 'Micro Brewer', 'Restaurant Brewer'
-        // 'Winery', 'Winery / Farm Winery Retail', 'Farm Winery'
-
         // style points color based on generic establishment type
         function styleColor(type) {
             return type === 'winery' ? '#BE043D' :
