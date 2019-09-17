@@ -43,4 +43,5 @@ As is, the current map isn't very visually interesting; a bit more data manipula
 3. Split the winery and brewery/distillery datasets into separate layers and include a layer control to toggle them
 4. Add additional datasets (population? alcoholism rates? drunk driving statistics? etc.)
 5. Add establishment website data to JSON to include in mouseover label
-6. Perform nearest neighbor analysis to include in mouseover label ('X establishment is Ydistance from Z establishment, its closest neighbor')
+6. Perform nearest neighbor analysis to include in mouseover label ('X establishment is Y distance from Z establishment, its closest neighbor')
+7. Add back all other points in region that don't fit criteria with different styling
