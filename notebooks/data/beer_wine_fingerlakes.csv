@@ -1,0 +1,83 @@
+,type,county,official_business_name,name,address,city,state,zip,lat,lng,geometry,type_generic
+1,Brewer,Monroe,Narragansett Brewing Company,Narragansett Brewing Company,445 St Paul St,Rochester,NY,14605,43.16459,-77.61446,POINT (-77.61445999999999 43.16459),other
+7,Brewer,Monroe,High Falls Operating Co Llc/Licensing Co Llc,High Falls Brewing Co/North American Breweries,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097,POINT (-77.61437097000001 43.16493105000001),other
+8,Brewer,Monroe,Mark Anthony Brewing Inc,Mikes Hard Lemonade Co,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097,POINT (-77.61437097000001 43.16493105000001),other
+9,Brewer,Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.18771,-77.6798,POINT (-77.6798 43.18771000000001),other
+10,Brewer,Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.8964164,-77.29376828,POINT (-77.29376827999999 42.89641639999999),other
+27,Distiller A-1,Tompkins,Six Mile Enterprises Llc,Six Mile Creek Vineyard,1551 Slaterville Rd,Ithaca,NY,14850,42.41575,-76.45534,POINT (-76.45534000000001 42.41575),other
+40,Distiller A-1,Schuyler,Finger Lakes Distilling Llc,Finger Lakes Distilling ,4676 Nys Route 414,Burdett,NY,14818,42.4602,-76.8636,POINT (-76.86360000000001 42.46020000000001),other
+75,Distiller B,Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.89829,-77.29629,POINT (-77.29629 42.89829),other
+79,Distiller B,Monroe,Fishbowl Spirits Llc,Fishbowl Spirits ,1050 Lee Rd,Rochester,NY,14606,43.18771,-77.6798,POINT (-77.6798 43.18771000000001),other
+86,Distiller B-1,Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.18740375,-77.68034844,POINT (-77.68034844 43.18740375),other
+96,Distiller C,Seneca,Swedish Hill Vineyard Inc,"(Distiller ""C"")",4565 Route 414,Romulus,NY,14541,42.21985421,-76.97419268,POINT (-76.97419268 42.21985421),other
+104,Farm Brewer,Steuben,Chautauqua Brewing Company Llc,The Brewery Of Broken Dreams,8319 Pleasant Valley Rd,Hammondsport,NY,14840,42.40467078,-77.24307859,POINT (-77.24307859 42.40467077999999),other
+167,Farm Brewer,Tompkins,Liquid State Brewing Company Inc,Liquid State Brewing Company ,620 W Green St,Ithaca,NY,14850,42.43872,-76.50768000000002,POINT (-76.50768000000002 42.43872),other
+206,Farm Brewer,Monroe,Fifth Frame Brewing Co Llc,Fifth Frame Brewing Co ,138 Joseph Ave,Rochester,NY,14605,43.16586,-77.60614,POINT (-77.60614 43.16586),other
+253,Farm Brewer,Steuben,Keg And Barrel Brewing Company Inc,Keg And Barrel Brewing Company,14720 State Rte 54,Dundee,NY,14837,42.49206,-77.11955,POINT (-77.11955 42.49205999999999),other
+289,Farm Brewer,Yates,Seneca Lake Brewing Company Llc,Seneca Lake Brewing Company ,4520 State Rte 14,Rock Stream,NY,14878,42.45345,-76.91001,POINT (-76.91001 42.45344999999999),other
+291,Farm Brewer,Livingston,No Bs Brew Company Llc,No Bs Brew Company ,3474 Bronson Hill Rd,Livonia,NY,14487,42.83377,-77.69192,POINT (-77.69192 42.83377000000001),other
+308,Farm Brewer,Yates,Vineyard View Winery Llc,Vineyard View Winery ,2971 Williams Hill Rd,Keuka Park,NY,14478,42.62358,-77.10254,POINT (-77.10254 42.62358),other
+311,Farm Brewer,Seneca,Bottomless Brewing Llc,Bottomless Brewing ,3543 E Lake Rd,Geneva,NY,14456,42.85389,-76.93345,POINT (-76.93344999999999 42.85388999999999),other
+334,Farm Brewer,Steuben,Steuben Brewing Company Llc,Steuben Brewing Company ,10286 Judson Rd,Hammondsport,NY,148409668,42.50379629,-77.18650658,POINT (-77.18650658 42.50379629),other
+336,Farm Brewer,Monroe,Fairport Brewing Company Llc,Fairport Brewing Company,1044 University Ave,Rochester,NY,14607,43.15315,-77.57358,POINT (-77.57358000000001 43.15315),other
+446,Farm Distiller D,Seneca,Martins Honey Farm & Meadery Llc,Hidden Marsh Distillery,2981 Auburn Road,Seneca Falls,NY,13148,42.9548491,-76.75689926,POINT (-76.75689926 42.95484909999999),other
+449,Farm Distiller D,Wayne,Celk Distilling Llc,"Apple C'Ntry Spirits, Silverback Dist, Rootstock",3274 Eddy Rd,Williamson,NY,14589,43.20156169,-77.22518945,POINT (-77.22518945 43.20156169000001),other
+473,Farm Distiller D,Schuyler,Damiani Wine Cellars Llc,Damiani Wine Cellars,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000002,POINT (-76.88049000000004 42.49542999999999),other
+480,Farm Distiller D,Seneca,Varick Winery & Vineyard Llc,Varick Winery & Vineyard ,5102 Rte 89,Romulus,NY,14541,42.7773,-76.77022,POINT (-76.77021999999999 42.7773),other
+845,Micro Brewer,Monroe,Fifth Frame Brewing Co Llc,Fifth Frame Brewing Co ,138 Joseph Ave,Rochester,NY,14605,43.16586,-77.60614,POINT (-77.60614 43.16586),other
+847,Micro Brewer,Tompkins,Liquid State Brewing Company Inc,Liquid State Brewing Company ,620 W Green St,Ithaca,NY,14850,42.43872,-76.50768000000002,POINT (-76.50768000000002 42.43872),other
+863,Micro Brewer,Livingston,No Bs Brew Company Llc,No Bs Brew Company ,3474 Bronson Hill Rd,Livonia,NY,14487,42.83377,-77.69192,POINT (-77.69192 42.83377000000001),other
+877,Micro Brewer,Monroe,Winery Exchange Inc,World Brews,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097,POINT (-77.61437097000001 43.16493105000001),other
+960,Micro Brewer,Seneca,"Irish Mafia Brewing Co Llc, The","Irish Mafia Brewing Co , The",623 Lerch Rd,Geneva,NY,14456,42.82332,-76.92369000000002,POINT (-76.92369000000002 42.82332000000001),other
+990,Micro Brewer,Steuben,Steuben Brewing Company Llc,Steuben Brewing Company ,10286 Judson Rd,Hammondsport,NY,14840,42.50379629,-77.18650658,POINT (-77.18650658 42.50379629),other
+992,Micro Brewer,Seneca,Wagner Valley Brewing Llc,Wagner Brewing Co,9322 Route 414,Lodi,NY,14860,42.57353499,-76.85819852,POINT (-76.85819852 42.57353499000001),other
+993,Micro Brewer,Seneca,Bottomless Brewing Llc,Bottomless Brewing ,3543 E Lake Rd,Geneva,NY,14456,42.85387,-76.93345,POINT (-76.93344999999999 42.85387),other
+1002,Micro Brewer,Ontario,Young Lion Brewing Company Llc,Young Lion Brewing Company ,24 Lakeshore Dr,Canandaigua,NY,14424,42.87577,-77.26992,POINT (-77.26992 42.87577),other
+1003,Micro Brewer,Schuyler,Grist Iron Brewing Llc,Grist Iron Brewing Company,4880 Ny Rte 414,Burdett,NY,14818,42.47002,-76.86684,POINT (-76.86684 42.47002),other
+1029,Micro Brewer,Schuyler,Donna D Lucent,Pompous Ass Wine Company,4499 Rte 14,Rock Stream,NY,14878,42.45084,-76.91037,POINT (-76.91037 42.45083999999999),other
+1032,Micro Brewer,Monroe,Nine Maidens Brewing Company Llc,Nine Maidens Brewing Company ,1344 University Ave,Rochester,NY,14607,43.15061,-77.56624000000002,POINT (-77.56624000000002 43.15060999999999),other
+1035,Micro Brewer,Monroe,Sager Beer Works Llc,Sager Beer Works,46 Sager Dr,Rochester,NY,14607,43.15056,-77.56993,POINT (-77.56993 43.15055999999999),other
+1039,Micro Brewer,Schuyler,Two Goats Brewing Llc,Two Goats Brewing ,5027A State Rte 414 (Basement),Burdett,NY,14818,42.4775359,-76.86894671,POINT (-76.86894671 42.47753589999999),other
+1054,Micro Brewer,Monroe,Shipyard Brewing Company Llc,Shipyard Brewing Company ,445 Saint Paul St,Rochester,NY,14605,43.16459,-77.61446,POINT (-77.61445999999999 43.16459),other
+1056,Micro Brewer,Monroe,Founding Fathers Products Llc,Founding Fathers Brewing Co,445 St Paul St,Rochester,NY,14605,43.16493,-77.61437,POINT (-77.61436999999999 43.16493000000001),other
+1068,Micro Brewer,Seneca,Three Brothers Wineries & Estates Llc,War Horse Brewing Company,623 Lerch Rd,Geneva,NY,14456,42.82332,-76.92369000000002,POINT (-76.92369000000002 42.82332000000001),other
+1070,Micro Brewer,Ontario,Chosen Spot Brewing Company Inc,Naked Dove Brewing Company,4048 Route 5 & 20,Canandaigua,NY,14424,42.86603789,-77.22316921,POINT (-77.22316920999999 42.86603789000001),other
+1084,Micro Brewer,Monroe,Straub Brewery Inc,Straub Brewery ,445 St Paul St,Rochester,NY,14605,43.16459,-77.61446,POINT (-77.61445999999999 43.16459),other
+1115,Restaurant Brewer,Ontario,Dobbers Sports Bar & Grill Llc,Three Huskies Brewing,401 Lakeshore Dr,Canandaigua,NY,14424,42.87243,-77.25139,POINT (-77.25139 42.87243),other
+562,Farm Winery,Schuyler,Finger Lakes Distilling Llc,Finger Lakes Distilling ,4676 Nys Route 414,Burdett,NY,14818,42.4602,-76.8636,POINT (-76.86360000000001 42.46020000000001),winery
+585,Farm Winery,Ontario,Star Cider Llc,Star Cider ,3365 State Rte 364,Canandaigua,NY,14424,42.86634,-77.24983,POINT (-77.24983 42.86634),winery
+606,Farm Winery,Cayuga,Heart & Hands Wine Company Inc,Heart & Hands Wine Company ,4162 State Route 90N,Union Springs,NY,13160,42.86764647,-77.23025679999998,POINT (-77.23025679999998 42.86764647),winery
+623,Farm Winery,Seneca,Lamoreaux Landing Wine Cellars Llc,Lamoreaux Landing Wine,9224 Route 414,Lodi,NY,14860,42.57860189,-76.85718662,POINT (-76.85718661999999 42.57860189000001),winery
+624,Farm Winery,Seneca,Lakeshore Winery Inc,Lakeshore Winery,5132 Route 89,Romulus,NY,14541,42.77619937,-76.76969279,POINT (-76.76969278999999 42.77619937000001),winery
+626,Farm Winery,Schuyler,Lakewood Vineyards Inc,Lakewood Vineyards,4024 State Route 14,Watkins Glen,NY,14891,42.86542759,-77.22088790000002,POINT (-77.22088790000002 42.86542759000001),winery
+629,Farm Winery,Seneca,Wagner Winery Llc,Wagner Vineyards,9322 Route 414,Lodi,NY,14860,42.57353499,-76.85819852,POINT (-76.85819852 42.57353499000001),winery
+638,Farm Winery,Schuyler,Atwater Estate Vineyards Llc,Atwater Estate Vineyards ,5055 Rte 414,Burdett,NY,14818,42.47915893,-76.86938070000002,POINT (-76.86938070000004 42.47915893),winery
+647,Farm Winery,Seneca,Varick Winery & Vineyard Llc,Varick Winery & Vineyard ,5102 Rte 89,Romulus,NY,14541,42.77757904,-76.76979976,POINT (-76.76979976 42.77757904000001),winery
+650,Farm Winery,Seneca,Martins Honey Farm & Meadery Llc,Montezuma Winery,2981 Auburn Rd,Seneca Falls,NY,13148,42.9548491,-76.75689926,POINT (-76.75689926 42.95484909999999),winery
+652,Farm Winery,Schuyler,Damiani Wine Cellars Llc,Damiani Wine Cellars,5281 Peach Orchard Rd,Hector,NY,14841,42.49550126,-76.88101981,POINT (-76.88101981000001 42.49550126),winery
+661,Farm Winery,Steuben,Azure Hill Winery Inc,Azure Hill Winery,8716 Gallagher Road,Hammondsport,NY,14840,42.49809848,-77.18248984,POINT (-77.18248984 42.49809848),winery
+670,Farm Winery,Seneca,Three Brothers Wineries & Estates Llc,Stony Lonesome Wine Cellars/Passion Feet Vineyards,623 Lerch Rd,Geneva,NY,14456,42.82041009,-76.92284593,POINT (-76.92284592999999 42.82041009000002),winery
+705,Farm Winery,Schuyler,Flwc Vineyards Inc,Chateau Lafayette Reneau,5081 Route 414,Hector,NY,14841,42.48132432,-76.86978658,POINT (-76.86978658 42.48132432),winery
+706,Farm Winery,Yates,Vineyard View Winery Llc,Vineyard View Winery,2971 Williams Hill Rd,Keuka Park,NY,14478,42.62327888,-77.10082872,POINT (-77.10082872 42.62327887999999),winery
+718,Farm Winery,Wayne,Celk Distilling Llc,"Apple C'Ntry Spirits, Silverback Dist, Rootstock",3274 Eddy Rd,Williamson,NY,14589,43.2021,-77.2235,POINT (-77.2235 43.2021),winery
+730,Farm Winery,Ontario,"New York State Wine And Culinary Center Inc, The",New York Kitchen,800 S Main St,Canandaigua,NY,14424,42.87631642,-77.27314285,POINT (-77.27314285 42.87631641999999),winery
+741,Farm Winery,Schuyler,Osmote Wine Llc,Osmote Wine ,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000002,POINT (-76.88049000000004 42.49542999999999),winery
+753,Farm Winery,Livingston,Old Stumpblower Cider Works Llc,Original Stump Blower Ciderworks; Osb Ciderworks,5901 Big Tree Rd,Lakeville,NY,14480,42.83573,-77.69866999999998,POINT (-77.69866999999998 42.83573000000001),winery
+756,Farm Winery,Tompkins,Six Mile Enterprises Llc,Six Mile Creek Vineyard,1551 Slaterville Rd,Ithaca,NY,14850,42.41575,-76.45534,POINT (-76.45534000000001 42.41575),winery
+780,Farm Winery,Steuben,Forking Paths Vineyards Inc,Ravines Wine Cellars,10110 Hyatt Hill Rd,Dundee,NY,14837,42.4886,-77.11363,POINT (-77.11363 42.48860000000001),winery
+789,Farm Winery,Schuyler,Valkyrie Crafted Libations Inc,Valkyrie Crafted Libations ,4732 Rte 414,Burdett,NY,14818,42.46233,-76.86494,POINT (-76.86494 42.46233),winery
+839,Farm Winery,Schuyler,Nine Four Wines Llc,Nine-Four Wines,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000002,POINT (-76.88049000000004 42.49542999999999),winery
+1139,Winery,Schuyler,Donna D Lucent,Pompous Ass Wine Company,4499 Route 14,Rock Stream,NY,14878,42.4511206,-76.90924779,POINT (-76.90924778999999 42.45112060000001),winery
+1147,Winery,Yates,Point Of The Bluff Vineyard Llc,Point Of The Bluff Vineyard ,8524 Broadview Heights,Keuka Park,NY,14478,42.62001197,-77.09868161,POINT (-77.09868161 42.62001196999999),winery
+1149,Winery,Schuyler,Valkyrie Crafted Libations Inc,Valkyrie Crafted Libations ,4732 Rte 414,Burdett,NY,14818,42.46233,-76.86494,POINT (-76.86494 42.46233),winery
+1169,Winery,Steuben,Doyle Acquisition Corporation,Pleasant Valley Wine Co,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40199963,-77.25173009,POINT (-77.25173009000001 42.40199963000001),winery
+1177,Winery,Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.18771,-77.6798,POINT (-77.6798 43.18771000000001),winery
+1180,Winery,Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.89646521,-77.2938024,POINT (-77.2938024 42.89646521000001),winery
+1182,Winery,Seneca,Swedish Hill Vineyard Inc,Swedish Hill Winery,4565 Route 414,Romulus,NY,14541,42.21985421,-76.97419268,POINT (-76.97419268 42.21985421),winery
+1198,Winery,Steuben,Ito Wines Llc,Traveling Vineyard,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40201416,-77.25183792,POINT (-77.25183792 42.40201416000001),winery
+1207,Winery,Monroe,Living Roots Wine & Company Llc,Living Roots Wine & Company ,1255 University Ave,Rochester,NY,14607,43.15048,-77.56911,POINT (-77.56910999999999 43.15047999999999),winery
+1212,Winery,Monroe,High Falls Operating Co Llc,North American Breweries,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097,POINT (-77.61437097000001 43.16493105000001),winery
+1223,Winery,Schuyler,J R Dill Winery Llc,J R Dill Winery,4922 State Route 414,Burdett,NY,14818,42.4714497,-76.86754395,POINT (-76.86754395 42.4714497),winery
+1227,Winery,Seneca,Ventosa Vineyards Llc,Ventosa Vineyards,3440 Route 96A,Geneva,NY,14456,42.85906813,-76.93631553,POINT (-76.93631553 42.85906812999999),winery
+1229,Winery,Tompkins,Ports Of New York Llc,Ports Of New York ,815 Taber St,Ithaca,NY,14850,42.43845773,-76.5135085,POINT (-76.51350850000001 42.43845772999999),winery
+1235,Winery / Farm Winery Retail,Steuben,Doyle Acquisition Corporation,Pleasant Valley Wine Co,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40199963,-77.25173009,POINT (-77.25173009000001 42.40199963000001),winery

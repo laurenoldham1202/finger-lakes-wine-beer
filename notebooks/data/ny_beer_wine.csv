@@ -1,0 +1,1242 @@
+type,county,official_business_name,name,address,city,state,zip,lat,lng
+Brewer,Suffolk,Blue Point Brewing Company Inc,Blue Point Brewing Company ,225 W Main St,Patchouge,NY,11772,40.76644,-73.02105
+Brewer,Monroe,Narragansett Brewing Company,Narragansett Brewing Company,445 St Paul St,Rochester,NY,14605,43.164590000000004,-77.61446
+Brewer,Kings,"Brooklyn Brewery Corp,The",The Brooklyn Brewery,79 N 11Th Street,Brooklyn,NY,11249,40.72174011,-73.95797497
+Brewer,Oneida,Matt Brewing Co Inc,F X Matt Brewing Co,811 Edward Street,Utica,NY,13502,43.10350421,-75.24408062
+Brewer,Oneida,"Brooklyn Brewery Corp,The",Brooklyn Brewery,811 Edward Street,Utica,NY,13502,43.10350421,-75.24408062
+Brewer,Kings,American Craft Brewery Llc,Coney Island Brewing Company,1904 Surf Ave Retail Three,Brooklyn,NY,11224,40.57504,-73.98557
+Brewer,Onondaga,Anheuser Busch Llc,Anheuser Busch ,2885 Belgium Road,Baldwinsville,NY,13027,43.16538732,-76.31037514
+Brewer,Monroe,High Falls Operating Co Llc/Licensing Co Llc,High Falls Brewing Co/North American Breweries,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097
+Brewer,Monroe,Mark Anthony Brewing Inc,Mikes Hard Lemonade Co,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097
+Brewer,Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.187709999999996,-77.6798
+Brewer,Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.8964164,-77.29376828
+Brewer,Chautauqua,Southern Tier Brewing Company Llc,Southern Tier Brewing Company ,2072 Stoneman Circle,Lakewood,NY,14750,42.089240000000004,-79.35070999999999
+"Distiller ""A-1""",Cattaraugus,Stillhouse Of Buffalo Llc,Stillhouse Of Buffalo ,6600 Rte 219,Ellicottville,NY,14731,42.285959999999996,-78.65914000000001
+"Distiller ""A-1""",Sullivan,Catskill Distilling Company Ltd,Catskill Distilling Company ,2037 Route 17B,Bethel,NY,12720,41.68459888,-74.87443765
+"Distiller ""A-1""",Dutchess,Dennings Point Distillery Llc,Dennings Point Distillery ,10 N Chestnut St,Beacon,NY,12508,41.50521,-73.96972
+"Distiller ""A-1""",Monroe,Honeoye Falls Distillery Llc,Honeoye Falls Distillery ,168 W Main St,Honeoye Falls,NY,14472,42.948159999999994,-77.60446
+"Distiller ""A-1""",Dutchess,Taconic Distillery Llc,Taconic Distillery,215 Bowen Rd,Stanfordville,NY,12581,0.0,0.0
+"Distiller ""A-1""",Ulster,Allied Wine Corp,Armon Stropkov Spirits Silver Cloud Spirits,70 Berme Rd,Ellenville,NY,12425,41.71618484,-74.38212933
+"Distiller ""A-1""",Warren,Lake George Distilling Company Llc,Lake George Distilling Company ,11262 State Rte 149,Fort Ann,NY,12827,43.4134858,-73.50302125
+"Distiller ""A-1""",Erie,Barn Dog Craft Distilling Llc,Barn Dog Craft Distilling,1851 Four Rod Rd,E Aurora,NY,14052,42.83945,-78.53688000000001
+"Distiller ""A-1""",Suffolk,Long Island Spirits Inc,Long Island Spirits ,2182 Sound Ave,Baiting Hollow,NY,11933,40.95570562,-72.75261872
+"Distiller ""A-1""",Sullivan,Prohibition Distillery Llc,Prohibition Distillery ,10 Union St,Roscoe,NY,12776,41.93326914,-74.91368435
+"Distiller ""A-1""",Albany,"Albany Distilling Company Inc, The","Albany Distilling Company , The",78 Montgomery St,Albany,NY,12207,42.65435984,-73.74728906
+"Distiller ""A-1""",Erie,Eight Buffalo Spirits Llc,Lockhouse Distillery,41 Columbia St,Buffalo,NY,14204,42.87358,-78.87253
+"Distiller ""A-1""",Wayne,Celk Distilling Llc,"Apple C'Ntry Spirits, Silverback Dist, Rootstock",3274 Eddy Rd,Williamson,NY,14589,0.0,0.0
+"Distiller ""A-1""",Kings,New York Distilling Company Llc,New York Distilling,405 Leonard Street,Brooklyn,NY,11222,40.71855442,-73.94851072
+"Distiller ""A-1""",Kings,Widow Jane Distilleries Llc,Widow Jane Distilleries ,216 218 Conover St,Brooklyn,NY,11231,40.67722296,-74.01534809
+"Distiller ""A-1""",Tompkins,Six Mile Enterprises Llc,Six Mile Creek Vineyard,1551 Slaterville Rd,Ithaca,NY,14850,42.41575,-76.45534
+"Distiller ""A-1""",Erie,Mainspring Llc,Lakeward Spirits,65 Vandalia St,Buffalo,NY,14204,42.86631,-78.86069
+"Distiller ""A-1""",Kings,Industry City Distillery Inc,Industry City Distillery ,33 35Th St,Brooklyn,NY,11232,40.6571926,-74.00766451
+"Distiller ""A-1""",Kings,Green Farms Ii Llc,Greenhook Ginsmiths,208 Dupont Street,Brooklyn,NY,11222,40.73614003,-73.95179085
+"Distiller ""A-1""",Erie,Finan Distilling Company Llc,Tommyrotter Distillery,500 Seneca St,Buffalo,NY,14204,42.87766,-78.85712
+"Distiller ""A-1""",Kings,Van Brunt Stillhouse Llc,Van Brunt Stillhouse ,6 Bay St 1St Fl,Brooklyn,NY,11231,40.67373651,-74.01005811
+"Distiller ""A-1""",Westchester,Baron Nahmias Inc,Nahmias Et Fils,201 Saw Mill River Rd Bldg C,Yonkers,NY,10701,40.9451922,-73.88012116
+"Distiller ""A-1""",Chautauqua,Robert Mazza Inc,Five & 20 Spirits,8398 W Rte 20,Westfield,NY,14787,42.30823259,-79.60389676
+"Distiller ""A-1""",Kings,Standard Spirit Corporation,Standard Spirit Distillery,630 Flushing Ave,Brooklyn,NY,11206,40.69999322,-73.94828041
+"Distiller ""A-1""",Chautauqua,Southern Tier Distilling Llc,Southern Tier Distilling Company,2051 A Stoneman Circle,Lakewood,NY,14750,42.08723516,-79.35331231
+"Distiller ""A-1""",Westchester,"Food Cycle Distillery Llc, The",Neversink Spirits,33 New Broad St,Port Chester,NY,10573,41.000332,-73.66567783
+"Distiller ""A-1""",Erie,Gilded Buffalo Llc,Gilded Buffalo ,55 Chicago St,Buffalo,NY,14204,42.86996,-78.86867
+"Distiller ""A-1""",Albany,Oboys Distilling Llc,Oligan Distilling,918 Albany Shaker Rd,Latham,NY,12110,42.76024,-73.81470999999999
+"Distiller ""A-1""",Schuyler,Finger Lakes Distilling Llc,Finger Lakes Distilling ,4676 Nys Route 414,Burdett,NY,14818,42.4602,-76.8636
+"Distiller ""A-1""",Oswego,Lock 1 Distilling Company Llc,Lock 1 Distilling Company ,17 Culvert St,Phoenix,NY,13135,43.230579999999996,-76.30143000000001
+"Distiller ""A-1""",Kings,Ben Franklin Distillery Llc,Ben Franklin Distillery ,5304 New Utrecht Ave,Brooklyn,NY,11219,40.63313,-73.99545
+"Distiller ""A-1""",Orange,Warwick Valley Wine Co Inc,Warwick Valley Distillery,114 Little York Rd,Warwick,NY,10990,41.289770000000004,-74.44183000000001
+"Distiller ""A-1""",Kings,Bitter Thieves Llc,Forthave Spirits,630 Flushing Ave,Brooklyn,NY,11206,40.699940000000005,-73.94827
+"Distiller ""A-1""",Queens,Astoria Distilling Company Llc,Astoria Distilling Company,31-00 47Th Ave,Long Island City,NY,11101,40.74302,-73.93576999999999
+"Distiller ""A-1""",Monroe,24Ligne Llc,Black Button Distilling,85 Railroad St,Rochester,NY,14609,43.16323,-77.58686
+"Distiller ""A-1""",Kings,Kings County Distillery Llc,Kings County Distillery ,63 Flushing Ave,Brooklyn,NY,11205,40.69823,-73.97516
+"Distiller ""A-1""",Kings,Disruption Grain Llc,Interboro Spirits & Ales,942 Grand St,Brooklyn,NY,11211,40.712720000000004,-73.93697
+"Distiller ""A-1""",Orange,Black Dirt Distilling Llc,Black Dirt Distilling Co,385 Glenwood Rd,Pine Island,NY,10969,41.27941,-74.48116
+"Distiller ""A-1""",Ulster,Prince Distillery Llc,Prince Distillery ,1519 Rte 9W,Marlboro,NY,12542,41.62322,-73.96452
+"Distiller ""A-1""",Kings,Heights Distilling Company Inc,Heights Distilling Company ,63 Flushing Ave Suite 223,Brooklyn,NY,11205,40.69823,-73.97516
+"Distiller ""A-1""",Sullivan,Pomanskys Distillery Llc,Pomanskys Distillery ,23 Diane Blvd,Woodridge,NY,12789,41.709920000000004,-74.56424
+"Distiller ""A-1""",Kings,Moto Spirits Llc,Vrw Distillers,5 Central Ave,Brooklyn,NY,11206,40.70263,-73.93290999999999
+"Distiller ""A-1""",New York,Our/New York Vodka Llc,Our/New York,151 W 26Th St,New York,NY,10001,40.74573,-73.99335
+"Distiller ""A-1""",Kings,Sadden Brothers & Co Distilling Corp,Sadden Brothers & Co Distilling Corp,69 Powell St,Brooklyn,NY,11212,40.6729,-73.90464
+"Distiller ""A-1""",Kings,Doc'S Spirits Llc,Doc Herson'S Natural Spirits,630 Flushing Ave,Brooklyn,NY,11206,40.69989,-73.94819
+"Distiller ""A-1""",Suffolk,Matchbook Distilling Company Llc,Matchbook Distilling Co,230 Corwin St,Greenport,NY,11944,41.098279999999995,-72.37007
+"Distiller ""A-1""",Dutchess,"Vale Fox Distillery Llc, The","Vale Fox Distillery , The",619 Noxon Rd,Poughkeepsie,NY,12603,41.650420000000004,-73.82786999999999
+"Distiller ""A-1""",Westchester,Stilltheone Distillery Two Llc,Stilltheone Distillery Two; Sto2,1 Martin Pl,Port Chester,NY,10573,40.99765,-73.65984
+"Distiller ""A-1""",New York,Great Jones Distillers Llc,The Great Jones Distillery,686 Broadway,New York,NY,10012,40.728,-73.99441
+"Distiller ""A-1""",Delaware,Catskill Provisions Inc,Catskill Provisions ,244 Delaware Lake Rd,Long Eddy,NY,12760,41.88365,-75.13606
+"Distiller ""A-1""",Onondaga,Hall Island Distillery Llc,Hall Island Distillery ,6665B Island Rd,Cicero,NY,13039,43.15723,-76.05634
+"Distiller ""A-1""",Columbia,State 11 Distillery Llc,Olde York Farm,284 State Rte 23,Claverack,NY,12513,42.22065,-73.71205
+"Distiller ""A-1""",Dutchess,Millbrook Distillery Llc,Millbrook Distillery,78 Sinpatch Rd,Wassaic,NY,12592,41.780609999999996,-73.56099
+"Distiller ""A-1""",Delaware,Cheryl Amber Lins,Delaware Phoenix Distillery,44 West St,Walton,NY,13856,0.0,0.0
+"Distiller ""A-1""",Kings,Proof Of Concept Llc,Proof Of Concept ,86 34Th St,Brooklyn,NY,11232,40.7588,-73.92481
+"Distiller ""A-1""",Montgomery,Jonathan M Rosemyer,Erie Canal Distillers,55 Willett St,Fort Plain,NY,13339,42.934740000000005,-74.62387
+"Distiller ""A-1""",Madison,Madison County Distillery Llc,Madison County Distillery,2412 Rte 20,Cazenovia,NY,13035,42.92302,-75.83548
+"Distiller ""A-1""",Ulster,Stoutridge Vineyard Llc,Stoutridge Vineyard ,10 Ann Kaley Ln,Marlboro,NY,12542,41.61432,-73.98254
+"Distiller ""A-1""",Washington,Springbrook Hollow Farm Distillery Llc,Springbrook Hollow Farm Distillery ,133 Clements Rd,Queensbury,NY,12804,43.40524,-73.6185
+"Distiller ""A-1""",Orange,Ferreira Carpenter Estates Llc,Ferreira Carpenter Winery,62 W Ridge Rd,Warwick,NY,10990,41.28097,-74.36792
+"Distiller ""A-1""",Saratoga,Yankee Distillers Llc,Yankee Distillers ,5 Fairchild Sqaure,Clifton Park,NY,12065,0.0,0.0
+"Distiller ""A-1""",Ulster,Tuthilltown Spirits Llc,Tuthilltown Spirits ,14 Gristmill Lane   Po Box 320,Gardiner,NY,12525,41.68762751,-74.17506834
+"Distiller ""A-1""",Essex,Lake Placid Spirits Llc,Lake Placid Spirits,5740 Cascade Road,Lake Placid,NY,12946,44.26737964,-73.97190572
+"Distiller ""B""",Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.89829,-77.29629
+"Distiller ""B""",Ulster,Prince Distillery Llc,Prince Distillery ,1519 Rte 9W,Marlboro,NY,12542,41.62322,-73.96452
+"Distiller ""B""",Genesee,O At Ka Milk Products,Cooperative ,4815 Ellicott Street Rd,Batavia,NY,14020,42.98147297,-78.16320504
+"Distiller ""B""",Wayne,Motts Llp,Motts Llp,4363 Route 104,Williamson,NY,14589,43.23495951,-77.17369428
+"Distiller ""B""",Monroe,Fishbowl Spirits Llc,Fishbowl Spirits ,1050 Lee Rd,Rochester,NY,14606,43.187709999999996,-77.6798
+"Distiller ""B""",Oneida,Matt Brewing Co Inc,F X Matt Brewing Co,811 Edward St,Utica,NY,13502,43.104279999999996,-75.24561
+"Distiller ""B-1""",Saratoga,Saratoga Courage Llc,Saratoga Courage ,324 Wilton Rd,Greenfield Center,NY,12833,43.142379999999996,-73.80372
+"Distiller ""B-1""",Genesee,Creamy Creation Llc,Creamy Creation,24 Masse Pl,Batavia,NY,14020,42.99599706,-78.17431106
+"Distiller ""B-1""",Kings,L'Orgeat Inc,High Hat Spirits,71 Van Brunt St,Brooklyn,NY,11231,40.686009999999996,-74.00451
+"Distiller ""B-1""",Otsego,Cooperstown Distillery Llc,Cooperstown Distillery,11 Railroad Ave,Cooperstown,NY,13326,42.699853399999995,-74.93205212
+"Distiller ""B-1""",Nassau,Old Spirit Distillery Inc,Old Spirit Distillery ,3670 6 W Oceanside Rd,Oceanside,NY,11572,0.0,0.0
+"Distiller ""B-1""",Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.18740375,-77.68034844
+"Distiller ""B-1""",Orange,Shloimes Slivovitz Inc,Castle Spirits,18 Quickway Road,Monroe,NY,10950,41.33588604,-74.1707898
+"Distiller ""B-1""",Washington,Tonic & Tinctures Bitters Company Inc,Tonic & Tinctures Bitters Company ,1 W Main St,Cambridge,NY,12816,43.02793,-73.38101999999999
+"Distiller ""B-1""",Kings,Country Honk Llc,Firma Legal,1027 Grand St,Brooklyn,NY,11211,40.713640000000005,-73.93423
+"Distiller ""B-1""",Sullivan,Moses Messinger,Tzetzoeinee Motel Realty,157 Old White Lake Tpke,Swan Lake,NY,12783,0.0,0.0
+"Distiller ""B-1""",Clinton,Four Maples Vineyard And Winery Inc,Four Maples Vineyard And Winery ,40 Gamlaw Rd,Champlain,NY,12919,44.99583,-73.41969
+"Distiller ""B-1""",Suffolk,Golden Trade International Corp,Golden Trade International Corp,280 Suburban Ave,Deer Park,NY,11729,40.75292,-73.30303
+"Distiller ""B-1""",Queens,"Wandering Barman Llc, The","Wandering Barman , The",1080 Wyckoff Ave,Ridgewood,NY,11385,40.69449,-73.90239
+"Distiller ""B-1""",Putnam,Kas Spirits Llc,Kas Spirits ,46 Miller Rd,Mahopac,NY,10541,41.34766579,-73.75273205
+"Distiller ""B-1""",Kings,Brooklyn Spirits Llc,Brooklyn Spirits ,1827 Pacific St,Brooklyn,NY,11233,40.67662,-73.92881
+"Distiller ""C""",Seneca,Swedish Hill Vineyard Inc,"(Distiller ""C"")",4565 Route 414,Romulus,NY,14541,42.21985421,-76.97419268
+"Distiller ""C""",Seneca,Knapp Farms Inc,Knapp Vineyards,2770 County Road 128,Romulus,NY,14541,42.76579757,-76.78321102
+"Distiller ""C""",Dutchess,Milea Estate Vineyard I Llc,Milea Estate Vineyard,46 Rymph Rd,Staatsburg,NY,12580,41.83166,-73.85461
+"Distiller ""C""",Orange,Shloimes Slivovitz Inc,Castle Spirits,18 Quickway Road,Monroe,NY,10950,41.33585167,-74.17073307
+"Distiller ""C""",Yates,Rock Stream Vineyards Llc,Rock Stream Vineyards ,162 Fir Tree Point Road,Rock Stream,NY,14878,42.47140503,-76.91916722
+"Distiller ""C""",Orange,Demarest Hill Winery Inc,Demarest Hill Winery ,81 Pine Island Tpke,Warwick,NY,10990,41.26686155,-74.37151209999999
+Farm Brewer,Yates,Climbing Bines Craft Ale Company Llc,Climbing Bines Craft Ale Company ,511 Hansen Point Rd,Penn Yan,NY,14527,42.66011742,-76.93623052
+Farm Brewer,Schuyler,301 Franklin Street Cafe Inc,Nickel'S Pit Bbq,205 207 N Franklin St,Watkins Glen,NY,14891,0.0,0.0
+Farm Brewer,Steuben,Chautauqua Brewing Company Llc,The Brewery Of Broken Dreams,8319 Pleasant Valley Rd,Hammondsport,NY,14840,42.40467078,-77.24307859
+Farm Brewer,Westchester,Ferrari Beer Incorporated,Ferrari Beer Company,160 Ashford Ave,Dobbs Ferry,NY,10522,41.01482291,-73.86249501
+Farm Brewer,Nassau,Barrier Brewing Company Llc,Barrier Brewing Company ,3001 New St Unit A2,Oceanside,NY,11572,40.63907939,-73.65604898
+Farm Brewer,Suffolk,Moustache Brewing Co Llc,Moustache Brewing Co ,400 Hallet Ave,Riverhead,NY,11901,40.92047274,-72.66814073
+Farm Brewer,Suffolk,Great South Bay Brewery Corp,Great South Bay Brewery,25 Drexel Dr,Bay Shore,NY,11706,40.76048487,-73.26279254
+Farm Brewer,Clinton,Oval Craft Brewing Llc,Oval Craft Brewing ,111 Ohio Rd,Plattsburgh,NY,12903,44.68319,-73.44735
+Farm Brewer,Dutchess,Pbfb Ny Llc,Plan Bee Farm Brewery,115 Underhill Rd,Poughkeepsie,NY,12603,41.71889,-73.88665
+Farm Brewer,Steuben,Finger Lakes Beer Company Llc,Finger Lakes Beer Company ,8462 State Route 54,Hammondsport,NY,14840,42.39991624,-77.22563237
+Farm Brewer,Otsego,Butternuts Beer And Ale Llc,Butternuts Beer And Ale ,4020 State Hwy 51,Garrattsville,NY,13342,42.62775,-75.18634
+Farm Brewer,Suffolk,"Greenport Brewing Company Llc, The",Greenport Harbor Brewing Company,234 Carpenter St,Greenport,NY,11944,41.10312349,-72.35858247
+Farm Brewer,St Lawrence,Kevin David Archer & Dale James Freeman,Adirondack Toboggan Company Microbrewery,202A W Main St,Gouverneur,NY,13642,44.33083627,-75.47594246
+Farm Brewer,Suffolk,Lloyd Harbor Brewing Company Llc,Lloyd Neck Brewing Company,2 Gerry Ln,Lloyd Harbor,NY,11743,40.923970000000004,-73.43781
+Farm Brewer,Suffolk,Saint James Brewery Llc,Saint James Brewery ,929 Lincoln Ave Unit 11,Holbrook,NY,11741,40.77147,-73.08315
+Farm Brewer,Delaware,Mac'S Brew Tavern Llc,Mac'S Brew Tavern ,304 Sutherland Rd,East Meredith,NY,13757,,
+Farm Brewer,Onondaga,Wt Brews Llc,Wt Brews ,3482 Patchett Rd,Baldwinsville,NY,13027,43.15189,-76.26680999999999
+Farm Brewer,Allegany,Wellsville Brewing Co Inc,Wellsville Brewing Company,104 N Main St,Wellsville,NY,14895,42.121629999999996,-77.94717
+Farm Brewer,Cayuga,Lunkenheimer Craft Brewing Co Llc,Lunkenheimer Craft Brewing Co ,8920 N Seneca St,Weedsport,NY,13166,43.049279999999996,-76.56268
+Farm Brewer,Queens,Big Alice Brewing Company Llc,Big Alice Brewing Company ,808 43Rd Rd,Long Island City,NY,11101,0.0,0.0
+Farm Brewer,Ulster,Yard Owl Craft Brewery Inc,Yard Owl Craft Brewery ,19 Osprey Ln,Gardiner,NY,12525,41.69127,-74.14681999999999
+Farm Brewer,Nassau,Lithology Brewing Llc,Lithology Brewing Co,211 Main St,Farmingdale,NY,11735,40.732690000000005,-73.44591
+Farm Brewer,Dutchess,Dutchess Ales Llc,Dutchess Ales ,4280 Rte 22,Wassaic,NY,12592,41.806999999999995,-73.56241999999999
+Farm Brewer,Orange,Pennings Farm Cidery Llc,Pennings Farm Cidery ,4 Warwick Tpk,Warwick,NY,10990,41.23625,-74.38253
+Farm Brewer,Suffolk,Shelter Island Craft Brewery Llc,Shelter Island Craft Brewery ,55A N Ferry Rd,Shelter Island,NY,11964,41.0713,-72.33928
+Farm Brewer,Orange,Kraftify Llc,Pine Island Brewing,682 County Route 1,Pine Island,NY,10969,41.29749,-74.46587
+Farm Brewer,Ontario,Savangela Llc,Crafty Ales And Lagers,2 Exchange St,Phelps,NY,14532,42.95782,-77.05683
+Farm Brewer,Orange,Heritage Restoration Properties Llc,Clemson Bros Brewery,14 Cottage St,Middletown,NY,10940,41.44709,-74.4161
+Farm Brewer,Erie,Barrel + Brine Inc,Barrel + Brine ,155 Chandler St,Buffalo,NY,14207,42.94324,-78.88523
+Farm Brewer,Queens,Rockaway Brewing Company Llc,Rockaway Brewing Company ,46-01 5Th St,Long Island City,NY,11101,40.74703,-73.95477
+Farm Brewer,Tompkins,Garretts Brewing Company Inc,Garretts Brewing Company ,1 W Main St,Trumansburg,NY,14886,0.0,0.0
+Farm Brewer,Suffolk,Destination Unknown Beer Company Inc,Destination Unknown Beer Company ,1 S Chicago Ave,Bay Shore,NY,11706,40.7337,-73.22926
+Farm Brewer,Kings,Strong Rope Brewery Llc,Strong Rope Brewery,574A President St,Brooklyn,NY,11215,40.676840000000006,-73.98379
+Farm Brewer,Schenectady,Van Schaick Beer Co Llc,Great Flats Brewing,151 Lafayette St,Schenectady,NY,12305,42.81252,-73.93791999999999
+Farm Brewer,Erie,West Shore Brewing Company Llc,West Shore Brewing Company ,10995 Main St,Clarence,NY,14031,42.98168,-78.57755
+Farm Brewer,Tompkins,Northeast Pizza And Beer Llc,Scale House Brewery,23C Cinema Dr,Ithaca,NY,14850,42.4801,-76.47836
+Farm Brewer,Warren,Glens Falls Brewing Company Llc,Lake George Brew House,1043 State Rte 9,Queensbury,NY,12804,43.34342,-73.68623000000001
+Farm Brewer,Columbia,Hudson River Brewing Llc,Hudson Brewing,99 S 3Rd St,Hudson,NY,12534,42.250370000000004,-73.79717
+Farm Brewer,Suffolk,Squarehead Brewing Inc,Squarehead Brewing ,405 High St,Holbrook,NY,11741,40.77949,-73.07261
+Farm Brewer,Ulster,Hudson Ale Works Llc,Hudson Ale Works ,17 Milton Ave,Highland,NY,12528,41.71758,-73.9639
+Farm Brewer,Cortland,Homer Hops Operation Llc,Homer Hops Brewing,722 Rte 90,Cortland,NY,13045,42.64002,-76.22681999999999
+Farm Brewer,Onondaga,Stout Beard Brewing Company Llc,Stout Beard Brewing Company ,1153 W Fayette St,Syracuse,NY,13204,43.04611,-76.17345
+Farm Brewer,Dutchess,Kings Corner Brewing Company Inc,Black Snake Brewing Company,148 Creek Rd,Staatsburg,NY,12580,41.8628,-73.88001
+Farm Brewer,Kings,Disruption Grain Llc,Interboro Spirits & Ales,942 Grand St,Brooklyn,NY,11211,40.712720000000004,-73.93697
+Farm Brewer,Suffolk,Sosh Brands Inc,Harbor Head Brewing Company,81D Fort Salonga Rd,Northport,NY,11768,40.89031,-73.35341
+Farm Brewer,Nassau,Oyster Bay Brewing Company Inc,Oyster Bay Brewing Company ,36 Audrey Ave,Oyster Bay,NY,11771,40.87319,-73.53153
+Farm Brewer,Suffolk,"Brewers Collective Inc, The",The Brewers Collective Beer Company,1460 N Clinton Ave,Bay Shore,NY,11706,40.74467,-73.26645
+Farm Brewer,Orange,Rushing Duck Brewing Company Llc,Rushing Duck Brewing Company ,1 Battiato Ln,Chester,NY,10918,41.36201,-74.27024
+Farm Brewer,Oneida,Copper City Of Rome Brewing Company Llc,Copper City Brewing Company,1111 Oneida St,Rome,NY,13440,43.20489,-75.43151
+Farm Brewer,Onondaga,Onco Fermentations Inc,Onco Fermentations ,397 Rte 281,Tully,NY,13159,42.79058,-76.12213
+Farm Brewer,Onondaga,Griffin Hill Llc,Griffin Hill Farm Brewery,3949 Griffin Rd,Syracuse,NY,13215,42.95986,-76.1929
+Farm Brewer,Jefferson,Wood Boat Brewery Llc,Wood Boat Brewery ,703 Brooks Dr,Clayton,NY,13624,44.229079999999996,-76.08091999999999
+Farm Brewer,Chautauqua,Big Inlet Brewing Inc,Big Inlet Brewing,6169 Elm Flats Rd,Mayville,NY,14757,42.269859999999994,-79.47333
+Farm Brewer,Saratoga,Shmaltz Brewing Company Llc,Shmaltz Brewing Company ,6 Fairchild Sq,Clifton Park,NY,12065,42.90149,-73.79286
+Farm Brewer,Lewis,Rc Spot Llc,Skewed Brewing,5501 Trinity Ave,Lowville,NY,13367,43.79051,-75.48777
+Farm Brewer,Albany,Fort Orange Brewing Corporation,Fort Orange Brewing Corporation,450 N Pearl St,Albany,NY,12204,42.66704,-73.74332
+Farm Brewer,Columbia,Subversive Llc,Subversive Malting & Brewing,253 Mill Rd Ext,Germantown,NY,12526,42.11121,-73.83176999999999
+Farm Brewer,Cayuga,Summerhill Brewing Llc,Summerhill Brewing ,14408 State Rte 90,Locke,NY,13092,0.0,0.0
+Farm Brewer,Queens,Dscc Ventures Llc,Fifth Hammer Brewing Company,10-28 10-36 46Th Ave,Long Island City,NY,11101,0.0,0.0
+Farm Brewer,Madison,Critz Farms Inc,Critz Farms Brewing And Cider Company,3232 Rippleton Rd,Cazenovia,NY,13035,42.881440000000005,-75.87284
+Farm Brewer,Saratoga,Good Vs Evil Brewing Llc,Unified Beerworks,7 Stonebreak Rd,Malta,NY,12020,42.96594,-73.78994
+Farm Brewer,Schenectady,Back Barn Brewing Company Llc,Back Barn Brewing Company,7082 Western Tpke,Delanson,NY,12053,42.76962,-74.17121
+Farm Brewer,Suffolk,Rocky Point Artisan Brewers Ltd,Rocky Point Artisan Brewers ,156 Hallock Landing Rd,Rocky Point,NY,11778,40.9605,-72.93929
+Farm Brewer,Queens,Bridge And Tunnel Brewery Llc,Bridge And Tunnel Brewery ,1535 Decatur St,Ridgewood,NY,11385,40.69373,-73.90274000000001
+Farm Brewer,Suffolk,Garden Of Eve Farm Brewery Llc,Garden Of Eve Farm Brewery ,4558 Sound Ave,Riverhead,NY,11901,40.96767,-72.65021999999999
+Farm Brewer,Tompkins,Liquid State Brewing Company Inc,Liquid State Brewing Company ,620 W Green St,Ithaca,NY,14850,42.43872,-76.50768000000001
+Farm Brewer,Cayuga,Chaotic Ales Inc,Aurora Ale & Lager Co,1891 State Rte 90 N,King Ferry,NY,13081,0.0,0.0
+Farm Brewer,Onondaga,Talking Cursive Brewing Company Llc,Talking Cursive Brewing Company ,301 Erie Blvd W,Syracuse,NY,13202,,
+Farm Brewer,Dutchess,Obscure Oscillation Brewing Company Llc,Obscure Oscillation Brewing Company ,19 Lown Ct,Poughkeepsie,NY,12603,41.69332,-73.91563000000001
+Farm Brewer,Ulster,Kingston Standard Llc,Kingston Standard,22 Jansen Ave,Kingston,NY,12401,41.9267,-73.99286
+Farm Brewer,Livingston,Battle Street Brewery Llc,Battle Street Brewery ,4 Battle St,Dansville,NY,14437,42.56153,-77.69896999999999
+Farm Brewer,Livingston,Rising Storm Brewing Company Llc,Rising Storm Brewing Company ,5750 S Lima Rd,Livonia,NY,14414,42.85495,-77.70636999999999
+Farm Brewer,Kings,Kings County Brewers Collective Llc,Kings County Brewers Collective ,381 Troutman St,Brooklyn,NY,11237,40.70601,-73.92358
+Farm Brewer,Kings,Grimm Ales Llc,Grimm,990 Metropolitan Ave,Brooklyn,NY,11211,40.7144,-73.93651
+Farm Brewer,Kings,Island To Island Brewery Corp,House Of Juice,642 Rogers Ave,Brooklyn,NY,11226,40.65582,-73.95318
+Farm Brewer,Onondaga,Brp Enterprises Llc,Hot House Brewery,6200 S Bay Rd,Cicero,NY,13039,43.16563,-76.09179
+Farm Brewer,Queens,Iconyc Brewing Company Llc,Iconyc Brewing Company ,43-63 11Th St,Long Island City,NY,11101,40.75199,-73.92557
+Farm Brewer,Onondaga,Red Hawk Brewing Ltd,Red Hawk Brewing ,4504 Bussey Rd,Syracuse,NY,13215,42.98761,-76.23225
+Farm Brewer,Nassau,Barnshed Brewing Llc,Barnshed Brewing ,100E Lauman Ln,Hicksville,NY,11801,40.74412,-73.50105
+Farm Brewer,Clinton,Valcour Brewing Company Llc,Valcour Brewing Company ,49 Ohio Ave,Plattsburgh,NY,12903,44.67848,-73.44225
+Farm Brewer,Suffolk,Po'Boy Brewery Ltd,Po'Boy Brewery ,200 Wilson St,Port Jefferson Statio,NY,11776,40.93356,-73.05683
+Farm Brewer,Albany,Helderberg Mountain Brewing Company Llc,Helderberg Mountain Brewing Company ,141 Warners Lake Rd,E Berne,NY,12059,42.629740000000005,-74.07866999999999
+Farm Brewer,Onondaga,Hill Country Farm Brewery Llc,Heritage Hill Brewery,3149 Sweet Rd,Jamesville,NY,13078,42.922779999999996,-76.01829000000001
+Farm Brewer,Suffolk,Bellport Brewing Company Inc,Bellport Brewing Company ,156 Hallock Landing Rd,Rocky Point,NY,11778,40.9605,-72.93929
+Farm Brewer,Suffolk,Jamesport Farm Brewery Llc,Jamesport Farm Brewery ,5873 Sound Ave,Riverhead,NY,11901,40.97999,-72.59942
+Farm Brewer,Suffolk,F&R Brewing Systems Inc,Patchogue Beer Project,76 W Main St,Patchogue,NY,11772,40.76558,-73.01702
+Farm Brewer,Onondaga,Tim'S Pumpkin Patch Llc,Tim'S Pumpkin Patch ,2901 Rose Hill Rd,Marietta,NY,13110,42.911840000000005,-76.34496999999999
+Farm Brewer,Monroe,Whichcraft Brews Llc,Whichcraft Brews ,1900 Empire Blvd,Webster,NY,14580,43.191159999999996,-77.50199
+Farm Brewer,Rensselaer,Emporium Farm Brewery Ltd,Emporium Farm Brewery ,472 N Greenbush Rd,Rensselaer,NY,12144,42.659909999999996,-73.6928
+Farm Brewer,Queens,Qb Collective Llc,Queens Brewery,15-39 Covert St,Ridgewood,NY,11385,40.69455,-73.9043
+Farm Brewer,Onondaga,Seneca Street Enterprises Llc,Seneca Street Brew Pub,315 E Seneca St,Manlius,NY,13104,43.00225,-75.9759
+Farm Brewer,Dutchess,Hudson Valley Beverage Co Inc,Sloop Brewing Co,2070 Rte 52,Hopewell Junction,NY,12533,41.543440000000004,-73.82359
+Farm Brewer,Herkimer,Fulton Chain Craft Brewery Llc,Fulton Chain Craft Brewery ,127 North St,Old Forge,NY,13420,43.71485,-74.9703
+Farm Brewer,Onondaga,Local 315 Brewing Company Llc,Local 315 Brewing Company ,3160 Warners Road,Warners,NY,13164,43.08017,-76.28706
+Farm Brewer,Westchester,Broken Bow Brewery Llc,Broken Bow Brewery,173 Marbledale Rd,Tuckahoe,NY,10707,40.955090000000006,-73.81903
+Farm Brewer,Rockland,Threefold Holdings Llc,Threes Brewing,55 W Railroad Ave,Garnerville,NY,10923,41.208,-73.99166
+Farm Brewer,Delaware,Muddy River Hops Llc,Muddy River Farm Brewery,15544 County Hwy 23,Unadilla,NY,13849,42.313,-75.34155
+Farm Brewer,Albany,"Real Mccoy Llc, The",The Real Mccoy Beer Co,20 Hallwood Rd,Delmar,NY,12054,42.62341,-73.8318
+Farm Brewer,Ontario,Twisted Rail Brewing Company Llc,Twisted Rail Brewing Company ,169 Lakeshore Dr,Canandaigua,NY,14424,42.874990000000004,-77.2621
+Farm Brewer,Washington,Slate Town Brewing Company Llc,Slate Town Brewing Company ,31 Main St,Granville,NY,12832,43.408390000000004,-73.25636
+Farm Brewer,Ontario,Reinvention Brewing Llc,Reinvention Brewing Company,9 N Main St,Manchester,NY,14504,42.969840000000005,-77.23045
+Farm Brewer,Tompkins,Salt Point Brewing Company Llc,Salt Point Brewing Company ,2075 E Shore Dr,Lansing,NY,14882,42.5375,-76.50586
+Farm Brewer,Saratoga,Oliva Vineyards Llc,Racing City Brewing Company,250 Excelsior Ave,Saratoga Springs,NY,12866,43.09323,-73.75738
+Farm Brewer,Suffolk,Small Craft Brewery Llc,Small Craft Brewing Company,66 Merrick Rd,Amityville,NY,11701,40.7041,-73.79275
+Farm Brewer,Monroe,Fifth Frame Brewing Co Llc,Fifth Frame Brewing Co ,138 Joseph Ave,Rochester,NY,14605,43.165859999999995,-77.60614
+Farm Brewer,Essex,Big Slide Brewery & Public House Llc,Big Slide Brewery & Public House ,5686 Cascade Rd,Lake Placid,NY,12946,44.26608,-73.97001999999999
+Farm Brewer,Queens,Narwhal Llc,Finback,76-01 77Th Ave,Glendale,NY,11385,0.0,0.0
+Farm Brewer,Chemung,Db Brewing Llc,Diversion Brewing Company,729 Wyncoop Creek Rd,Chemung,NY,14825,42.017759999999996,-76.62234000000001
+Farm Brewer,Orange,Glenmere Brewing Company Inc,Glenmere Brewing Company,55 Maple Ave,Florida,NY,10921,41.335409999999996,-74.36033
+Farm Brewer,Onondaga,Half In The Bag Brewery Llc,Willow Rock Brewing Company,115 Game Rd,Syracuse,NY,13210,43.01235,-76.13161
+Farm Brewer,Columbia,Freight Yard Brewing Llc,Freight Yard Brewing ,59 Main St,Chatham,NY,12037,42.36305,-73.59557
+Farm Brewer,Westchester,Sing Sing Kill Brewery Llc,Sing Sing Kill Brewery ,75-77 Spring St,Ossining,NY,10562,0.0,0.0
+Farm Brewer,Suffolk,North Fork Brewing Company Llc,North Fork Brewing Company ,24 E 2Nd St,Riverhead,NY,11901,40.91923,-72.66206
+Farm Brewer,Westchester,Diner Brew Company Inc,Diner Brew Company ,2 Cortlandt St,Mount Vernon,NY,10550,40.71,-74.0102
+Farm Brewer,Albany,Helderberg Brewery Inc,The Carriage House Restaurant,85 Stonecrop Rd,Rensselaerville,NY,12147,42.52348,-74.14605999999999
+Farm Brewer,Suffolk,Eastern Front Brewing Llc,Eastern Front Brewing ,425 Westphalia Rd,Mattituck,NY,11952,40.99147,-72.53702
+Farm Brewer,Westchester,Wolf & Warrior Brewing Company Llc,Wolf & Warrior Brewing Company ,195A E Post Rd,White Plains,NY,10601,41.02988,-73.76377
+Farm Brewer,Monroe,Lock 32 Brewing Company Llc,Seven Story Brewing,604 Pittsford Victor Rd,Pittsford,NY,14534,43.06227,-77.47962
+Farm Brewer,Richmond,Gordon James Llc,The Flagship Brewing Company,38-40 Minthorne St,Staten Island,NY,10301,40.63715,-74.07552
+Farm Brewer,Cayuga,"Shepherds Brewing Company Llc, The",The Good Shepherds Brewing Company,132 Genesee St,Auburn,NY,13021,42.93051,-76.56813000000001
+Farm Brewer,Suffolk,"Cow Harbor Beer Company Llc, The",Sand City Brewing Company,19 Scudder Ave,Northport,NY,11768,40.89975,-73.35081
+Farm Brewer,Madison,Good Nature Brewing Inc,Good Nature Farm Brewery & Tap Room,1727 State Rte 12B,Hamilton,NY,13346,42.80662,-75.54697
+Farm Brewer,Nassau,Flying Belgian Llc,Flying Belgian ,3350A Lawson Blvd,Oceanside,NY,11572,40.62964,-73.65294
+Farm Brewer,Washington,Battle Hill Brewing Company Llc,Battle Hill Brewing,4C Charles St,Fort Ann,NY,12827,43.41659,-73.48751
+Farm Brewer,Dutchess,Cousins Revolution Ale Works Inc,Cousins Revolution Ale Works,1582 Rte 9,Wappingers Falls,NY,12590,41.5974,-73.91051999999999
+Farm Brewer,Onondaga,Sahm Brewing Company Llc,Sahm Brewing Company ,203 S Salina St,Syracuse,NY,13202,43.04954,-76.15213
+Farm Brewer,Seneca,Fleur De Lis Brew Works Llc,Fleur De Lis Brew Works ,3630 State Rte 414,Seneca Falls,NY,13148,42.84887,-76.80790999999999
+Farm Brewer,Kings,5 Boroughs Brewery Inc,Five Boroughs Brewing Co,215 47Th St,Brooklyn,NY,11220,40.671440000000004,-73.93352
+Farm Brewer,Orange,Long Lot Farm Brewery Llc,Long Lot Farm Brewery ,153 Johnson Rd,Chester,NY,10918,41.38296,-74.25974000000001
+Farm Brewer,Queens,Charlie Work Llc,Evil Twin Brewing,1612 1616 George St,Ridgewood,NY,11385,0.0,0.0
+Farm Brewer,Albany,Indian Ladder Farmstead Brewery And Cidery Llc,Indian Ladder Farms Cidery & Brewery,342 Altamont Rd,Altamont,NY,12009,42.6537,-73.9759
+Farm Brewer,Herkimer,Hillbilly Farm Brewery Llc,Crazy Williez Brewery,546 Silver St,Ilion,NY,13357,42.98516,-75.10718
+Farm Brewer,Nassau,Long Beach Brewing Company Inc,Long Beach Brewing Company ,3350A Lawson Blvd,Oceanside,NY,11572,40.62595,-73.65168
+Farm Brewer,Onondaga,Anything But Beer Llc,Anything But Beer ,1153 W Fayette St,Syracuse,NY,13204,43.04611,-76.17345
+Farm Brewer,Kings,Braven Brewing Company Llc,Braven Brewing Company ,52 Harrison Pl,Brooklyn,NY,11237,40.706340000000004,-73.93136
+Farm Brewer,Sullivan,Shrewd Fox Brewery Llc,Shrewd Fox Brewery ,552 Rte 55,Eldred,NY,12732,41.52563,-74.88450999999999
+Farm Brewer,Albany,Table 41 Brewing Company Llc,Table 41 Brewing Company,4 Dunsbach Ferry Rd,Cohoes,NY,12047,42.772529999999996,-73.75437
+Farm Brewer,Otsego,Red Shed Brewery Llc,Red Shed Brewery ,817 Butter Bowl Rd,Cherry Valley,NY,13320,42.75712,-74.80834
+Farm Brewer,Dutchess,Brooklyn Fermentery Llc,Svendale Brewing Co,127 Cooper Rd,Millerton,NY,12546,41.90612,-73.54989
+Farm Brewer,Dutchess,Obercreek Brewing Company Llc,Obercreek Brewing Company ,59 Marlorville Rd,Wappingers Falls,NY,12590,41.587509999999995,-73.93263
+Farm Brewer,Monroe,Bullies Entertainment Group Llc,Brindle Haus Brewing Company,377 S Union St,Spencerport,NY,14559,43.185359999999996,-77.80483000000001
+Farm Brewer,Suffolk,Blind Bat Brewery Llc,Blind Bat Brewery ,420 Harrison Dr,Centerport,NY,11721,40.89591,-73.38113
+Farm Brewer,Bronx,Torch & Crown 704 Broadway Llc,Torch & Crown 704 Broadway ,463 E 173Rd St,Bronx,NY,10457,40.8418,-73.90156
+Farm Brewer,Washington,R S Taylor & Sons Brewery Llc,R S Taylor & Sons Brewery ,3602 County Rte 30,Salem,NY,12865,43.2557,-73.37586
+Farm Brewer,Rockland,Spectacle Brewing Llc,Industrial Arts Brewing Co,55 W Railroad Ave,Garnerville,NY,10923,41.208,-73.99166
+Farm Brewer,Ontario,Dcl Beverage Llc,Webe Brewing Company,796 Pre Emption Rd,Geneva,NY,14456,42.86295,-77.01104000000001
+Farm Brewer,Franklin,Township 7 Brewery Llc,Township 7 Brewing Co,303 State Rte 11B,Dickinson Center,NY,12930,44.73921,-74.58587
+Farm Brewer,Nassau,Noble Savage Brewing Company Llc,Noble Savage Brewing Company ,27 Glen St,Glen Cove,NY,11542,40.86412,-73.63036
+Farm Brewer,Onondaga,Full Boar Craft Brewery Llc,Full Boar Craft Brewery ,628 S Main St Unit 10,North Syracuse,NY,13212,43.12489,-76.13945
+Farm Brewer,Kings,Daleview Llc,Daleview Brewery,1170 Nostrand Ave,Brooklyn,NY,11225,40.65893,-73.95064
+Farm Brewer,Nassau,South Shore Craft Brewery Corp,South Shore Craft Brewery Corp,3505 Hampton Rd,Oceanside,NY,11572,0.0,0.0
+Farm Brewer,Steuben,Keg And Barrel Brewing Company Inc,Keg And Barrel Brewing Company,14720 State Rte 54,Dundee,NY,14837,42.492059999999995,-77.11955
+Farm Brewer,Monroe,K2 Brewing Inc,K2 Bros Brewing,1221 Empire Blvd,Rochester,NY,14609,43.17458,-77.52149
+Farm Brewer,Onondaga,"Buried Acorn Brewing Co Llc, The",The Buried Acorn Brewing Co,881 Van Rensselaer St,Syracuse,NY,13204,43.06327,-76.17362
+Farm Brewer,Wyoming,Windy Brew Llc,Windy Brew ,733 Rte 20A,Strykersville,NY,14145,42.77013,-78.43518
+Farm Brewer,Madison,Erie Canal Brewing Company Llc,Erie Canal Brewing Company ,135 James St,Canastota,NY,13032,43.07639453,-75.75312972
+Farm Brewer,Rensselaer,Browns Brewing Company Llc,Browns Brewing Company ,50 Factory Hill Rd,Hoosick Falls,NY,12090,42.9262765,-73.34406291
+Farm Brewer,Niagara,Vizcarra Family Vineyards Llc,Becker Brewing Co,3724 Quaker Rd,Gasport,NY,14067,43.22487,-78.55832
+Farm Brewer,Steuben,Tripend Brewing Llc,Tripend Brewing ,3072 Prutsman Rd,Troupsburg,NY,14885,42.09104,-77.55152
+Farm Brewer,Columbia,Chatham Brewing Llc,Chatham Brewing ,59 Main St,Chatham,NY,12037,42.36326985,-73.59542927
+Farm Brewer,Schoharie,Green Wolf Brewing Company Llc,Green Wolf Brewing Company ,315 Main St,Middleburgh,NY,12122,42.59833225,-74.33476052
+Farm Brewer,Ulster,Rb Brew Llc,Rb Brew ,317 Springtown Rd,New Paltz,NY,12561,41.78947583,-74.08722990000001
+Farm Brewer,Sullivan,"Roscoe Ny Beer Company Llc, The",Roscoe Beer Company,145 Rockland Rd,Roscoe,NY,12776,41.94588815,-74.91261723
+Farm Brewer,Monroe,Three Heads Brewing Inc,Three Heads Brewing,186 Atlantic Ave,Rochester,NY,14607,43.15676,-77.57967
+Farm Brewer,Greene,Honey Hollow Brewing Inc,Honey Hollow Brewery,376 E Honey Hollow Rd,Earlton,NY,12058,42.40255991,-73.92527999
+Farm Brewer,Otsego,Robert Rogers,Willow Creek,319 Bliss Gulf Rd,Milford,NY,13820,,
+Farm Brewer,Ulster,Gardiner Brewing Company Llc,Gardiner Brewing Company ,699 Rte 208,Gardiner,NY,12525,41.66753,-74.13738000000001
+Farm Brewer,Cortland,Cortland Beer Company Llc,Cortland Beer Company,16 Court St,Cortland,NY,13045,42.59931805,-76.17995693
+Farm Brewer,Warren,Mean Max Brew Works Llc,Mean Max Brew Works,193 Glen St,Glens Falls,NY,12801,43.310140000000004,-73.64448
+Farm Brewer,Essex,Paradox Brewery Llc,Paradox Brewery ,154 State Rte 9,Schroon Lake,NY,12870,43.7811,-73.79368000000001
+Farm Brewer,Orange,Heirloom Farms Llc,Westtown Brew Works,236 Schefflers Rd,Westtown,NY,10998,41.31371,-74.53493
+Farm Brewer,Columbia,Hudson Valley Beverage Co Inc,Sloop Brewing Co,1065 County Rte 19,Elizaville,NY,12523,0.0,0.0
+Farm Brewer,Genesee,Rogers Brewing Llc,Rogers' Beer,5 13 Main St,Le Roy,NY,14482,0.0,0.0
+Farm Brewer,Franklin,Raquette River Brewing Llc,Raquette River Brewing,11 Balsam St,Tupper Lake,NY,12986,44.24317,-74.48683
+Farm Brewer,Schoharie,Serious Brewing Co Llc,Serious Brewing Co,116 Caverns Rd,Howes Cave,NY,12092,42.68352,-74.39456
+Farm Brewer,Chenango,Bullthistle Brewing Company Llc,Bullthistle Brewing Company,45 S Main St,Sherburne,NY,13460,42.67216,-75.49599
+Farm Brewer,Orange,Orange County Hops Llc,The Brewery At Orange County Hops,771 Rte 52,Walden,NY,12586,41.55515,-74.14721
+Farm Brewer,Dutchess,From The Ground Brewery Llc,From The Ground Brewery ,245 Guski Rd,Red Hook,NY,12571,42.0463,-73.88421
+Farm Brewer,Rensselaer,Bly Hollow Brewery Llc,The Beer Diviner,243 Bly Hollow Rd,Cherry Plain,NY,12040,42.63327117,-73.38064307
+Farm Brewer,Jefferson,"Cape Vincent Brewing Co Inc, The","Cape Vincent Brewing Co , The",296 E Broadway,Cape Vincent,NY,13618,44.12812,-76.33471
+Farm Brewer,Essex,Ausable Brewing Company Llc,Ausable Brewing Company,765 Mace Chasm Rd,Keeseville,NY,12944,44.5027,-73.4541
+Farm Brewer,Chautauqua,Robert Mazza Inc,Five & 20 Brewing,8398 W Rte 20,Westfield,NY,14787,42.308279999999996,-79.60394000000001
+Farm Brewer,Madison,Larry F Fisher And Kathlyn W Fisher,Foothill Hops,5024 Bear Path Rd,Munnsville,NY,13409,42.96581,-75.58633
+Farm Brewer,Wyoming,Amber Lantern Llc,Amber Lantern Brewing Company,44 N Main St,Warsaw,NY,14569,42.7409,-78.13249
+Farm Brewer,Monroe,Ctb Group Inc,Wood Kettle Brewing,1192 Manitou Rd,Hilton,NY,14468,43.25444,-77.75026
+Farm Brewer,Ulster,Woodstock Local Brewing Llc,Woodstock Brewing,5581 Rte 28,Phoenicia,NY,12464,42.06265,-74.30735
+Farm Brewer,Steuben,"Rising Sons 6 Brewing Company Inc, The",Iron Flamingo Brewery,196 Baker St,Corning,NY,14830,42.155120000000004,-77.05637
+Farm Brewer,Yates,Seneca Lake Brewing Company Llc,Seneca Lake Brewing Company ,4520 State Rte 14,Rock Stream,NY,14878,42.45345,-76.91001
+Farm Brewer,Monroe,Swiftwater Brewing Company Llc,Swiftwater Brewing Company ,378 Mt Hope Ave,Rochester,NY,14620,43.1424,-77.61186
+Farm Brewer,Livingston,No Bs Brew Company Llc,No Bs Brew Company ,3474 Bronson Hill Rd,Livonia,NY,14487,42.83377,-77.69192
+Farm Brewer,Chemung,Brabant Brewery Llc,Brabant Brewery ,1543 Maple Ave,Elmira,NY,14904,42.06108,-76.78408
+Farm Brewer,Ontario,F L X Table Llc,Flx Table/Feast & Co Catering/Flx Fry Bird,16-22 Linden St,Geneva,NY,14456,0.0,0.0
+Farm Brewer,Erie,East Aurora Distillery And Winery Llc,East Aurora Brewery,667 Oakwood Ave,East Aurora,NY,14052,42.76528,-78.61004
+Farm Brewer,Ulster,Arrowood Farms Llc,Arrowood Farms ,236 Lower Whitfield Rd,Accord,NY,12404,41.80642,-74.24911999999999
+Farm Brewer,Schuyler,Lucky Hare Brewing Company Inc,Lucky Hare Brewing Company ,6085 Beckhorn Rd,Hector,NY,14841,42.52835,-76.87496
+Farm Brewer,Monroe,Knucklehead Craft Brewing Llc,Knucklehead Craft Brewing,426 Ridge Rd,Webster,NY,14580,43.20598,-77.51213
+Farm Brewer,Broome,Beer Tree Brew Co Llc,Beer Tree Brew Co,197 State Rte 369,Port Crane,NY,13833,42.17151,-75.83039000000001
+Farm Brewer,Greene,Thomas W Vance,Hop Barn Brewing,94 Maple Ave,Greenville,NY,12083,42.42026,-74.05452
+Farm Brewer,Fulton,Stump City Brewing Llc,Stump City Brewing,521 W Fulton St Ext,Gloversville,NY,12078,0.0,0.0
+Farm Brewer,Monroe,Griffs Brewery Llc,Griffs Brewery,5324 W Ridge Rd,Spencerport,NY,14559,43.22076,-77.82070999999999
+Farm Brewer,Rensselaer,Rare Form Brewing Company Llc,Rare Form Brewing Company ,90 Congress St,Troy,NY,12180,42.72868788,-73.68992903
+Farm Brewer,Essex,Ledge Hill Farm Brewery Llc,Ledge Hill Brewing Company,6700 Main St,Westport,NY,12993,44.18835,-73.45085999999999
+Farm Brewer,Madison,Morrisville Aux Of State Univ College Of Agri/Tech,@ Morrisville Ny /The Copper Turret,15 W Main St,Morrisville,NY,13408,0.0,0.0
+Farm Brewer,Orange,Equilibrium Brewery Llc,Equilibrium Brewery ,22 Henry St,Middletown,NY,10940,41.44623,-74.42222
+Farm Brewer,Oneida,Woodland Hop Farm And Fermentation Llc,Woodland Hop Farm And Fermentation ,6002 Trenton Rd,Utica,NY,13502,43.1512,-75.21208
+Farm Brewer,Ulster,Weed Farms Inc,Weed Orchards Brewing Company,43 Mount Zion Rd,Marlboro,NY,12542,41.62363,-74.00094
+Farm Brewer,Yates,Vineyard View Winery Llc,Vineyard View Winery ,2971 Williams Hill Rd,Keuka Park,NY,14478,42.62358,-77.10254
+Farm Brewer,Ontario,Peacemaker Brewing Company Llc,Peacemaker Brewing Company ,20 Pleasant St,Canandaigua,NY,14424,42.88835,-77.2788
+Farm Brewer,Erie,Wny Beer Club Llc,Rusty Nickel Brewing Co,4350 Seneca St,W Seneca,NY,14224,42.83248,-78.74181
+Farm Brewer,Seneca,Bottomless Brewing Llc,Bottomless Brewing ,3543 E Lake Rd,Geneva,NY,14456,42.85389,-76.93345
+Farm Brewer,Seneca,Lost Kingdom Brewery Inc,Lost Kingdom Brewery,7160 Main St,Ovid,NY,14521,42.677609999999994,-76.82307
+Farm Brewer,Ontario,Brewery Services Inc,Twin Elder Brewery,160 School St,Victor,NY,14564,42.98038,-77.41743000000001
+Farm Brewer,Chautauqua,Stephen R Stanford,Bemus Brew House,5186 Ellery Centralia Rd,Dewittville,NY,14728,42.22102,-79.35905
+Farm Brewer,Seneca,Bandwagon Brewery Llc,Bandwagon Brewery,3582 West Ave,Interlaken,NY,14847,42.61638,-76.72875
+Farm Brewer,Ontario,Other Half Brewing Company Inc,Other Half Brewing Company ,6621 State Rte 5 & 20,East Bloomfield,NY,14469,0.0,0.0
+Farm Brewer,Saratoga,Quinn Borchardt Brewing Llc,Artisanal Brew Works,41 Geyser Rd,Saratoga Springs,NY,12866,43.06026,-73.81456
+Farm Brewer,Yates,Lyonsmith Brewing Co Llc,Lyonsmith Brewing Co,138 Water St,Penn Yan,NY,14527,42.65943849,-77.05421666
+Farm Brewer,Livingston,Dublin Corners Farm Brewery Llc,Dublin Corners Farm Brewery ,1906 Main St,Linwood,NY,14486,42.90296,-77.88078
+Farm Brewer,Monroe,"Lost Borough Brewing Llc, The",The Lost Borough Brewing Co,543 Atlantic Ave,Rochester,NY,14609,0.0,0.0
+Farm Brewer,Oswego,Tcd Of Oswego Llc,U.S. Brewing Company,17 W Cayuga St,Oswego,NY,13126,0.0,0.0
+Farm Brewer,Tompkins,Hopshire Brewery Llc,Hopshire Farm & Brewery,1771 Dryden Rd,Freeville,NY,13068,42.48171378,-76.3692873
+Farm Brewer,Columbia,Erik R Bell,Old Klaverack Brewery,150 Thielman Rd,Hudson,NY,12534,42.22227,-73.68377
+Farm Brewer,Tioga,"Farmhouse Brewery Llc, The",The Farmhouse Brewery,2 Whig St,Newark Valley,NY,13811,42.22466231,-76.18519921
+Farm Brewer,Bronx,Farlo Llc,Gun Hill Brewing Company,3227 Laconia Ave,Bronx,NY,10469,40.87213936,-73.85555125
+Farm Brewer,Schuyler,Pantomime Mixtures Llc,Pantomime Mixtures ,3839 Ball Diamond Rd,Hector,NY,14841,42.51357,-76.85665
+Farm Brewer,Madison,Empire Farmstead Brewery Inc,Empire Brewing Company,33 Rippleton Rd,Cazenovia,NY,13035,42.92086,-75.86301999999999
+Farm Brewer,Seneca,Growlin Beer Corporation,Lake Drum Brewing,16 E Castle St,Geneva,NY,14456,42.86797979,-76.98119853
+Farm Brewer,Washington,Argyle Brewing Company Llc,Argyle Brewing Company ,1 Main St,Greenwich,NY,12834,43.08755101,-73.49699557
+Farm Brewer,Yates,Abandon Brewing Company Llc,Abandon Brewing Company,2994 Merritt Hill Rd,Penn Yan,NY,14527,42.63080458,-77.10105951
+Farm Brewer,Rensselaer,S&S Brewery Inc,S&S Brewery ,274 Middle Rd,Nassau,NY,12123,42.49036434,-73.57288887
+Farm Brewer,Suffolk,Greenport Brewing Company Llc The,Greenport Harbor Company,42155 Main Rd,Peconic,NY,11958,41.04171563,-72.4545322
+Farm Brewer,Kings,Other Half Brewing Company Inc,Other Half Brewing Company ,195 Centre St,Brooklyn,NY,11231,40.67366514,-73.99909135
+Farm Brewer,Steuben,Steuben Brewing Company Llc,Steuben Brewing Company ,10286 Judson Rd,Hammondsport,NY,148409668,42.50379629,-77.18650658
+Farm Brewer,Erie,Hamburg Brewing Company Llc,Hamburg Brewing Company,6553 Boston State Rd,Hamburg,NY,14075,42.71061703,-78.80331058
+Farm Brewer,Monroe,Fairport Brewing Company Llc,Fairport Brewing Company,1044 University Ave,Rochester,NY,14607,43.15315,-77.57358
+"Farm Distiller ""D""",Cattaraugus,Stillhouse Of Buffalo Llc,Steelbound Brewery & Distillery,6600 Rte 219,Ellicottville,NY,14731,42.285959999999996,-78.65914000000001
+"Farm Distiller ""D""",Suffolk,Long Island Spirits Inc,Long Island Spirits ,2182 Sound Avenue,Baiting Hollow,NY,11933,40.95570562,-72.75261872
+"Farm Distiller ""D""",Kings,Breuckelen Distilling Company Inc,New Orange,75 77 19Th Street Unit A,Brooklyn,NY,11232,40.63143857,-74.03407022
+"Farm Distiller ""D""",Kings,New York Distilling Company Llc,New York Distilling,405 Leonard Street,Brooklyn,NY,11222,40.71855442,-73.94851072
+"Farm Distiller ""D""",Kings,Kings County Distillery Llc,Kings County Distillery ,63 Flushing Ave,Brooklyn,NY,11205,40.69801436,-73.9750594
+"Farm Distiller ""D""",Kings,Green Farms Ii Llc,Greenhook Ginsmiths,208 Dupont St,Brooklyn,NY,11222,40.73619511,-73.95179315
+"Farm Distiller ""D""",Bronx,Port Morris Distillery Inc,Port Morris Distillery ,780 E 133Rd St,Bronx,NY,10454,40.80089048,-73.91345256
+"Farm Distiller ""D""",Kings,Twenty Spoke Llc,Saint Agrestis,24 15Th St Unit 203,Brooklyn,NY,11215,40.66867499,-73.99571594
+"Farm Distiller ""D""",Kings,Doc'S Spirits Llc,Doc Herson'S Natural Spirits,630 Flushing Ave Suite 628,Brooklyn,NY,11206,40.69999322,-73.94828041
+"Farm Distiller ""D""",Kings,Van Brunt Stillhouse Llc,Van Brunt Stillhouse,6 Bay St,Brooklyn,NY,11231,40.67378812,-74.01003348
+"Farm Distiller ""D""",Suffolk,Wolffer Estate Vineyard Inc,Wolffer Estate,139 Sagg Rd,Sagaponack,NY,11962,40.94499521,-72.27766486
+"Farm Distiller ""D""",Suffolk,Sagaponack Farm Distillery Llc,Sagaponack Farm Distillery ,369 Sagg Rd,Sagaponack,NY,11962,40.95106,-72.28128000000001
+"Farm Distiller ""D""",Suffolk,Long Island Bootleggers Inc,Twin Stills Moonshine,5506 Sound Ave,Riverhead,NY,11901,40.97905,-72.61513000000001
+"Farm Distiller ""D""",Westchester,"Food Cycle Distillery Llc, The",Neversink Spirits,33 New Broad St,Port Chester,NY,10573,41.0003,-73.66561999999999
+"Farm Distiller ""D""",Kings,Industry City Distillery Inc,Industry City Distillery ,33 35Th St,Brooklyn,NY,11232,40.59885,-73.99061999999999
+"Farm Distiller ""D""",Westchester,Vincent Miata,Good Shepherd Distillery,360 Mt Pleasant Ave,Mamaroneck,NY,10543,40.951370000000004,-73.73702
+"Farm Distiller ""D""",Queens,Astoria Distilling Company Llc,Astoria Distilling Company,31-00 47Th Ave,Long Island City,NY,11101,40.74302,-73.93576999999999
+"Farm Distiller ""D""",Westchester,Baron Nahmias Inc,Nahmias Et Fils,201 Saw Mill River Rd,Yonkers,NY,10701,40.945190000000004,-73.88011999999999
+"Farm Distiller ""D""",Kings,Disruption Grain Llc,Interboro Spirits & Ales,942 Grand St,Brooklyn,NY,11211,40.712720000000004,-73.93697
+"Farm Distiller ""D""",Kings,Moto Spirits Llc,Vrw Distillers,5 Central Ave,Brooklyn,NY,11206,40.70263,-73.93290999999999
+"Farm Distiller ""D""",Suffolk,North Fork Wines & Vineyards Llc,North Fork Spirits,19110 Soundview Ave,Southold,NY,11971,41.085809999999995,-72.4261
+"Farm Distiller ""D""",Kings,Sadden Brothers & Co Distilling Corp,Sadden Brothers & Co Distilling Corp,69 Powell St,Brooklyn,NY,11212,40.6729,-73.90464
+"Farm Distiller ""D""",New York,Our/New York Vodka Llc,Our/New York,151 W 26Th St,New York,NY,10001,40.74573,-73.99335
+"Farm Distiller ""D""",Suffolk,Matchbook Distilling Company Llc,Matchbook Distilling Co,230 Corwin St,Greenport,NY,11944,41.098279999999995,-72.37007
+"Farm Distiller ""D""",Westchester,Stilltheone Distillery Two Llc,Stilltheone Distillery Two; Sto2,1 Martin Pl,Port Chester,NY,10573,40.99765,-73.65984
+"Farm Distiller ""D""",New York,Great Jones Distillers Llc,The Great Jones Distillery,686 Broadway,New York,NY,10012,40.728,-73.99441
+"Farm Distiller ""D""",Nassau,Old Spirit Distillery Inc,Old Spirit Distillery ,3670 6 W Oceanside Rd,Oceanside,NY,11572,0.0,0.0
+"Farm Distiller ""D""",Kings,Widow Jane Distilleries Llc,Widow Jane Distilleries ,216 218 Conover St,Brooklyn,NY,11231,0.0,0.0
+"Farm Distiller ""D""",Kings,Mkj Innovations Corp,Mkj Innovations Corp,36 Waverly Ave,Brooklyn,NY,11205,40.69672,-73.96862
+"Farm Distiller ""D""",Suffolk,Pour Decisions Llc,Shinn Estate Viineyards,2000 Oregon Rd,Mattituck,NY,11952,41.015370000000004,-72.53201
+"Farm Distiller ""D""",Westchester,Heimat New York Llc,Heimat New York ,430 Center Ave,Mamaroneck,NY,10543,40.94985,-73.7438
+"Farm Distiller ""D""",Kings,Proof Of Concept Llc,Proof Of Concept ,86 34Th St,Brooklyn,NY,11232,40.7588,-73.92481
+"Farm Distiller ""D""",Suffolk,"Better Man Distilling Co Inc, The","Better Man Distilling Co , The",161 River Ave,Patchogue,NY,11772,40.7592,-73.0216
+"Farm Distiller ""D""",Kings,Standard Spirit Corporation,Standard Spirit Distillery,630 Flushing Ave,Brooklyn,NY,11206,40.69989,-73.94819
+"Farm Distiller ""D""",Westchester,Full Time Hobby Distilling Co Inc,Full Time Hobby Distilling Co ,28 Main St,Ossining,NY,10562,41.15838,-73.86820999999999
+"Farm Distiller ""D""",Orange,Warwick Valley Wine Co Inc,Warwick Valley Distillery,114 Little York Rd,Warwick,NY,10990,41.293785799999995,-74.43713832
+"Farm Distiller ""D""",Ulster,Magnanini Farm Winery Inc,Magnanini Farm Winery ,172 Strawridge Rd,Wallkill,NY,12589,41.59729174,-74.14999912
+"Farm Distiller ""D""",Columbia,Harvest Spirits Llc,Harvest Spirits ,3074 Us Route 9,Valatie,NY,12184,42.43582839,-73.68693085
+"Farm Distiller ""D""",Onondaga,Beak & Skiff Apple Farms Inc,Beak & Skiff Apple Farms ,4473 Cherry Valley Tpke,Lafayette,NY,13084,42.9096617,-76.20104722
+"Farm Distiller ""D""",Ulster,Tuthilltown Spirits Llc,Tuthilltown Spirits ,14 Grist Mill Lane,Gardiner,NY,12525,41.68762751,-74.17506834
+"Farm Distiller ""D""",Saratoga,Saratoga Distilleries Inc,Saratoga Distilleries ,2474 Old Mill Road,Galway,NY,12074,43.03625761,-74.00327484
+"Farm Distiller ""D""",Sullivan,Catskill Distilling Company Ltd,Catskill Whiskey Company,2037 Route 17B,Bethel,NY,12786,41.68459888,-74.87443765
+"Farm Distiller ""D""",Columbia,Hillrock Llc,"Hillrock Spirits, Hillrock Farm",408 Pooles Hill Rd,Ancram,NY,12502,42.02540015,-73.6211903
+"Farm Distiller ""D""",Jefferson,Clayton Distillery Llc,Clayton Distillery,40164 Nys Rte 12,Clayton,NY,13624,44.24872128,-76.04882538
+"Farm Distiller ""D""",Albany,"Albany Distilling Company Inc, The","Albany Distilling Company , The",78 Montgomery St,Albany,NY,12207,42.65438046,-73.74735797
+"Farm Distiller ""D""",Jefferson,Dark Island Spirits Inc,Dark Island Spirits,42 Church St,Alexandria Bay,NY,13607,44.33594608,-75.91773858
+"Farm Distiller ""D""",Oneida,Adirondack Distilling Company Inc,Adirondack Distilling Company ,601 Varick St,Utica,NY,13502,43.1044474,-75.24104864
+"Farm Distiller ""D""",Sullivan,Prohibition Distillery Llc,Prohibition Distillery,10 Union St,Roscoe,NY,12776,41.93326914,-74.91368435
+"Farm Distiller ""D""",Columbia,Hudson Valley Distillers Llc,Hudson Valley Distillers ,1727 Rte 9,Germantown,NY,12526,42.08328256,-73.82841137
+"Farm Distiller ""D""",Dutchess,Taconic Distillery Llc,Taconic Distillery,215 Bowen Rd,Stanfordville,NY,12581,0.0,0.0
+"Farm Distiller ""D""",Orange,Orange County Distillery Llc,Orange County Distillery ,19 Maloney Ln,Goshen,NY,10924,41.35373819,-74.38799487
+"Farm Distiller ""D""",Washington,Lake George Distilling Company Llc,Lake George Distilling Company ,11262 State Rte 149,Fort Ann,NY,12827,43.4134858,-73.50302125
+"Farm Distiller ""D""",Madison,Life Of Reilley Distilling And Wine Co Llc,Life Of Reilley Distilling Company,2747 Rte 20 East,Cazenovia,NY,13035,42.92004,-75.81322
+"Farm Distiller ""D""",Washington,Springbrook Hollow Farm Distillery Llc,Springbrook Hollow Farm Distillery ,133 Clements Road,Queensbury,NY,12804,43.40515458,-73.61818826
+"Farm Distiller ""D""",Dutchess,Dennings Point Distillery Llc,Dennings Point Distillery ,10 N Chestnut St,Beacon,NY,12508,41.50521,-73.96972
+"Farm Distiller ""D""",Otsego,Cooperstown Distillery Llc,Cooperstown Beverage Exchange,11 Railroad Ave,Cooperstown,NY,13326,42.699853399999995,-74.93205212
+"Farm Distiller ""D""",Cayuga,Dills Run Vineyard Inc,Dill'S Run Distillery,3862 State Rte 90,Union Springs,NY,13160,42.8043816,-76.70368622
+"Farm Distiller ""D""",Saratoga,Van Hall Holdings Llc,Upstate Distilling Company,434 Sodeman Rd,Middle Grove,NY,12850,43.074459999999995,-73.89305
+"Farm Distiller ""D""",Herkimer,Dikindurt Distillery Llc,Dikindurt Distillery & Dikindurt,115 Smith Rd,Herkimer,NY,13350,43.05843,-74.97049
+"Farm Distiller ""D""",Warren,High Peaks Distilling Llc,High Peaks Distilling ,1 Canada St,Lake George,NY,12845,43.41701,-73.71422
+"Farm Distiller ""D""",Montgomery,Mountain View Distillery Llc,Bootleggers Distillery,6080 State Hwy 30,Amsterdam,NY,12010,42.898740000000004,-74.22398000000001
+"Farm Distiller ""D""",Dutchess,Shady Knoll Orchards & Distillery Llc,Shady Knoll Orchards & Distillery ,29 Brush Hill Rd,Millbrook,NY,12545,41.7091,-73.65685
+"Farm Distiller ""D""",Delaware,Kerrs Creek Distillery Llc,"Easy Speaker, Silver Moon, Ishka",2450 County Hwy 23,Walton,NY,13856,42.22002,-75.14933
+"Farm Distiller ""D""",Broome,French Distillers & Alchemists Llc,French Distillers & Alchemists ,10 Walker Ave,Lisle,NY,13797,42.35257,-76.00496
+"Farm Distiller ""D""",Ulster,Gardiner Liquid Mercantile Llc,Gardiner Liquid Mercantile ,273 State Rt 208,New Paltz,NY,12561,0.0,0.0
+"Farm Distiller ""D""",Onondaga,Skaneateles Distilleries Llc,Last Shot Distillery,4022 Mill Rd,Skaneateles,NY,13152,42.96541,-76.44317
+"Farm Distiller ""D""",Essex,Gristmill Distillers Inc,Gristmill Distillers ,44 Keene Knolls Way,Keene,NY,12942,44.24984,-73.80164
+"Farm Distiller ""D""",Saratoga,Yankee Distillers Llc,Yankee Distillers ,5 Fairchild Sqaure,Clifton Park,NY,12065,0.0,0.0
+"Farm Distiller ""D""",Schoharie,Kymar Farm Winery And Distillery Llc,"Kymar Farm Distillery, Kymar Farm Winery",102 Bindery Ln,Charlotteville,NY,12036,42.54632,-74.66544
+"Farm Distiller ""D""",Delaware,Union Grove Distillery Llc,Union Grove Distillery ,43311 State Hwy 28,Arkville,NY,12406,42.14793,-74.61995
+"Farm Distiller ""D""",Schenectady,Coyote Hollow Still House Llc,Coyote Hollow Still House,833 Oak Hill Rd,Esperance,NY,12066,42.72959,-74.27303
+"Farm Distiller ""D""",Madison,Forster Jarvis Llc,Old Home Distillers,964 Campbell Rd,Lebanon,NY,13332,42.768409999999996,-75.65518
+"Farm Distiller ""D""",Orange,Apple Dave'S Distillery Llc,Apple Dave'S Distillery ,82 Four Corners Rd,Warwick,NY,10990,41.29533,-74.30714
+"Farm Distiller ""D""",Schoharie,Barbers Farm Distillery Llc,Barbers Farm Distillery ,3609 State Rte 30,Middleburgh,NY,12122,42.580890000000004,-74.39213000000001
+"Farm Distiller ""D""",Otsego,Sauvage Beverages Llc,Sauvage Beverages ,107 Winney Hill Rd,Oneonta,NY,13820,42.46076,-75.09212
+"Farm Distiller ""D""",Montgomery,Mohawk Spirits Llc,Mohawk Spirits ,72 Cliff St,Canajoharie,NY,13317,40.61012,-74.0617
+"Farm Distiller ""D""",Schenectady,"Schenectady Distilling Company Inc, The",The Schenectady Distilling Company,3304 Amsterdam Rd,Glenville,NY,12302,42.8593,-74.01475
+"Farm Distiller ""D""",Jefferson,Saint Lawrence Spirits Llc,Saint Lawrence Spirits,38289 Rte 12E,Clayton,NY,13624,44.22415,-76.12225
+"Farm Distiller ""D""",Oswego,Lock 1 Distilling Company Llc,Lock 1 Distilling Company ,17 Culvert St,Phoenix,NY,13135,43.230579999999996,-76.30143000000001
+"Farm Distiller ""D""",Columbia,State 11 Distillery Llc,State 11 Distillery,284 State Rte 23,Claverack,NY,12513,42.22065,-73.71205
+"Farm Distiller ""D""",Clinton,Murray'S Fools Distilling Co Llc,Murray'S Fools Distilling Co ,2229 Rand Hill Rd,Altona,NY,12910,44.80842,-73.67118
+"Farm Distiller ""D""",Cortland,Dragonfyre Distillery Llc,Dragonfyre Distillery,1062 Leonard Rd,Marathon,NY,13803,42.45792,-75.956917
+"Farm Distiller ""D""",Madison,Madison County Distillery Llc,Madison County Distillery,2412 Rte 20,Cazenovia,NY,13035,42.92302,-75.83548
+"Farm Distiller ""D""",Cortland,Cortland Beer Company Llc,Cortland Distilling Company,16 Court St,Cortland,NY,13045,42.59957,-76.17962
+"Farm Distiller ""D""",Ulster,Stoutridge Vineyard Llc,Stoutridge Vineyard ,10 Ann Kaley Ln,Marlboro,NY,12542,41.61432,-73.98254
+"Farm Distiller ""D""",Essex,Segerstrom Cellars Llc,Segerstrom Cellars ,604 Rte 9,Keeseville,NY,12944,44.427409999999995,-73.49054
+"Farm Distiller ""D""",Lewis,North Country Landscaping & Nursery Inc,Tug Hill Vineyards,4051 Yancey Rd,Lowville,NY,13367,43.82181,-75.57845999999999
+"Farm Distiller ""D""",Clinton,Mountain Spirit Distilling Llc,Mountain Spirit Distilling ,35 Florida St,Plattsburgh,NY,12903,44.667390000000005,-73.46741
+"Farm Distiller ""D""",Ulster,Coppersea Distilling Llc,Highland Spirits,239 Springtown Rd,New Paltz,NY,12561,41.779070000000004,-74.08962
+"Farm Distiller ""D""",Onondaga,Rolling Boyle Llc,Rolling Boyle ,8632 Cazenovia Rd,Manlius,NY,13104,42.97632,-75.9312
+"Farm Distiller ""D""",Albany,Oboys Distilling Llc,Oligan Distilling,918 Albany Shaker Rd,Latham,NY,12110,42.76024,-73.81470999999999
+"Farm Distiller ""D""",Ulster,Arkady Aleksandryants,Arkadiya Distillery,714 Ulster Heights Rd,Ellenville,NY,12428,41.7513,-74.4403
+"Farm Distiller ""D""",Onondaga,Hall Island Distillery Llc,Hall Island Distillery ,6665B Island Rd,Cicero,NY,13039,43.15723,-76.05634
+"Farm Distiller ""D""",Delaware,Catskill Provisions Inc,Catskill Provisions ,244 Delaware Lake Rd,Long Eddy,NY,12760,41.88365,-75.13606
+"Farm Distiller ""D""",Columbia,Grazin Spirits Llc,Grazin Spirits ,170 Schmidt Rd,Ghent,NY,12075,42.31476,-73.65324
+"Farm Distiller ""D""",Dutchess,"Vale Fox Distillery Llc, The","Vale Fox Distillery , The",619 Noxon Rd,Poughkeepsie,NY,12603,41.650420000000004,-73.82786999999999
+"Farm Distiller ""D""",Washington,Luckey Spirits Llc,Luckey Spirits,112 Mountain Rd,Greenwich,NY,12834,43.01661,-73.53393
+"Farm Distiller ""D""",Schoharie,Revolutionary Spirits Llc,Revolutionary Spirits ,132 The Long Road,Jefferson,NY,12093,0.0,0.0
+"Farm Distiller ""D""",Warren,Northeast Craft Spirits Llc,Northeast Craft Spirits ,18A Curran Ln,Glens Falls,NY,12801,43.31279,-73.63592
+"Farm Distiller ""D""",Ulster,Queen City Farm Distillery Inc,Queen City Farm Distillery,25 Clarks Ln,Milton,NY,12547,41.65433,-73.97646999999999
+"Farm Distiller ""D""",Dutchess,Millbrook Distillery Llc,Millbrook Distillery,78 Sinpatch Rd,Wassaic,NY,12592,41.780609999999996,-73.56099
+"Farm Distiller ""D""",Washington,Main Street Distillery Llc,Main Street Distillery ,120 Main St,Argyle,NY,12809,43.24053,-73.49155999999999
+"Farm Distiller ""D""",Albany,New Scotch Llc,New Scotch ,78 Montgomery St,Albany,NY,12207,42.65449,-73.7475
+"Farm Distiller ""D""",Orange,Black Dirt Distilling Llc,Black Dirt Distilling Co,385 Glenwood Rd,Pine Island,NY,10969,41.27941,-74.48116
+"Farm Distiller ""D""",Warren,American Oak Distillery Llc,American Oak Distillery ,209 New Vermont Rd,Bolton Landing,NY,12814,43.6117,-73.69455
+"Farm Distiller ""D""",Delaware,Rock Valley Spirits Llc,Rock Valley Spirits ,1430 John Milk Rd,Long Eddy,NY,12760,41.90733,-75.09505
+"Farm Distiller ""D""",Albany,Windham Distillery Llc,Windham Distillery ,32 Learned St,Albany,NY,12207,42.66106,-73.74353
+"Farm Distiller ""D""",Delaware,Bovina Spirits Llc,Catbird Distilling Company,365 County Hwy 5,Bovina Center,NY,13740,42.26686,-74.77726
+"Farm Distiller ""D""",Schuyler,Finger Lakes Distilling Llc,Finger Lakes Distilling ,4676 Nys Route 414,Burdett,NY,14818,0.0,0.0
+"Farm Distiller ""D""",Seneca,Martins Honey Farm & Meadery Llc,Hidden Marsh Distillery,2981 Auburn Road,Seneca Falls,NY,13148,42.954849100000004,-76.75689926
+"Farm Distiller ""D""",Monroe,Iron Smoke Whiskey Llc,Iron Smoke Whiskey,111 Parce Ave,Fairport,NY,14450,43.10588,-77.44572
+"Farm Distiller ""D""",Chautauqua,Robert Mazza Inc,Five & 20 Spirits,8398 W Rte 20,Westfield,NY,14787,42.30823259,-79.60389676
+"Farm Distiller ""D""",Wayne,Celk Distilling Llc,"Apple C'Ntry Spirits, Silverback Dist, Rootstock",3274 Eddy Rd,Williamson,NY,14589,43.20156169,-77.22518945
+"Farm Distiller ""D""",Seneca,Plow & Fiddle Spirits Llc,Myer Farm Distillers,7350 State Route 89,Ovid,NY,14521,42.66911418,-76.73065884
+"Farm Distiller ""D""",Ontario,Leyline Distillery Inc,Spyglass Spirits,122 N Genesee St,Geneva,NY,14456,42.87963689,-76.98399677
+"Farm Distiller ""D""",Monroe,24Ligne Llc,Black Button Distilling,85 Railroad St,Rochester,NY,14609,43.16321977,-77.58641446
+"Farm Distiller ""D""",Wayne,Glenrose Spirits Llc,Glenrose Spirits ,5052 Covell Rd,N Rose,NY,14516,43.18729513,-76.91410731
+"Farm Distiller ""D""",Monroe,O'Begleys Llc,O Begleys,A1 Country Club Rd,East Rochester,NY,14445,43.11702705,-77.49922699
+"Farm Distiller ""D""",Erie,Black Squirrel Distillery Llc,Black Squirrel Distillery ,1595 Elmwood Ave,Buffalo,NY,14216,42.94035,-78.87845
+"Farm Distiller ""D""",Erie,Mainspring Llc,Lakeward Spirits,65 Vandalia St,Buffalo,NY,14204,42.86631,-78.86069
+"Farm Distiller ""D""",Chautauqua,Twenty Nine Acre Farm Llc,Spirits Of The Backroad,8083 Minton Rd,Westfield,NY,14787,42.295359999999995,-79.58506
+"Farm Distiller ""D""",Chautauqua,Southern Tier Distilling Llc,Southern Tier Distilling Company,2051 A Stoneman Cir,Lakewood,NY,14750,42.08821,-79.35209
+"Farm Distiller ""D""",Steuben,Bhagwan Malt Works Llc,Krooked Tusker Distillery,10303 County Rte 76,Hammondsport,NY,14840,42.49096,-77.18737
+"Farm Distiller ""D""",Erie,Buffalo Distilling Company Inc,Buffalo Distilling Company ,860 Seneca St,Buffalo,NY,14210,42.874990000000004,-78.84524
+"Farm Distiller ""D""",Monroe,Honeoye Falls Distillery Llc,Honeoye Falls Distillery ,168 W Main St,Honeoye Falls,NY,14472,42.948,-77.60439000000001
+"Farm Distiller ""D""",Steuben,Four Fights Distilling Llc,Four Fights Distilling ,363 E Market St,Corning,NY,14830,42.140879999999996,-77.03886
+"Farm Distiller ""D""",Chautauqua,Enchanted Mountain Spirits Inc,Enchanted Mountain Spirits ,137 Water St,Jamestown,NY,14701,42.09561,-79.22873
+"Farm Distiller ""D""",Monroe,Empire Distillery Farm Llc,Empire Distillery Farm ,1076 County Line Rd,Hamlin,NY,14464,0.0,0.0
+"Farm Distiller ""D""",Erie,Finan Distilling Company Llc,Tommyrotter Distillery,500 Seneca St-Ste 110,Buffalo,NY,14204,42.87766,-78.85712
+"Farm Distiller ""D""",Niagara,Niagara Craft Spirits Llc,Niagara Craft Spirits ,4408 Ridge Rd,Cambria,NY,14094,43.20694,-78.80236
+"Farm Distiller ""D""",Erie,Eight Buffalo Spirits Llc,Lockhouse Distillery,41 Columbia St,Buffalo,NY,14204,42.87358,-78.87253
+"Farm Distiller ""D""",Seneca,Lost Kingdom Brewery Inc,Fire House Distillery,7160 Main St,Ovid,NY,14521,42.677609999999994,-76.82307
+"Farm Distiller ""D""",Cattaraugus,Ellicottville Distillery Llc,Ellicottville Distillery ,5462 Robbins Rd,Ellicottville,NY,14731,42.31426,-78.61606
+"Farm Distiller ""D""",Yates,Jesse F Jayne & Jesse R Jayne,Barrington Distillers,5040 Bill Bailey Rd,Dundee,NY,14837,42.52048,-77.04601
+"Farm Distiller ""D""",Erie,Yoga Pants Vodkas Llc,Yoga Pants Vodkas ,75 Hayes Pl,Buffalo,NY,14210,42.870670000000004,-78.82688
+"Farm Distiller ""D""",Erie,Uncle Jumbos Distillery Inc,Uncle Jumbo'S Distillery,8510 Roll Rd,Clarence Center,NY,14032,43.00031,-78.67713
+"Farm Distiller ""D""",Schuyler,Damiani Wine Cellars Llc,Damiani Wine Cellars,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000001
+"Farm Distiller ""D""",Tioga,Waterman'S Distillery Llc,Waterman'S Distillery ,6172 State Rte 434,Apalachin,NY,13732,42.07845,-76.15908
+"Farm Distiller ""D""",Orleans,Pic Yer Poison Inc,Pic Yer Poison ,10984 W Yates Center Rd,Lyndonville,NY,14098,43.33619,-78.41199
+"Farm Distiller ""D""",Yates,Antler Run Distilling Llc,Antler Run Distilling ,3133 Antler Run Rd,Keuka Park,NY,14478,0.0,0.0
+"Farm Distiller ""D""",Erie,Gilded Buffalo Llc,Gilded Buffalo ,55 Chicago St,Buffalo,NY,14204,42.86996,-78.86867
+"Farm Distiller ""D""",Steuben,Urbana Hill Distilling And Brewing Llc,Cold Brook Distilling,8772 Main St,Campbell,NY,14821,42.22697,-77.17943000000001
+"Farm Distiller ""D""",Ontario,Hollerhorn Distilling Llc,Hollerhorn Distilling ,8443 Spirit Run,Naples,NY,14512,0.0,0.0
+"Farm Distiller ""D""",Seneca,Varick Winery & Vineyard Llc,Varick Winery & Vineyard ,5102 Rte 89,Romulus,NY,14541,42.7773,-76.77022
+"Farm Distiller ""D""",Erie,Barn Dog Craft Distilling Llc,Barn Dog Craft Distilling,1851 Four Rod Rd,E Aurora,NY,14052,42.83945,-78.53688000000001
+"Farm Distiller ""D""",Ontario,Sob Distillers Llc,Tuition Distilling Company,5310 North St,Canandaigua,NY,14424,42.90161,-77.30536
+Farm Winery,Suffolk,Whisper Vineyards Llc,Whisper Vineyards,"38355 Main Road, Rte 25",Peconic,NY,11958,41.03280669,-72.46419786
+Farm Winery,Montgomery,Kenneth M Schick,Hummingbird Hills Winery,1442 Burtonville Rd,Fultonville,NY,12072,0.0,0.0
+Farm Winery,Ontario,Bristol Valley Vineyards Inc,Bristol Valley Vineyards,7235 Lane Rd,Bloomfield,NY,14469,42.81807,-77.42628
+Farm Winery,Cayuga,Robert Dusseau & Stephen C Dusseau,Chateau Dusseau,5292 Erron Hill Rd,Locke,NY,13092,42.6644869,-76.39331171
+Farm Winery,Ulster,Weed Farms Inc,Weed Orchards & Winery,43 Mt Zion Rd,Marlboro,NY,12542,41.62262,-74.00142
+Farm Winery,Jefferson,Deluke Lawnscapes Inc,Northern Flow Vineyards,40635 Rte 12,Clayton,NY,13624,44.25558,-76.02875999999999
+Farm Winery,Suffolk,The Roanoke Vineyards Inc,Roanoke Vineyards,3543 Sound Avenue,Riverhead,NY,11901,,
+Farm Winery,Sullivan,Bashakill Vineyards Llc,Bashakill Vineyards ,1131 South Road,Wurtsboro,NY,12790,41.51467149,-74.53890551
+Farm Winery,Steuben,Agness Wine Cellars Llc,Agness Wine Cellars ,14157 W Lake Rd,Pulteney,NY,14840,42.5172,-77.15594
+Farm Winery,Cortland,Cherry Knoll Farm Llc,Cherry Knoll Farm ,3426 Hoxie Gorge Rd,Marathon,NY,13803,42.522378100000005,-76.04939564
+Farm Winery,Columbia,Wallace Raymond Tousey,Tousey Winery,1774 Rt 9,Germantown,NY,12526,,
+Farm Winery,Washington,Slyboro Cider House Llc,Slyboro Cider House ,18 Hicks Rd,Granville,NY,12832,43.41308132,-73.33153495
+Farm Winery,Rensselaer,Brookview Station Winery Llc,Brookview Station Winery At Goold Orchards,1297 Brookview Station Road,Castleton,NY,12033,42.53778169,-73.70583140000001
+Farm Winery,Ulster,Dubois Farms Corporation,Dubois Farms Corporation,209 Perkinsville Rd,Highland,NY,12528,41.68045,-73.96979
+Farm Winery,Ulster,Magnanini Farm Winery Inc,Magnanini Farm Winery ,172 Strawridge Road,Wallkill,NY,12589,41.59729174,-74.14999912
+Farm Winery,Jefferson,Thousand Islands Winery Llc,Thousand Islands Winery,43298 Seaway Ave Suite #1,Alexandria Bay,NY,13607,44.29304343,-75.98297363
+Farm Winery,Chautauqua,Concord Grape Belt Heritage Association Inc,Grape Discovery Center,8305 W Main Rd,Westfield,NY,14787,0.0,0.0
+Farm Winery,Putnam,Mysto Mead Llc,Mysto Mead ,187 Church Hill Rd,Carmel,NY,10512,41.50253,-73.68855
+Farm Winery,Ulster,Stoutridge Vineyard Llc,Stoutridge Vineyard ,10 Ann Kaley Lane,Marlboro,NY,12542,41.61330711,-73.97800285
+Farm Winery,Saratoga,"Fossil Stone Vineyards Llc, The",The Fossil Stone Vineyards,331 Grange Rd,Greenfield Center,NY,12833,43.10533,-73.85214
+Farm Winery,Ulster,Glorie Farm Winery Llc,Glorie Farm Winery ,40 Mountain Road,Marlboro,NY,12542,41.61751282,-74.01271556
+Farm Winery,Suffolk,Le Clos Therese Lp,Le Clos Therese Lp,Union Avenue,Aquebogue,NY,11931,0.0,0.0
+Farm Winery,Otsego,Fly Creek Cider Mill & Orchard Inc,Fly Creek Cider Mill & Orchard ,288 Goose Street,Fly Creek,NY,13337,42.72411349,-74.97969625
+Farm Winery,Oswego,Bella Fattoria Inc,Bella Fattoria Winery,180 Wiltsieville Rd,Hannibal,NY,13074,43.33723,-76.59281999999999
+Farm Winery,Orange,Oceane Vineyards Llc,Oceane Vineyards ,1661 Kings Hwy,Chester,NY,10918,41.32922,-74.28299
+Farm Winery,Schoharie,Kymar Farm Winery And Distillery Llc,Kymar Farm Winery,102 Bindery Ln,Charlotteville,NY,12036,42.54632,-74.66544
+Farm Winery,Ulster,Whitecliff Vineyard & Winery Llc,Whitecliff Vineyard & Winery,331 Mckinstry Rd,Gardiner,NY,12525,41.68531004,-74.20260749
+Farm Winery,Ulster,Nostrano Vineyards Llc,Nostrano Vineyards,14 Gala Ln,Milton,NY,12547,41.65034,-74.0039
+Farm Winery,Jefferson,Grindstone Island Winery Corp,Grindstone Island Winery Corp,42811 School House Rd,Clayton,NY,13624,44.28605,-76.0986
+Farm Winery,Suffolk,Castello Di Borghese Llc,Hargrave Vineyards,Rte 48 & Alvahs Ln,Cutchogue,NY,11935,0.0,0.0
+Farm Winery,Otsego,Heartsease Hill Llc,Heartsease Hill ,217 Pritchard Rd,W Winfield,NY,13491,42.82353,-75.22606
+Farm Winery,Orange,Palaia Vineyards Inc,Palaia Vineyards,20 Sweet Clover Road,Highland Mills,NY,10930,41.37886881,-74.10021487
+Farm Winery,Clinton,Joy K Herfurth,Olde Tyme Wine/Olde Tyme Winery,439 Brandy Brook Rd,Ellenburg Center,NY,12934,44.89385,-73.90004
+Farm Winery,Ulster,El Paso Winery Inc,El Paso Winery,742 Broadway,Ulster Park,NY,12487,41.85657453,-73.97002566
+Farm Winery,Yates,Glenora Wine Cellars Inc,Glenora Wine Cellars ,5435 Rte 14,Dundee,NY,14837,0.0,0.0
+Farm Winery,Ulster,Baldwin Vineyards Inc,Baldwin Vineyards ,176 Hardenburgh Rd,Pine Bush,NY,12566,41.62314189,-74.2940958
+Farm Winery,Lewis,White Caps Winery Llc,White Caps Winery,4051 Yancey Rd,Lowville,NY,13367,44.05807,-76.13804
+Farm Winery,Rensselaer,Easthollowciderandmead Llc,East Hollow Cider,332 E Hollow Rd,Petersburgh,NY,12138,42.73742,-73.30776999999999
+Farm Winery,Ulster,Richard C Eldridge,Brimstone Hill Vineyard,61 Brimstone Hill Road,Pine Bush,NY,12566,41.6270217,-74.3133948
+Farm Winery,Suffolk,Diliberto Winery Llc,Diliberto Winery ,260 Manor Lane,Jamesport,NY,11947,40.95744188,-72.58584208
+Farm Winery,Suffolk,Novel Contracting Inc,The Old Field Vineyards,59600 Main Rd,Southold,NY,11971,41.07195914,-72.41072851
+Farm Winery,Suffolk,Bedell North Fork Llc,Bedell Cellars,36225 Main Rd,Cutchogue,NY,11935,41.02837514,-72.46856412
+Farm Winery,Suffolk,Pugliese Vineyards Inc,Pugliese Vineyards,34876 Main Rd,Cutchogue,NY,11935,41.02637685,-72.47261832
+Farm Winery,Suffolk,J Petrocelli Wine Cellars Llc,Raphael,39390 Route 25,Peconic,NY,11958,41.03472573,-72.4607134
+Farm Winery,Orange,Pazdar Beverage Company Llc,Pazdar Beverage Company ,6 Laddie Rd,Middletown,NY,10941,41.46814259,-74.36269359
+Farm Winery,Orange,Applewood Winery Llc,Applewood Winery,82 Four Corners Rd,Warwick,NY,10990,41.29305502,-74.31564522
+Farm Winery,Schoharie,Ripple Stone Cidery Llc,Tory Kicker,316 Kniskern Rd,Middleburgh,NY,12122,42.4756,-74.41577
+Farm Winery,Yates,Tradewinds Wine Company Llc,Trestle 31,670 Rte 14,Penn Yan,NY,14527,42.73151,-76.97229
+Farm Winery,Dutchess,Clinton Vineyards Inc,Clinton Vineyards ,450 Schultzville Road,Clinton Corners,NY,12514,41.85022468,-73.77952672
+Farm Winery,Dutchess,Milea Estate Vineyard I Llc,Milea Estate Vineyard,46 Rymph Rd,Staatsburg,NY,12580,41.83166,-73.85461
+Farm Winery,Clinton,Four Maples Vineyard And Winery Inc,Four Maples Vineyard And Winery ,40 Gamlaw Rd,Champlain,NY,12919,44.99583,-73.41969
+Farm Winery,Seneca,Muranda Llc,Muranda Cheese Co,3075 Rte 96 S,Waterloo,NY,13165,42.87596,-76.85378
+Farm Winery,Dutchess,Cascade Mt Winery & Rest Llc,Cascade Mountain  Vineyards,835 Cascade Rd,Amenia,NY,12501,0.0,0.0
+Farm Winery,Yates,Tabora Farm & Winery Llc,Tabora Farm & Winery ,4978 Lakemont Himrod Rd,Dundee,NY,14837,42.52349,-76.92976
+Farm Winery,Ulster,Mid Esopus Beverage Company Llc,Shier Winery,439 Floyd Ackert Rd,West Park,NY,12493,0.0,0.0
+Farm Winery,Dutchess,Dutchess Wines Llc,Alison Wines & Vineyards,231 Pitcher Lane,Red Hook,NY,12571,,
+Farm Winery,Saratoga,"Saratoga Winery Inc, The","Saratoga Winery , The",462 Rte 29,Saratoga Springs,NY,12866,43.07463,-73.86346
+Farm Winery,Orange,Wild Arc Farm Inc,Wild Arc Farm ,918 Hill Ave,Pine Bush,NY,12566,41.5934,-74.27858
+Farm Winery,Dutchess,Elizabeth Ryan,Breezy Hill Orchard,828 Centre Rd,Staatsburg,NY,12580,41.8511374,-73.81389458
+Farm Winery,Suffolk,Oregon Road Wines Llc,Lieb Cellars,35 Cox Neck Rd,Mattituck,NY,11952,40.98868,-72.55463
+Farm Winery,Genesee,Circle B Winery Inc,Circle B Winery,6870 Norton Rd,Elba,NY,14058,43.08068,-78.1398
+Farm Winery,Rensselaer,Patriots Heritage Cider Llc,Patriots Heritage Cider ,60 E Schaghticoke Rd,Schaghticoke,NY,12154,42.88483,-73.57821
+Farm Winery,Suffolk,First Glass Winery And Tasting Room Inc,First Glass Winery And Tasting Room ,3165 Main Rd,Laurel,NY,11948,40.972609999999996,-72.5586
+Farm Winery,Onondaga,Four Grand Wine & Cidery Llc,Four Grand Wine & Cidery ,3275 Cold Springs Rd,Baldwinsville,NY,13027,43.14461,-76.28259
+Farm Winery,Dutchess,"Northern Spy Llc, The",Annandale Cidery; Montgomery Place Orchards,8 Davis Way,Annandale On Hudson,NY,12504,0.0,0.0
+Farm Winery,Cayuga,Bright Leaf Llc,Wilson Family Cellars/Bright Leaf Vineyard,1250 Clearview Rd,King Ferry,NY,13081,42.6589,-76.65742
+Farm Winery,Schoharie,Revolutionary Spirits Llc,Revolutionary Spirits ,132 The Long Road,Jefferson,NY,12093,0.0,0.0
+Farm Winery,Essex,Boquet Valley Vineyard Llc,Boquet Valley Vineyard ,44 Farm Way,Essex,NY,12936,44.29631,-73.35600000000001
+Farm Winery,Suffolk,Palmer Winery Ltd,Palmer Vineyards,5120 Sound Ave,Aquebogue,NY,11931,0.0,0.0
+Farm Winery,Suffolk,Pour Decisions Llc,Shinn Estate Vineyards,2000 Oregon Rd,Mattituck,NY,11952,41.015370000000004,-72.53201
+Farm Winery,Monroe,Blue Barn Cider Corp,Blue Barn Cidery/Pomona Events,928 Manitou Rd,Hilton,NY,14468,0.0,0.0
+Farm Winery,Suffolk,Channing Daughters Winery Llc,Channing Daughters,1927 Scuttlehole Rd,Bridgehampton,NY,11932,40.95953976,-72.30990134
+Farm Winery,Suffolk,Ibf Winery Llc,Martha Clara Vineyards,6149 Sound Ave,Riverhead,NY,11901,0.0,0.0
+Farm Winery,Columbia,"Chatham Berry Farm Llc, The","Chatham Berry Farm , The",288 Rte 21B,Valatie,NY,12184,42.37526,-73.63693
+Farm Winery,Greene,Win Vin Llc,The Vineyard At Windham,11 Mount View Estates Rd,Ashland,NY,12496,42.3357,-74.30548
+Farm Winery,Madison,Finntree Llc,The Apple Kitchen,3402 Old State Rd,Erieville,NY,13061,42.897009999999995,-75.77006999999999
+Farm Winery,Suffolk,Dorset Farms Inc,The Lenz Winery,38355 Route 25,Peconic,NY,11958,,
+Farm Winery,Oneida,Brimfield Farm Llc,Brimfield Farm Winery,8300 Brimfield St,Clinton,NY,13323,43.05092,-75.33568000000001
+Farm Winery,Schoharie,Middleburgh Winery Llc,Middleburgh Winery,2636 State Hwy 145,Middleburgh,NY,12122,42.61721,-74.34663
+Farm Winery,Schuyler,Finger Lakes Distilling Llc,Finger Lakes Distilling ,4676 Nys Route 414,Burdett,NY,14818,42.4602,-76.8636
+Farm Winery,Suffolk,Hank'S Orchard & Winery Llc,Hank'S Orchard & Winery ,149 Montauk Hwy,Water Mill,NY,11976,40.90106,-72.36923
+Farm Winery,Dutchess,Millbrook Winery Inc,Millbrook Winery ,26 Wing Rd,Millbrook,NY,12545,0.0,0.0
+Farm Winery,Suffolk,Pellegrini Vineyards Llc,Pellegrini Vineyards,23005 Main Road,Cutchogue,NY,11935,41.00157313,-72.49993778
+Farm Winery,Ulster,All Wise Llc,All-Wise,439 Floyd Ackert Rd,West Park,NY,12492,0.0,0.0
+Farm Winery,Suffolk,Macari Vineyards & Winery Ltd,Macari Vineyards & Winery ,150 Bergen Avenue,Mattituck,NY,11952,40.98644361,-72.56979277
+Farm Winery,Dutchess,Canoe Hill Vineyard Llc,Elysabeth Vineyards,309 Woodstock Rd,Millbrook,NY,12545,41.81796,-73.72568000000001
+Farm Winery,Suffolk,Gove Wines Inc,Gove Wines ,38355 Rte 25,Peconic,NY,11958,41.03676,-72.46826
+Farm Winery,Cayuga,Hard Pressed Cidery Llc,Hard Pressed Cidery ,8174 Grant Ave,Weedsport,NY,13166,43.0134,-76.50709
+Farm Winery,Delaware,Green Sun Orchard & Cidery Llc,Green Sun Orchard & Cidery ,7109 County Hwy 27,Trout Creek,NY,13847,,
+Farm Winery,Wayne,Sodus Bay Cider Llc,Sodus Bay Cider ,6246 Shaker Tract Rd,North Rose,NY,14516,43.22723,-76.94729
+Farm Winery,Suffolk,Anthony Nappa Wines Llc,Anthony Nappa Wines,39390 Main Rd,Peconic,NY,11958,41.03471,-72.46061999999999
+Farm Winery,Dutchess,Fishkill Farms Llc,Fishkill Farms,9 Fishkill Farm Rd,Hopewell Junction,NY,12533,0.0,0.0
+Farm Winery,Westchester,White Hill Orchards Inc,White Hill Vineyard,1335 White Hill Rd,Yorktown Heights,NY,10598,0.0,0.0
+Farm Winery,Dutchess,"Hudson Valley Cider Company Llc, The","Hudson Valley Cider Company , The",14 Rose Hill Farm,Red Hook,NY,12571,42.00801,-73.85144
+Farm Winery,Suffolk,Surrey Lane Llc,Surrey Lane Vineyard,46975 Rte 25,Southold,NY,11971,41.05135,-72.44115
+Farm Winery,Onondaga,Artisans And Curators Llc,Artisans And Curators ,2598 Nunnery Rd,Skaneateles,NY,13152,42.84758,-76.33553
+Farm Winery,Ulster,Maynard Farms Inc,Maynard Farms ,326 River Rd,Ulster Park,NY,12487,41.86314,-73.96368000000001
+Farm Winery,Suffolk,Cinque Family Wines Llc,Cinque Family Wines,22600 Main Rd,Cutchogue,NY,11935,41.00071,-72.50075
+Farm Winery,Suffolk,Rockwell Wines Llc,Rockwell Wines ,35 Cox Neck Rd,Mattituck,NY,11952,40.988479999999996,-72.55465
+Farm Winery,Saratoga,Long Road Winegrowers Llc,Galway Rock Vineyard And Winery,998 Ny 50,Ballston Lake,NY,12010,42.9369,-73.87441
+Farm Winery,Albany,100 Acre Wood Vineyard Llc,Clover Pond Vineyard,100 Mariposa Ln,Altamont,NY,12009,42.72486,-73.96396
+Farm Winery,Ulster,Fjord Vineyards Llc,Fjord Vineyards ,156 Highland Ave,Marlboro,NY,12542,41.59241,-73.98215
+Farm Winery,Ontario,Star Cider Llc,Star Cider ,3365 State Rte 364,Canandaigua,NY,14424,42.86634,-77.24983
+Farm Winery,Onondaga,Cox Family Llc,The Garden Cafe At Crazy Daisies,4693 Kasson Rd,Syracuse,NY,13215,42.99195,-76.26218
+Farm Winery,Oswego,Grace Tyler Estate Winery Llc,Grace Tyler Estate Winery ,1180 State Rte 49,Constantia,NY,13044,43.24637,-75.97801
+Farm Winery,Suffolk,Del Vino Vineyards Inc,Del Vino Vineyards ,29 Norwood Rd,Northport,NY,11768,40.9135,-73.32517
+Farm Winery,Suffolk,Red Tail Partners Llc,Onabay Vineyards,35 Cox Neck Rd,Mattituck,NY,11952,40.988479999999996,-72.55465
+Farm Winery,Suffolk,Carpe Vino Llc,Carpe Vino,35 Cox Neck Rd,Mattituck,NY,11952,40.988479999999996,-72.55465
+Farm Winery,Cayuga,Giancarelli Bros Winery Llc,Giancarelli Brothers Winery,10252 Shortcut Rd,Weedsport,NY,13166,43.11324711,-76.53488359999999
+Farm Winery,Cayuga,King Ferry Winery Inc,Treleaven,658 Lake Road,King Ferry,NY,13081,42.64995364,-76.63550140000001
+Farm Winery,Cayuga,Sterling Cidery Llc,Sterling Cidery ,14451 Richmond Ave,Fair Haven,NY,13064,43.31629,-76.70398
+Farm Winery,Chenango,Black Bear Farm Winery Inc,Black Bear Farm Winery ,248 County Rd 1,Chenango Forks,NY,13746,42.26276385,-75.82256445
+Farm Winery,Jefferson,Otter Creek Winery Llc,Otter Creek Winery,33109 Rudes Road,Philadelphia,NY,13673,44.19261719,-75.71096433
+Farm Winery,Chenango,Steven Merr,Magpie Farms,1849 Hwy 41,Bainbridge,NY,13733,,
+Farm Winery,Otsego,Bear Pond Inc,Bear Pond Winery,2515 State Highway 28,Oneonta,NY,13820,42.48784382,-74.97080511
+Farm Winery,Cayuga,Cjs Vineyards Llc,Cjs Vineyards,6900 Fosterville Rd,Auburn,NY,13022,42.95150618,-76.67038689
+Farm Winery,Onondaga,Beak & Skiff Apple Farms Inc,1911 Hard Cider,4472 Cherry Valley Tpke,Lafayette,NY,13084,42.90955195,-76.20104414
+Farm Winery,Oswego,"Leon, Leroy & Craig Hurlbut",Ashley Lynn Winery,4142 State Route 104,Mexico,NY,13114,43.47746411,-76.30488559
+Farm Winery,Broome,Lone Maple Farm Llc,Lone Maple Farm ,2001 Hawleyton Rd,Binghamton,NY,13903,42.06973103,-75.92295325
+Farm Winery,Delaware,Eminence Road Farm Winery Corp,Eminence Road Farm Winery,3734 Eminence Road,Long Eddy,NY,12760,41.89889631,-75.04983277
+Farm Winery,Jefferson,Coyote Moon Llc,Coyote Moon Vineyards,17371 County Route 3,Clayton,NY,13624,44.23821833,-76.01606704
+Farm Winery,Onondaga,Anyelas Vineyards Llc,Anyelas Vineyards,2433 West Lake Road,Skaneateles,NY,13152,42.88852278,-76.41435773
+Farm Winery,Chautauqua,Johnson Estate Winery Llc,Johnson Estate Winery ,8419 W Main Rd,Westfield,NY,14787,0.0,0.0
+Farm Winery,Cayuga,Heart & Hands Wine Company Inc,Heart & Hands Wine Company ,4162 State Route 90N,Union Springs,NY,13160,42.86764647,-77.23025679999999
+Farm Winery,Chautauqua,Donald M & Rosalind R Heinert,Blueberry Sky Farm Winery,10243 Ne Sherman Rd,Ripley,NY,14775,42.19483549,-79.7219879
+Farm Winery,Chautauqua,Merritt Estate Winery Inc,Merritt Estate Winery,2264 King Road,Forestville,NY,14062,42.48489792,-79.20887391
+Farm Winery,Schuyler,Diane G Buglion-Mannion,Rasta Ranch Vineyards,5882 Route 414,Hector,NY,14841,42.518640000000005,-76.87346098
+Farm Winery,Seneca,Lucas Vineyards Inc,Lucas Winery,3862 County Road 150,Interlaken,NY,14847,42.62885016,-76.71096469
+Farm Winery,Seneca,Shalestone Vineyards Llc,Shalestone Vineyards ,9681 Rte 414,Lodi,NY,14860,,
+Farm Winery,Seneca,Poplar Ridge Vineyards Inc,Poplar Ridge Vineyards ,9782 Route 414,Valois,NY,14841,42.55038848,-76.8693652
+Farm Winery,Ontario,Arbor Hill Associates Inc,Naples Valley Wine Cellars,6259 Hawks Rd,Naples,NY,14512,42.70738182,-77.38041815
+Farm Winery,Steuben,Yvonne Mary Warren,Crooked Lake Winery,14248 State Route 54,Hammondsport,NY,14840,42.48695773,-77.13045882
+Farm Winery,Seneca,Hosmer Inc,Hosmer; Brimfield Farm Cellars,6999 Route 89,Ovid,NY,14521,42.68557326,-76.74491981
+Farm Winery,Schuyler,Leidenfrost Vineyards Llc,Leidenfrost Vineyards ,5677 Route 414,Hector,NY,14841,42.508405200000006,-76.87651456
+Farm Winery,Seneca,Silver Thread Vineyard Llc,Silver Thread Vineyard,1401 Caywood Road,Lodi,NY,14860,42.56172009,-76.87833929
+Farm Winery,Steuben,Chateau Frank Inc,Chateau Frank ,9683 Middle Road,Hammondsport,NY,14840,42.47262948,-77.18357263
+Farm Winery,Seneca,Markan Corporation,Plane'S Cayuga Vineyard,6800 State Route 89,Ovid,NY,14521,42.69430203,-76.74426899
+Farm Winery,Niagara,Niagara Landing Wine Cellars Inc,Niagara Landing Wine Cellars ,4434 Van Dusen Rd,Lockport,NY,14094,43.191009,-78.80171479
+Farm Winery,Seneca,James Andrew Doolittle,Frontenac Point Vineyard,9501 Route 89,Trumansburg,NY,14886,42.56348408,-76.64709668
+Farm Winery,Schuyler,Red Newt Cellars Inc,Red Newt Cellars,3675 Tichenor Rd,Hector,NY,14841,42.50088782,-76.86811298
+Farm Winery,Seneca,Lamoreaux Landing Wine Cellars Llc,Lamoreaux Landing Wine,9224 Route 414,Lodi,NY,14860,42.57860189,-76.85718662
+Farm Winery,Seneca,Lakeshore Winery Inc,Lakeshore Winery,5132 Route 89,Romulus,NY,14541,42.77619937,-76.76969279
+Farm Winery,Seneca,G Thomas & Martha K Macinski,Standing Stone Vineyards,9934 Route 414,Hector,NY,14841,42.54473865,-76.87256149
+Farm Winery,Schuyler,Lakewood Vineyards Inc,Lakewood Vineyards,4024 State Route 14,Watkins Glen,NY,14891,42.86542759,-77.22088790000001
+Farm Winery,Seneca,Americana Vineyards & Winery Inc,Americana Vineyards & Winery ,4367 E Covert Rd,Interlaken,NY,14847,42.57546848,-76.67770300000001
+Farm Winery,Seneca,Swedish Hill Vineyard Inc,Goose Watch Winery,5480 Route 89,Romulus,NY,14541,42.75869258,-76.77027273
+Farm Winery,Seneca,Wagner Winery Llc,Wagner Vineyards,9322 Route 414,Lodi,NY,14860,42.57353499,-76.85819852
+Farm Winery,Suffolk,Ospreys Dominion Vineyards Ltd,Ospreys Dominion Vineyards ,44075 Main Rd,Peconic,NY,11958,0.0,0.0
+Farm Winery,Seneca,Bartons Hard Cider Llc,Bellwether Hard Cider,9070 Route 89,Trumansburg,NY,14886,42.58580915,-76.67245576
+Farm Winery,Livingston,Deer Run Enterprises Inc,Deer Run Winery,3772 W Lake Rd,Geneseo,NY,14454,42.82325628,-77.71606877
+Farm Winery,Niagara,Appleton Creek Winery Llc,The Winery At Marjim Manor,7171 E Lake Rd,Appleton,NY,14008,43.34785782,-78.63884121
+Farm Winery,Yates,Alan D Hunt,Yates Cellars,3170 Route 54A,Bluff Point,NY,14478,42.60578649,-77.11703082
+Farm Winery,Yates,Fulkerson Wine Cellars Llc,Fulkerson Wine Cellars,5576 Route 14,Dundee,NY,14837,42.49321166,-76.92406072
+Farm Winery,Seneca,Thirsty Owl Wine Company Inc,Thirsty Owl Wine Company,6799 Elm Beach Road,Ovid,NY,14521,42.69271231,-76.74525076
+Farm Winery,Yates,Hunt Country Vineyards Llc,Hunt Country Vineyards,4021 Italy Hill Rd,Branchport,NY,14418,42.59852621,-77.17255777
+Farm Winery,Schuyler,Atwater Estate Vineyards Llc,Atwater Estate Vineyards ,5055 Rte 414,Burdett,NY,14818,42.47915893,-76.86938070000001
+Farm Winery,Ontario,Sonnenberg Gardens,Finger Lakes Wine Center,151 Charlotte St,Canandaigua,NY,14424,42.89763257,-77.27551224
+Farm Winery,Yates,Prejean Winery Inc,Prejean,561 Leach Rd,Penn Yan,NY,14527,42.63854422,-76.94405214
+Farm Winery,Yates,Miles Wine Cellars Llc,Miles Wine Cellars ,168 Randall Crossing Road,Himrod,NY,14842,42.61705161,-76.92233320000001
+Farm Winery,Schuyler,John Richard Tamburello,Glenhaven Farm,6121 Sirrine Road,Trumansburg,NY,14886,42.50525101,-76.70923988
+Farm Winery,Yates,Seneca Shore Winery Inc,Seneca Shore Wine Cellars,929 Davy Rd,Penn Yan,NY,14527,42.71562854,-76.97160492
+Farm Winery,Schuyler,Silver Springs Winery Llc,Silver Springs Winery,4408 Route 414,Burdett,NY,14818,42.44693097,-76.86385095
+Farm Winery,Yates,Keuka Spring Vineyards Llc,Keuka Spring Vineyards,243 Route 54 East Lake Rd,Penn Yan,NY,14527,42.629201,-77.07081518
+Farm Winery,Niagara,Honeymoon Trail Winery Llc,Honeymoon Trail Winery,4120 Ridge Rd,Lockport,NY,14094,43.20348012,-78.81880869
+Farm Winery,Seneca,Varick Winery & Vineyard Llc,Varick Winery & Vineyard ,5102 Rte 89,Romulus,NY,14541,42.77757904,-76.76979976
+Farm Winery,Yates,Steven D Shaw,Shaw Vineyard,3901 State Route 14 Unit 2,Himrod,NY,14842,42.57644198,-76.92979025
+Farm Winery,Yates,Villa Bell'Angelo Llc,Villa Bellangelo,150 Poplar Point Rd,Dundee,NY,14837,42.565266799999996,-76.9178728
+Farm Winery,Seneca,Martins Honey Farm & Meadery Llc,Montezuma Winery,2981 Auburn Rd,Seneca Falls,NY,13148,42.954849100000004,-76.75689926
+Farm Winery,Yates,Kenneth F & Eileen M Farnan,Bc Farm Wnry & Barrington Cellars,2690 Gray Road,Penn Yan,NY,145279554,42.54938387,-77.08509204
+Farm Winery,Schuyler,Damiani Wine Cellars Llc,Damiani Wine Cellars,5281 Peach Orchard Rd,Hector,NY,14841,42.49550126,-76.88101981
+Farm Winery,Yates,Rock Stream Vineyards Llc,Rock Stream Vineyards,378 Allen Road,Rock Stream,NY,14878,42.48056616,-76.93888696
+Farm Winery,Schuyler,Bloomer Creek Inc,Bloomer Creek Vineyard,5301 Sr 414,Hector,NY,14841,42.49044898,-76.86989832
+Farm Winery,Monroe,Vino Corporation,Mayers Lake Ontario Winery,1593 Hamlin Parma Town Line Rd,Hilton,NY,14468,43.28990923,-77.83144920000001
+Farm Winery,Yates,Anthony Road Wine Co Inc,Anthony Road Wine Co ,1020 Anthony Rd,Penn Yann,NY,14527,42.70573357,-76.97529167
+Farm Winery,Wayne,Thorpe Vineyard Inc,Thorpe Vineyard,8150 Chimney Heights Blvd,Wolcott,NY,14590,43.29143389,-76.89957795
+Farm Winery,Schuyler,Break Neck Creek Vineyards Llc,Catharine Valley,4201 State Route 414,Burdett,NY,14818,42.43639683,-76.8632498
+Farm Winery,Yates,East Branch Winery Inc,Mcgregor Vineyard,5503 Dutch Street,Dundee,NY,14837,42.49916597,-77.10200053
+Farm Winery,Chautauqua,Sparkling Ponds Winery Llc,Sparkling Ponds Winery ,10661 W Lake Road,Ripley,NY,14775,42.2690361,-79.75421839
+Farm Winery,Steuben,Azure Hill Winery Inc,Azure Hill Winery,8716 Gallagher Road,Hammondsport,NY,14840,42.49809848,-77.18248984
+Farm Winery,Yates,Frost Wines Llc,Hermann J Wiemer Vineyard,3962 Route 14,Dundee,NY,14837,42.5738196,-76.92803737
+Farm Winery,Ontario,5 Kinder Farm Llc,Inspire Moore Winery And Vineyard,197 N Main St,Naples,NY,14512,42.62553343,-77.39525442
+Farm Winery,Suffolk,Brooklyn Winery Llc,Brooklyn Winery ,35 Cox Neck Rd,Mattituck,NY,11952,40.98857499,-72.55385008
+Farm Winery,Yates,Sdmd Enterprises Llc,Magnus Ridge Winery,5900 State Route 14,Rock Stream,NY,14878,42.47821395,-76.92393943
+Farm Winery,Niagara,Eveningside Inc,Eveningside Vineyards,4788 Lower Mountain Road,Cambria,NY,14094,43.18270458,-78.78134286
+Farm Winery,Chautauqua,Liberty Vineyards Llc,Liberty Vineyards And Winery,2861 Route 20,Sheridan,NY,14135,42.48329586,-79.24692928
+Farm Winery,Niagara,A Gust Of Sun Llc,A Gust Of Sun,4515 Baer Rd,Ransomville,NY,14131,43.19419926,-78.85549166
+Farm Winery,Niagara,James T Baker & Kathleen M Baker,Chateau Niagara Winery,2466 W Creek Road,Newfane,NY,14108,43.29584814,-78.71462506
+Farm Winery,Seneca,Three Brothers Wineries & Estates Llc,Stony Lonesome Wine Cellars/Passion Feet Vineyards,623 Lerch Rd,Geneva,NY,14456,42.82041009,-76.92284593
+Farm Winery,Steuben,Keuka Lake Vineyards Ltd,Keuka Lake Vineyards ,8872 8882 County Route 76,Hammondsport,NY,14840,42.43075657,-77.20137258
+Farm Winery,Ontario,Raymor Estate Cellars Llc,Raymor Estate Cellars,3263 Wheeler Station Rd,Bloomfield,NY,14469,42.86871667,-77.38008917
+Farm Winery,Seneca,Zugibe Enterprises Llc,Zugibe Vineyards,4277 E Lake Road,Geneva,NY,14456,42.81545765,-76.93139539
+Farm Winery,Seneca,Belhurst Estate Winery Inc,Belhurst Estate Winery ,5525 E Lake Road,Romulus,NY,14541,42.75760688,-76.92116014
+Farm Winery,Orleans,Schwenk Wine Cellars Llc,Schwenk Wine Cellars Mallard Point Vineyards,1456 Bills Road,Kent,NY,14477,43.34537452,-78.14963688
+Farm Winery,Schuyler,Sawmill Creek Estate Llc,"Hector Wine Company, The",5610 Nys Route 414,Hector,NY,14841,42.50393615,-76.87496829
+Farm Winery,Niagara,Martin & Ann Schulze,Schulze Vineyards & Winery,2090 Coomer Rd,Burt,NY,14028,43.31587098,-78.73990546
+Farm Winery,Yates,Black Walnut Vineyards Llc,Serenity Vineyards,930 Davy Road,Penn Yan,NY,14527,42.71573492,-76.97171802
+Farm Winery,Ontario,Billsboro Vineyards And Winery Llc,Billsboro Winery,4760 W Lake Road,Geneva,NY,14456,42.79820984,-76.97776425
+Farm Winery,Schuyler,Peter Glenn Oughterson,Highland Cellars,1556 Altay Road,Rock Stream,NY,14878,0.0,0.0
+Farm Winery,Chemung,Autumn Stoscheck,Eve'S Cidery,308 Beckhorn Hollow Road,Van Etten,NY,14889,,
+Farm Winery,Wayne,Long Acre Farms Llc,Jd Wine Cellars,1342 Eddy Rd,Macedon,NY,14502,43.11628143,-77.31358041
+Farm Winery,Schuyler,Ryan William Vineyard And Winery Llc,Ryan William Vineyard,5247 State Route 414,Hector,NY,14841,42.48776544,-76.87020304
+Farm Winery,Chautauqua,K E V Inc,Quincy Cellars,10606 W Main Rd,Ripley,NY,14775,42.24897991,-79.74937729
+Farm Winery,Chautauqua,Alton Lenox Noble,Noble Winery,8630 Hardscrabble Rd,Westfield,NY,14787,42.29162457,-79.62167479
+Farm Winery,Niagara,Victorianbourg Wine Estate Ltd,Victorianbourg Wine Estate,4402 E Lake Road,Wilson,NY,14172,43.32280138,-78.79990702
+Farm Winery,Suffolk,Lav Cor Agricultural Inc,Peconic Bay Winery,31320 Main Rd Po Box 818,Cutchogue,NY,11935,41.01796237,-72.48123401
+Farm Winery,Schuyler,Little House Food And Beverage Llc,Little House Food And Beverage ,4115 Newtown Road,Burdett,NY,14818,,
+Farm Winery,Wayne,Young Sommer Winery Llc,Young Sommer Winery,4287 Jersey Road,Williamson,NY,14589,43.2558156,-77.17689462
+Farm Winery,Orleans,Leonard Oakes Estate Winery Inc,Leonard Oakes Estate,11540 Platten Road,Lyndonville,NY,14098,43.32129211,-78.37627044
+Farm Winery,Ontario,Song Hill Winery Llc,Song Hill Winery ,521 County Rd 9,Victor,NY,14564,43.01403307,-77.39854334
+Farm Winery,Steuben,Domaine Leseurre Llc,Domaine Leseurre ,13920 State Rte 54,Hammondsport,NY,14840,42.48484501,-77.13904399
+Farm Winery,Seneca,Toro Run Winery Llc,Toro Run Winery ,3050 Swick Rd,Ovid,NY,14521,42.726434000000005,-76.76250552
+Farm Winery,Wayne,Keg Rag Cellar Llc,Keg Rag Cellar ,5630 Norris Rd,North Rose,NY,14516,43.20515,-76.93312
+Farm Winery,Orleans,Alexander R Salamaca,Salamaca Estate Winery,2660 Hindsburg Rd,Albion,NY,14411,43.28656325,-78.10523640000001
+Farm Winery,Chautauqua,Olde Chautauqua Vineyards Llc,Twentyone Brix Winery,6654 W Main Rd,Portland,NY,14769,42.36901049,-79.49021924
+Farm Winery,Tioga,Glen Park Vineyards Llc,Glen Park Vineyards ,633 Allen Glen Rd,Owego,NY,13827,42.122679999999995,-76.25686999999999
+Farm Winery,Steuben,Heron Hill Vineyards Inc,Heron Hill Winery,9301 County Rte 76,Hammondsport,NY,14840,42.45348038,-77.19815711
+Farm Winery,Suffolk,Laurel Lake Vineyard Ltd,Laurel Lake Vineyard ,3165 Main Rd Rt 25,Laurel,NY,11948,40.97187067,-72.55797495
+Farm Winery,Yates,Todd W Eichas & Dani A Eichas,New Vines Bed & Breakfast,1138 Travis Rd,Penn Yan,NY,14527,42.71526846,-76.98578154
+Farm Winery,Yates,Monello Llc,Monello ,701 State Route 14,Penn Yan,NY,14527,42.73109527,-76.9714795
+Farm Winery,Schuyler,S Bronstein Estates Llc,Barnstormer Winery,4184 Rte 14,Rock Stream,NY,14878,42.43467294,-76.90726842
+Farm Winery,Seneca,Boundary Breaks Llc,Boundary Breaks ,1428 Porter Covert Rd,Lodi,NY,14860,42.6298236,-76.87132041
+Farm Winery,Westchester,Brothers Covino Llc,Brothers Covino ,130 Hardscrabble Rd,North Salem,NY,10560,41.34954914,-73.63471700000001
+Farm Winery,Schuyler,Flwc Vineyards Inc,Chateau Lafayette Reneau,5081 Route 414,Hector,NY,14841,42.48132432,-76.86978658
+Farm Winery,Yates,Vineyard View Winery Llc,Vineyard View Winery,2971 Williams Hill Rd,Keuka Park,NY,14478,42.62327888,-77.10082872
+Farm Winery,Ontario,Forking Paths Vineyards Inc,Ravines Wine Cellars,400 Barracks Rd,Geneva,NY,14456,42.57644198,-76.92979025
+Farm Winery,Yates,Johannes J Reinhardt,Kemmeter Wines,1020 Anthony Rd,Penn Yan,NY,14527,42.70578839,-76.9752953
+Farm Winery,Niagara,Donovan Orchards Llc,Black Bird Ciderworks,8503 Lower Lake Rd,Barker,NY,14012,43.36347836,-78.55987257
+Farm Winery,Niagara,Midnight Run Wine Cellars Llc,Midnight Run Wine Cellars,3301 Braley Rd,Ransomville,NY,14131,43.26414734,-78.86514688
+Farm Winery,Suffolk,Loughlin Vineyards Inc,Loughlin Vineyards,South Main St,Sayville,NY,11782,,
+Farm Winery,Chautauqua,Robert Mazza Inc,Mazza Chautauqua Cellars,8398 W Rte 20,Westfield,NY,14787,42.30823259,-79.60389676
+Farm Winery,Seneca,Kelley Oneill,Randolph O'Neill Vineyard,6965 Rte 89,Ovid,NY,14521,42.68659411,-76.74505515
+Farm Winery,Yates,Point Of The Bluff Vineyard Llc,Point Of The Bluff Vineyard ,8524 Broadview Heights,Keuka Park,NY,14478,0.0,0.0
+Farm Winery,Schuyler,Castel Grisch Management Llc,Castel Grisch,3380 County Rte 28,Watkins Glen,NY,14891,42.39728287,-76.90541121
+Farm Winery,Steuben,Michelle M Hartman,Deep Root Vineyard,10391 Cross St,Hammondsport,NY,14840,42.50630711,-77.16409032
+Farm Winery,Yates,Red Tail Ridge Inc,Red Tail Ridge Winery,846 St Rte 14,Penn Yan,NY,14527,42.722829,-76.97295618
+Farm Winery,Wayne,Celk Distilling Llc,"Apple C'Ntry Spirits, Silverback Dist, Rootstock",3274 Eddy Rd,Williamson,NY,14589,43.2021,-77.2235
+Farm Winery,Yates,Fox Run Vineyards Inc,Fox Run,670 Route 14,Penn Yan,NY,14527,42.73237559,-76.97180406
+Farm Winery,Suffolk,North House Vineyards Inc,Jamesport Vineyards,Main Road Route 25,Jamesport,NY,11947,0.0,0.0
+Farm Winery,Seneca,Robin'S Vines Llc,Buttonwood Grove Winery,5986 State Rte 89,Romulus,NY,14541,42.734559999999995,-76.76762
+Farm Winery,Ontario,Lacey Magruder Vineyard & Winery Inc,Lacey Magruder Vineyard & Winery ,462 Armstrong Rd,Geneva,NY,14456,42.80111647,-76.99710055
+Farm Winery,Suffolk,Influence Wines Llc,Influence Wines,35 Cox Neck Rd,Mattituck,NY,11952,40.98857499,-72.55385008
+Farm Winery,Erie,Richard J Byington & Russell J Byington,Savage Winery,11300 Savage Rd,Chaffee,NY,14030,42.57245774,-78.51466859
+Farm Winery,Seneca,Sheldrake Point Vineyard Llc,Sheldrake Point Vineyard & Winery,7448 County Rd 153,Ovid,NY,14521,42.66377164,-76.70074879
+Farm Winery,Onondaga,Robert Mattucci,Stone Age Winery,1013 Tulip St,Liverpool,NY,13088,43.11035652,-76.20594106
+Farm Winery,Chemung,Stoneyridge Orchard & Winery Llc,Stoneyridge Orchard & Winery ,160 Bixby Rd,Erin,NY,14838,42.15932566,-76.66190767
+Farm Winery,Niagara,Long Cliff Vineyard & Winery Inc,Long Cliff Vineyard & Winery ,3617 Lower Mountain Rd,Sanborn,NY,14132,43.17664061,-78.84656426
+Farm Winery,Genesee,Potoczak Bee Farms Inc,Midgard Winery,541 Bell Rd,Corfu,NY,14036,42.92832532,-78.44193258
+Farm Winery,Ontario,"New York State Wine And Culinary Center Inc, The",New York Kitchen,800 S Main St,Canandaigua,NY,14424,42.87631642,-77.27314285
+Farm Winery,Schuyler,Flatt Rock Wine Cellars Llc,Flatt Rock,5835 Spirawk Rd,Hector,NY,14841,0.0,0.0
+Farm Winery,Genesee,Black Creek Cidery Llc,Black Creek Cidery ,6885 Warboys Rd,Byron,NY,14422,43.11138,-78.02586
+Farm Winery,Tioga,Richford Hill Winery Llc,Richford Hill Winery ,600 Payne Marsh Rd,Richford,NY,13835,42.363929999999996,-76.18513
+Farm Winery,Ontario,Empire Cider Company Llc,Empire Cider Center/The Cider Lab,500 Technology Farm Dr,Geneva,NY,14456,42.87236,-77.00827
+Farm Winery,Schuyler,Forge Cellars Llc,Forge Cellars ,5610 State Rte 414,Hector,NY,14841,42.50527,-76.87571
+Farm Winery,Suffolk,Jemco Winery Associates Inc,Kontokosta Winery,825 North Rd,Greenport,NY,11944,41.11500925,-72.36518108
+Farm Winery,Suffolk,Wolffer Estate Vineyard Inc,Wolffer Estate Vineyard,139 Sagg Rd,Sagaponack,NY,11962,40.94457831,-72.27877567
+Farm Winery,Suffolk,Duck Walk Vineyards Inc,Duck Walk Vineyards ,231 Montauk Hgwy,Water Mill,NY,11976,40.90269679,-72.36565353
+Farm Winery,Suffolk,Woodside Orchards Inc,Woodside Orchards ,729 Main Rd,Aquebogue,NY,11931,40.94708151,-72.61840824
+Farm Winery,Yates,"Cool Climate Wine Group Llc, The","Cool Climate Wine Group , The",491 State Rte 54,Penn Yan,NY,14527,42.592240000000004,-77.07731
+Farm Winery,Schuyler,Osmote Wine Llc,Osmote Wine ,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000001
+Farm Winery,Suffolk,Reilly Cellars Llc,Reilly Cellars ,37025 Main Rd,Cutchogue,NY,11935,41.14985199,-72.25584391
+Farm Winery,Seneca,Knapp Farms Inc,Knapp Winery & Vineyard Restaurant,2770 County Rd 128,Romulus,NY,14541,0.0,0.0
+Farm Winery,Niagara,Patrick Vaughn Incorporated,Liten Buffel,8822 Pearson Rd,Middleport,NY,14105,43.22784,-78.54269000000001
+Farm Winery,Suffolk,Mattebella Vineyards Holding Company Llc &,Mattebella Vineyards -Dba Mattebella Vineyards,46005 Route 25,Southold,NY,11971,41.04908631,-72.44433876
+Farm Winery,Ontario,Wicked Water Llc,Wicked Water ,479 Castle St,Geneva,NY,14456,42.87007,-76.99714
+Farm Winery,Suffolk,Paumanok Vineyards Ltd,Paumanok Vineyards ,1074 Main Rd,Aquebogue,NY,11931,0.0,0.0
+Farm Winery,Ulster,Tuthilltown Spirits Llc,Tuthilltown Spirits,14 Gristmill Lane,Gardiner,NY,12525,41.68762751,-74.17506834
+Farm Winery,Seneca,Finger Lakes Cider House Llc,Good Life Cider,4017 Hickok Rd,Interlaken,NY,14847,42.6066,-76.69986999999999
+Farm Winery,Suffolk,Ecm Llc,Gramercy Vineyards,9650 Sound Ave,Mattituck,NY,11952,40.9877842,-72.54525087
+Farm Winery,Tompkins,South Hill Cider Llc,South Hill Cider,560 W King Rd,Ithaca,NY,14850,42.39193,-76.52275
+Farm Winery,Niagara,Vizcarra Family Vineyards Llc,Vizcarra Family Vineyards At Becker Farms,3724 Quaker Rd,Gasport,NY,14067,43.22487,-78.55832
+Farm Winery,Livingston,Old Stumpblower Cider Works Llc,Original Stump Blower Ciderworks; Osb Ciderworks,5901 Big Tree Rd,Lakeville,NY,14480,42.83573,-77.69866999999999
+Farm Winery,Suffolk,East Farm Llc,Harmony Vineyards,38355 Route 25,Peconic,NY,11958,41.03280669,-72.46419786
+Farm Winery,Suffolk,Sanninos Bella Vita Vineyard Llc,Sanninos Bella Vita Vineyard ,1375 Peconic Ln,Peconic,NY,11958,41.04407112,-72.45828368
+Farm Winery,Tompkins,Six Mile Enterprises Llc,Six Mile Creek Vineyard,1551 Slaterville Rd,Ithaca,NY,14850,42.41575,-76.45534
+Farm Winery,Monroe,Gallery Vineyards Llc,Gallery Vineyards,1200 Honeoye Falls No 6 Rd,Honeoye Falls,NY,14472,0.0,0.0
+Farm Winery,Suffolk,Nofo Wine Co Llc,Coffee Pot Cellars,44075 Main Rd,Peconic,NY,11958,41.04481393,-72.45020645
+Farm Winery,Suffolk,Simcha Cellars Llc,Suhru Wines,35 Cox Neck Road,Mattituck,NY,11952,40.988538899999995,-72.55390546
+Farm Winery,Seneca,Black Diamond Farm Llc,Black Diamond Farm ,4675 Seneca Rd,Trumansburg,NY,14886,42.54784,-76.65655
+Farm Winery,Livingston,Janstan Vineyards Llc,Janstan Vineyards,6442 Stagecoach Rd,Conesus,NY,14435,42.70685,-77.67581
+Farm Winery,Suffolk,Walker/Mccall Llc,Mccall Ranch,22600 Main Rd,Cutchogue,NY,11935,41.00054826,-72.50118561
+Farm Winery,Suffolk,Macari Vineyards & Winery Ltd,Macari Vineyards & Winery ,24385 Main Road,Cutchogue,NY,11935,41.00424412,-72.49591207
+Farm Winery,Yates,Ck Cellars Llc,Torrey Ridge Winery Earle Estates Meadery,2770 Rte 14,Penn Yan,NY,14527,42.628820000000005,-76.94870999999999
+Farm Winery,Tompkins,Bet The Farm Inc,Bet The Farm,4204 Krums Corners Rd,Trumansburg,NY,14886,42.501529999999995,-76.57439000000001
+Farm Winery,Niagara,Blackman Homestead Llc,Blackman Cider Co,4472 Thrall Rd,Lockport,NY,14094,43.17125,-78.79788
+Farm Winery,Suffolk,Baiting Hollow Farm Vineyard Llc,Baiting Hollow Farm Vineyard ,2114 Sound Avenue,Baiting Hollow,NY,11933,40.95583792,-72.75520764
+Farm Winery,Steuben,Wild Brute Winery Llc,"The Brute, A Finger Lakes Focused Wine Bar",8629 Oak Hill Rd,Arkport,NY,14807,42.42025,-77.68701999999999
+Farm Winery,Seneca,Sam Andrews Winery Llc,Shepherdess Cellars,8189 Ny Route 89,Interlaken,NY,14847,42.62816,-76.70004
+Farm Winery,Monroe,Five Sons Winery Inc,Five Sons Winery,1356 W Sweden Rd,Brockport,NY,14420,43.151509999999995,-77.98151999999999
+Farm Winery,Chautauqua,Sheridan Wine Company Inc,Willow Creek Winery,2627 Chapin Rd,Silver Creek,NY,14136,42.5119,-79.23221
+Farm Winery,Suffolk,Four Crows Inc,Croteaux,1450 South Harbor Road,Southold,NY,11971,41.04495374,-72.43887656
+Farm Winery,Yates,Stever Hill Vineyards Llc,Stever Hill Vineyards ,4019 Stever Hill Rd,Branchport,NY,14418,0.0,0.0
+Farm Winery,Suffolk,Harbes Family Vineyard Llc,Harbes Family Winery,715 Sound Avenue,Mattituck,NY,11952,40.98584692,-72.57904499
+Farm Winery,Yates,Patriot Wines Inc,Patriot Wines,2324 Cortlandt Rd,Milo,NY,14527,42.6312,-77.06335
+Farm Winery,Suffolk,Brooklyn Oenology Llc,Brooklyn Oenology ,35 Cox Neck Road,Mattituck,NY,11952,40.988538899999995,-72.55390546
+Farm Winery,Suffolk,East End Vineyards Llc,East End Vineyards ,1935 Main Road,Jamesport,NY,11947,42.52558916,-79.17462590000001
+Farm Winery,Suffolk,North Fork Wines & Vineyards Llc,North Fork Wines & Vineyards ,19110 Soundview Avenue,Southold,NY,11971,41.08581274,-72.42609957
+Farm Winery,Suffolk,Baiting Hollow Farm Vineyard Llc,Baiting Hollow Farm Vineyard ,35 Cox Neck Road,Mattituck,NY,11952,40.988538899999995,-72.55390546
+Farm Winery,Steuben,Forking Paths Vineyards Inc,Ravines Wine Cellars,10110 Hyatt Hill Rd,Dundee,NY,14837,42.4886,-77.11363
+Farm Winery,Suffolk,Medolla Vineyards Llc,Medolla Vineyards ,Route 25 Main St,Peconic,NY,11958,0.0,0.0
+Farm Winery,Suffolk,Grapes Of Roth Llc,Grapes Of Roth ,139 Sagg Rd,Sagaponack,NY,11962,40.94482211,-72.27886967
+Farm Winery,Chautauqua,Sprague Vineyards Llc,Sprague Vineyards ,778 Versailles Rd,Silver Creek,NY,14136,42.51507,-79.11832
+Farm Winery,Suffolk,Le Clos Therese Lp,Le Clos Therese Lp,35 Cox Neck Road,Mattituck,NY,11952,40.988538899999995,-72.55390546
+Farm Winery,Nassau,"Sparkling Pointe, Llc.","Sparkling Pointe, .",39750 County Road 48,Southold,NY,11971,41.06116707,-72.44540766
+Farm Winery,Washington,Victory View Vineyard Llc,Victory View Vineyard,11975 State Rte 40,Schaghticoke,NY,12154,43.00660858,-73.54858401
+Farm Winery,Washington,Oliva Vineyards Llc,Oliva Vineyards,2074 Rte 4,Fort Edward,NY,12828,,
+Farm Winery,Schenectady,Helderberg Meadworks Llc,Helderberg Meadworks ,990 W Duane Lake Rd,Duanesburg,NY,12056,42.74608541,-74.11592039
+Farm Winery,Schuyler,Valkyrie Crafted Libations Inc,Valkyrie Crafted Libations ,4732 Rte 414,Burdett,NY,14818,42.46233,-76.86494
+Farm Winery,Ulster,Kettleborough Cider House Llc,Kettleborough Cider House ,277 State Route 208,New Paltz,NY,12561,41.714467,-74.11107939
+Farm Winery,Rockland,Torne Valley Vineyards Llc,Torne Valley Vineyards ,3 Torne Brook Rd,Hillburn,NY,10931,41.14063801,-74.16588414
+Farm Winery,Onondaga,Greenwood Winery Llc,Greenwood Winery & Bistro,6475 Collamer Rd,East Syracuse,NY,13057,43.10152932,-76.07301559
+Farm Winery,Sullivan,Aaron Burr Cidery Llc,The Cidery,2251 State Route 209,Wurtsboro,NY,12790,41.53299976,-74.5386392
+Farm Winery,Ulster,Leonardo F Busciglio,Woodstock Winery,395 Wittenberg Rd,Bearsville,NY,12409,42.02602032,-74.19275068
+Farm Winery,Saratoga,Richard F Green,Ballston Lake Apiaries,177 Ashdown Rd,Ballston Lake,NY,12019,42.9041626,-73.86559872
+Farm Winery,Steuben,Flx Grapes Llc,Flx Grapes ,10014 Day Rd,Hammondsport,NY,14840,42.485,-77.13746
+Farm Winery,Orange,Christopher Jacobs Winery At Pennings Vineyards Ll,Christopher Jacobs Winery At Pennings Vineyards,320 Crawford St,Pine Bush,NY,12566,41.59897702,-74.35027259
+Farm Winery,Onondaga,Loa Mar Group Llc,Montfredy Brook,3472 Amber Rd,Syracuse,NY,13215,42.94422926,-76.27584993
+Farm Winery,Ulster,Robibero Family Vineyards Llc,Robibero Family Vineyards ,714 Albany Post Rd,Gardiner,NY,12561,41.71350205,-74.16044978
+Farm Winery,St Lawrence,Bella-Brooke Vineyard Llc,Bella-Brooke Vineyard ,2989 Cr 6,Hammond,NY,13646,44.51024909,-75.61584871
+Farm Winery,Wayne,Thomas W Robinson Jr,Robinson Estates,3079 Cambier Rd,Newark,NY,14513,43.11736,-77.14678
+Farm Winery,Jefferson,"Cape Winery Llc, The",The Cape Winery,2066 Deerlick Rd,Cape Vincent,NY,13618,44.1050488,-76.32817679
+Farm Winery,Erie,Lilly Belle Meads Llc,Lilly Belle Meads ,6281 Broadway St,Lancaster,NY,14086,42.8913,-78.60046
+Farm Winery,Clinton,Mary G Fortin & Gilles M Fortin,Amazing Grace Vineyard & Winery,9839 Route 9,Chazy,NY,12921,44.90176411,-73.43645813
+Farm Winery,Clinton,Vesco Ridge Vineyards Llc,Vesco Ridge Vineyards ,167 Stratton Hill Rd,West Chazy,NY,12992,44.8172525,-73.44193152
+Farm Winery,Orange,Francis J Graessle And Karen M Graessle,Clearview Vineyard,35 Clearview Ln,Warwick,NY,10990,41.3021545,-74.34624336
+Farm Winery,Oneida,Vino Verona Llc,Villa Verona Vineyard,4914 State Rte 365,Verona,NY,13478,43.09981655,-75.61469167
+Farm Winery,Lewis,North Country Landscaping & Nursery Inc,Tug Hill Vineyards,4051 Yancey Road,Lowville,NY,13367,43.81974097,-75.57570857
+Farm Winery,Clinton,E L F Property Management Llc,Elfs Farm & Adirondack Cider Co,7411 State Route 9,Plattsburgh,NY,12901,44.74334204,-73.42475187
+Farm Winery,Onondaga,White Birch Vineyards Llc,White Birch Vineyards,3061 W Lake Rd,Skaneateles,NY,13152,0.0,0.0
+Farm Winery,Columbia,Dylson Inc,Hudson Chatham Winery,1900 State Rte 66,Ghent,NY,12075,42.31078257,-73.64109513
+Farm Winery,Ulster,Enlightenment Wines Farm And Meadery Llc,Enlightenment Wines,67 Barclay Road,Clintondale,NY,12515,41.66647856,-74.07103983
+Farm Winery,Clinton,Charles Richard Lamoy,Hid-In-Pines Vineyard,456 Soper Street,Morrisonville,NY,12962,44.67253815,-73.58833072
+Farm Winery,Ulster,Yankee Folly Llc,Yankee Folly Cidery,69 Yankee Folly Rd,New Paltz,NY,12561,41.73012892,-74.15505161
+Farm Winery,Franklin,Marice Bright & Jerry Bright,Bright Star Enterprise,419 State Rte 95,Moira,NY,12957,44.84995656,-74.55894481
+Farm Winery,Ulster,Brunel & Rafael Inc,Brunel & Rafael ,180 South St,Marlboro,NY,12542,41.59930591,-74.00204356
+Farm Winery,Suffolk,R & J Blum Estate Vineyards Inc,Ackerly Pond Vineyards,1375 Peconic Ln,Peconic,NY,11958,41.04410813,-72.45823014
+Farm Winery,Albany,Altamont Vineyard & Winery Llc,Altamont Vineyard & Winery ,3001 Furbeck Rd,Altamont,NY,12009,42.74029275,-74.08018934
+Farm Winery,Suffolk,Jason'S Vineyard'S Inc,Jason'S Vineyard'S ,1785 Main Rd,Jamesport,NY,11947,42.52546526,-79.17403163
+Farm Winery,Saratoga,Ledge Rock Hill Winery Llc,Ledge Rock Hill Winery ,41 Stewart Dam Rd,Corinth,NY,12822,43.26981909,-73.89067159999999
+Farm Winery,Cayuga,John C Izzo,Izzos White Barn Winery,6634 Cayuga Road,Cayuga,NY,13034,42.93857212,-76.70584455
+Farm Winery,Cayuga,Robert Ramond Wintamute & Kathyann Wintamute,The Apple Station Winery,5279 Cross Road,Cayuga,NY,13034,42.87329271,-76.68317024
+Farm Winery,Jefferson,Venditti Vineyards Inc,Venditti Vineyards ,42780 New Connecticut Rd,Antwerp,NY,13608,44.28625331,-75.68036407
+Farm Winery,Orange,Orchard Hill Cider Mill Llc,Orchard Hill Cider Mill ,29 Soons Cir,New Hampton,NY,10958,41.40272578,-74.40327562
+Farm Winery,Madison,Owera Vineyards Llc,Owera Vineyards ,5276 E Lake Rd,Cazenovia,NY,13035,42.9775311,-75.87994607
+Farm Winery,Herkimer,Domhnall Vineyards & Winery Llc,Domhnall Vineyards & Winery ,531 Shells Bush Rd,Herkimer,NY,13350,43.05854026,-74.96150577
+Farm Winery,Madison,Critz Farms Inc,Critz Farms Brewing And Cider Company,3232 Rippleton Rd,Cazenovia,NY,13035,42.88236481,-75.87478701
+Farm Winery,Chenango,Cameron Cates,Cameron Cates Estate,290 Humphrey Road,South New Berlin,NY,13843,42.57999163,-75.42206169
+Farm Winery,Clinton,Colin Read & Natalie Peck,North Star Vineyard,1383 North Star Rd,Mooers,NY,12958,44.97391497,-73.62827766
+Farm Winery,Washington,Northern Star Vineyard Llc,Northern Star Vineyard,1103 Beadle Hill Rd,Valley Falls,NY,12185,42.98024,-73.52126
+Farm Winery,Greene,Windham Vineyards Llc,Windham Vineyards And Winery,11 Mountain View Estates Rd,Ashland,NY,12407,42.3357563,-74.30559000000001
+Farm Winery,Otsego,Bennett Wine Company Llc,Rustic Ridge Winery,2805 State Hwy 80,Burlington Flats,NY,13315,42.72039207,-75.15935897
+Farm Winery,Jefferson,Mary Ellen Surdo,Yellow Barn Winery,18876 County Rte 66,Watertown,NY,13601,0.0,0.0
+Farm Winery,Niagara,Arrowhead Spring Vineyards Llc,Arrowhead Spring Vineyards ,4746 Townline Rd,Lockport,NY,14094,43.17865,-78.75626
+Farm Winery,Otsego,Pail Shop Vineyards Llc,Pail Shop Vineyards ,124 Goose St,Fly Creek,NY,13337,42.71768179,-74.97157985
+Farm Winery,Washington,Spirit Earth Organics Inc,Amorici Vineyard,637 Colonel Burch Rd,Valley Falls,NY,12185,42.94997918,-73.53093698
+Farm Winery,Suffolk,Scarola Vineyards Inc,Scarola Vineyards ,139 Sagg Rd,Sagaponack,NY,11962,40.94482211,-72.27886967
+Farm Winery,Columbia,Patty Reagans Boudoir Llc,Greenpoint Cidery,4161 Rte 9,Hudson,NY,12534,42.22085,-73.79375
+Farm Winery,Schuyler,Nine Four Wines Llc,Nine-Four Wines,5281 Peach Orchard Rd,Hector,NY,14841,42.49543,-76.88049000000001
+Farm Winery,Monroe,Schutt'S Apple Mill,Schutt'S Apple Mill,1063 Plank Rd,Webster,NY,14580,43.182140000000004,-77.45291
+Farm Winery,Delaware,Russell Betz,Blue Sky Farm,779 Charcoal Road,Stamford,NY,12167,42.39593853,-74.56324757
+Farm Winery,Orange,Warwick Valley Wine Co Inc,Warwick Valley Wine,371 Glenwood Rd,Pine Island,NY,10969,41.28278378,-74.47663047
+Farm Winery,Monroe,Oak And Apple Llc,Oak & Apple,1600 Dublin Rd,Penfield,NY,14526,43.15102,-77.42426
+Farm Winery,Suffolk,East End Vineyards Llc,East End Vineyards ,35 Cox Neck Road,Mattituck,NY,11952,40.988538899999995,-72.55390546
+Micro Brewer,Monroe,Fifth Frame Brewing Co Llc,Fifth Frame Brewing Co ,138 Joseph Ave,Rochester,NY,14605,43.165859999999995,-77.60614
+Micro Brewer,Queens,Singlecut Beersmiths Llc,Singlecut Beersmiths ,1933 37Th St,Astoria,NY,11105,40.77808574,-73.90232093
+Micro Brewer,Tompkins,Liquid State Brewing Company Inc,Liquid State Brewing Company ,620 W Green St,Ithaca,NY,14850,42.43872,-76.50768000000001
+Micro Brewer,Queens,Big Alice Brewing Company Llc,Big Alice Brewing Company ,808 43Rd Rd,Long Island City,NY,11101,,
+Micro Brewer,Erie,Thin Man Brewery Of Buffalo Llc,Thin Man Brewery Of Buffalo ,166 Chandler St,Buffalo,NY,14207,42.94363,-78.88505
+Micro Brewer,Nassau,Lithology Brewing Llc,Lithology Brewing Co,211 Main St,Farmingdale,NY,11735,40.73395,-73.44582
+Micro Brewer,Albany,C H Evans Brewing Co Inc,Albany Pump Station,19 Quackenbush Street,Albany,NY,12207,42.65446067,-73.74843391
+Micro Brewer,Ontario,Noble Shepherd Llc,Noble Shepherd Craft Brewery,7853 Rte 20A,Bloomfield,NY,14469,42.9018,-77.46703000000001
+Micro Brewer,St Lawrence,In Law Brewing Company Llc,In Law Brewing Company ,5868 County Rte 14,Chase Mills,NY,13621,44.88211,-75.04764
+Micro Brewer,Suffolk,Destination Unknown Beer Company Inc,Destination Unknown Beer Company ,1 S Chicago Ave,Bay Shore,NY,11706,40.7337,-73.22926
+Micro Brewer,Suffolk,Hopwins Inc,Hopwins ,1460 N Clinton Ave,Bay Shore,NY,11706,40.74467,-73.26645
+Micro Brewer,Suffolk,Spider Bite Brewing Corporation,Spider Bite Beer Company,920 Lincoln Ave,Holbrook,NY,11741,40.7727,-73.08457
+Micro Brewer,Ulster,Woodstock Local Brewing Llc,Woodstock Brewing,5581 Rte 28,Phoenicia,NY,12464,42.06265,-74.30735
+Micro Brewer,Westchester,Duncan'S Abby Inc,Duncan'S Abbey,27 Storm St,Tarrytown,NY,10591,41.07863193,-73.86072099
+Micro Brewer,Oneida,Flying Dog Brewery Llc,Flying Dog Brewery ,811 Edward St,Utica,NY,13502,0.0,0.0
+Micro Brewer,Schoharie,Serious Brewing Co Llc,Serious Brewing Co,116 Caverns Rd,Howes Cave,NY,12092,42.68352,-74.39456
+Micro Brewer,Greene,West Kill Brewing Llc,West Kill Brewing ,2173 Spruceton Rd,W Kill,NY,12492,42.19056,-74.29259
+Micro Brewer,Orange,Fox N Hare Brewing Company Llc,Fox N Hare Brewing Company ,46 Front St,Port Jervis,NY,12771,41.3735,-74.69195
+Micro Brewer,Livingston,No Bs Brew Company Llc,No Bs Brew Company ,3474 Bronson Hill Rd,Livonia,NY,14487,42.83377,-77.69192
+Micro Brewer,Suffolk,Secatogue Brewing Llc,Secatogue Brewing Company,375 Union Blvd,West Islip,NY,11795,40.7072,-73.30288
+Micro Brewer,Albany,Fort Orange Brewing Corporation,Fort Orange Brewing Corporation,450 N Pearl St,Albany,NY,12204,42.66704,-73.74332
+Micro Brewer,Bronx,Torch & Crown 704 Broadway Llc,Torch & Crown 704 Broadway ,463 E 173Rd St,Bronx,NY,10457,40.8418,-73.90156
+Micro Brewer,Queens,Rockaway Brewing Company Llc,Rockaway Brewing Company ,46-01 5Th St,Long Island City,NY,11101,40.74711952,-73.95507195
+Micro Brewer,Albany,Druthers Brewing Company Ii Inc,Druthers Brewing Company Ii ,1053 Broadway,Albany,NY,12204,42.66597,-73.74164
+Micro Brewer,Westchester,Decadent Ales Llc,Decadent Ales ,139 Hoyt Ave,Mamaroneck,NY,10543,40.95219,-73.73907
+Micro Brewer,Wyoming,Windy Brew Llc,Windy Brew ,733 Rte 20A,Strykersville,NY,14145,42.77013,-78.43518
+Micro Brewer,Tompkins,Hopshire Brewery Llc,Hopshire Farm & Brewery,1771 Dryden Rd,Freeville,NY,13068,42.48171378,-76.3692873
+Micro Brewer,Kings,Braven Brewing Company Llc,Braven Brewing Company ,52 Harrison Pl,Brooklyn,NY,11237,40.706340000000004,-73.93136
+Micro Brewer,Delaware,Weaver Hollow Farmhouse Ales Llc,Weaver Hollow Brewery,294 Depot St,Andes,NY,13731,42.187259999999995,-74.78921
+Micro Brewer,Erie,Thin Man Brewery Of Buffalo Llc,Thin Man Brewery Of Buffalo ,486 Elmwood Ave,Buffalo,NY,14222,42.9103,-78.87739
+Micro Brewer,Albany,Perfect World Brewing Llc,Perfect World Brewing ,1276 Broadway,Albany,NY,12204,42.67491,-73.73666
+Micro Brewer,Kings,Folksbier Brauerei Llc,Folksbier,103 Luquer St,Brooklyn,NY,11231,40.6779,-74.00099
+Micro Brewer,Monroe,Winery Exchange Inc,World Brews,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097
+Micro Brewer,Ontario,New York Beer Project Llc,New York Beer Project,300 High St,Victor,NY,14564,43.02405,-77.4347
+Micro Brewer,Bronx,Farlo Llc,Gun Hill Brewing Company,3227 Laconia Ave,Bronx,NY,10469,40.87212,-73.85576999999999
+Micro Brewer,Erie,Belt Line Brewing Llc,Belt Line Brewery & Kitchen,545 Swan St,Buffalo,NY,14204,42.87795,-78.85545
+Micro Brewer,Suffolk,Black Forest Brew Haus Llc,Black Forest Brew Haus ,2015 New Hgwy,Farmingdale,NY,11735,40.75508723,-73.41480855
+Micro Brewer,Niagara,New York Beer Project Llc,New York Beer Project ,6933 S Transit Rd,Lockport,NY,14094,43.09085,-78.69681
+Micro Brewer,Queens,Charlie Work Llc,Evil Twin Brewing,1612 1616 George St,Ridgewood,NY,11385,0.0,0.0
+Micro Brewer,Suffolk,Moustache Brewing Co Llc,Moustache Brewing Co ,400 Hallet Ave,Riverhead,NY,11901,40.92048,-72.66815
+Micro Brewer,Suffolk,Small Craft Brewery Llc,Small Craft Brewing Company,66 Merrick Rd,Amityville,NY,11701,40.7041,-73.79275
+Micro Brewer,Chemung,Db Brewing Llc,Diversion Brewing Company,729 Wyncoop Creek Rd,Chemung,NY,14825,42.017759999999996,-76.62234000000001
+Micro Brewer,Erie,12 Gates Brewing Company Llc,12 Gates Brewing Company ,80 Earhart Dr Ste 16 20,Williamsville,NY,14221,0.0,0.0
+Micro Brewer,Bronx,"Bronx Brewery Llc, The","Bronx Brewery , The",856 E 136Th St,Bronx,NY,10454,40.80224555,-73.91071904
+Micro Brewer,Dutchess,Hudson Valley Beverage Co Inc,Sloop Brewing Co,2070 Rte 52,Hopewell Junction,NY,12533,41.543440000000004,-73.82359
+Micro Brewer,Queens,Semb Cf Llc,Mikkeller Brewing Nyc,123-01 Roosevelt Ave,Flushing,NY,11368,40.754690000000004,-73.84561
+Micro Brewer,Suffolk,"Greenport Brewing Company Llc, The",Greenport Harbor Brewing Company,42155 Main Rd,Peconic,NY,11958,41.041940000000004,-72.4536
+Micro Brewer,Madison,Good Nature Brewing Inc,Good Nature Farm Brewery & Tap Room,1727 State Rte 12B,Hamilton,NY,13346,42.80662,-75.54697
+Micro Brewer,Queens,Iconyc Brewing Company Llc,Iconyc Brewing Company ,43-63 11Th St,Long Island City,NY,11101,40.75199,-73.92557
+Micro Brewer,Suffolk,"Greenport Brewing Company Llc, The",Greenport Harbor Brewing Company,234 Carpenter St,Greenport,NY,11944,41.10314,-72.35851
+Micro Brewer,Jefferson,Boots Brewing Company Inc,Boots Brewing Company ,89 Public Sq,Watertown,NY,13601,43.97485,-75.90890999999999
+Micro Brewer,Greene,Crossroads Brewing Company Catskill Llc,Crossroads Brewing Company Catskill ,201 Water St,Catskill,NY,12414,42.22083,-73.86771999999999
+Micro Brewer,Schenectady,Druthers Brewing Company Iv Llc,Druthers Brewing Company Iv ,221 Harborside Dr,Schenectady,NY,12305,0.0,0.0
+Micro Brewer,Dutchess,Honest Brewer Llc,Kings Court Brewing Company,40 Cannon St,Poughkeepsie,NY,12601,41.70213,-73.92749
+Micro Brewer,Niagara,In The Mix Brewing & Creamery Llc,In The Mix Brewing & Creamery ,1693 East Ave,Barker,NY,14012,43.32946,-78.55058000000001
+Micro Brewer,Oneida,Copper City Of Rome Brewing Company Llc,Copper City Brewing Company,1111 Oneida St,Rome,NY,13440,43.20489,-75.43151
+Micro Brewer,Suffolk,1940S Brewing Company Llc,1940S Brewing Company ,1337 Lincoln Ave,Holbrook,NY,11741,40.78332,-73.08329
+Micro Brewer,Niagara,Woodcock Brothers Brewing Company Inc,Woodcock Brothers Brewing Company ,908 Niagara Falls Blvd,North Tonawanda,NY,14120,43.06105,-78.84272
+Micro Brewer,Queens,Qb Collective Llc,Queens Brewery,15-39 Covert St,Ridgewood,NY,11385,40.69455,-73.9043
+Micro Brewer,Suffolk,Westhampton Beach Brewing Company Llc,Westhampton Beach Brewing Company,220 Rogers Way,Westhampton Beach,NY,11978,0.0,0.0
+Micro Brewer,Orange,Heritage Restoration Properties Llc,Clemson Bros Brewery,14 Cottage St,Middletown,NY,10940,41.44704,-74.41551
+Micro Brewer,Suffolk,Huntington Beer Works Llc,Six Harbors Brewing Company,243 New York Ave,Huntington,NY,11743,40.874959999999994,-73.42531
+Micro Brewer,Chautauqua,K E V Inc,7 Sins Brewery,14 16 N Portage St,Westfield,NY,14787,0.0,0.0
+Micro Brewer,Rockland,Threefold Holdings Llc,Threes Brewing,55 W Railroad Ave,Garnerville,NY,10923,41.208,-73.99166
+Micro Brewer,Queens,Narwhal Llc,Finback,76-01 77Th Ave,Glendale,NY,11385,40.70654158,-73.87340502
+Micro Brewer,Steuben,"Rising Sons 6 Brewing Company Inc, The",Iron Flamingo Brewery,196 Baker St,Corning,NY,14830,42.155120000000004,-77.05637
+Micro Brewer,New York,Anheuser Busch Llc,Anheuser Busch ,119-125 W 24Th St,New York,NY,10011,0.0,0.0
+Micro Brewer,Erie,"Tap Room At The Lafayette Inc, The",(Microbrewery In Basement),391 Washington St,Buffalo,NY,14203,42.8847545,-78.87359017
+Micro Brewer,Jefferson,River Hens Llc,Garland City Beer Works,321 Howk St,Watertown,NY,13601,43.98093,-75.91851
+Micro Brewer,Kings,Grimm Ales Llc,Grimm,990 Metropolitan Ave,Brooklyn,NY,11211,40.7144,-73.93651
+Micro Brewer,Saratoga,Doublecut Llc,Doublecut ,6 Fairchild Sq,Clifton Park,NY,12065,42.90149,-73.79286
+Micro Brewer,Suffolk,Great South Bay Brewery Corp,Great South Bay Brewery,25 Drexel Dr,Bay Shore,NY,11706,40.7611,-73.26348
+Micro Brewer,Schenectady,Mill Lane Brewing Company Llc,Frog Alley Brewing Company,10 Mill Ln,Schenectady,NY,12305,42.81457,-73.94643
+Micro Brewer,Monroe,Knucklehead Craft Brewing Llc,Knucklehead Craft Brewing,426 Ridge Rd,Webster,NY,14580,43.20604,-77.5122
+Micro Brewer,Sullivan,"Roscoe Ny Beer Company Llc, The",Roscoe Beer Company,145 Rockland Rd,Roscoe,NY,12776,41.9462,-74.9131
+Micro Brewer,Ulster,Kingston Standard Llc,Kingston Standard,22 Jansen Ave,Kingston,NY,12401,41.9267,-73.99286
+Micro Brewer,Washington,Slickfin Brewing Company Llc,Slickfin Brewing Company ,147 149 Broadway,Fort Edward,NY,12828,0.0,0.0
+Micro Brewer,Broome,Galaxy Brewing Company Llc,Galaxy Brewing Company ,41 Court St,Binghamton,NY,13901,42.09870498,-75.91385283
+Micro Brewer,Putnam,Stateline Enterprises Inc,Bull And Barrel Brew Pub,988 Rte 22,Brewster,NY,10509,41.397490000000005,-73.60231999999999
+Micro Brewer,Queens,Dscc Ventures Llc,Fifth Hammer Brewing Company,10-28 10-36 46Th Ave,Long Island City,NY,11101,0.0,0.0
+Micro Brewer,Saratoga,Good Vs Evil Brewing Llc,Unified Beerworks,7 Stonebreak Rd,Malta,NY,12020,42.96568,-73.78953
+Micro Brewer,Clinton,Oval Craft Brewing Llc,Oval Craft Brewing ,111 Ohio Rd,Plattsburgh,NY,12903,0.0,0.0
+Micro Brewer,Erie,Community Beer Works Llc,Community Beer Works,520 7Th St,Buffalo,NY,14201,42.89868,-78.89188
+Micro Brewer,Suffolk,Mcsully Enterprises Inc,Southampton Publick House,62 Jobs Lane,Southampton,NY,11968,40.88316,-72.39145
+Micro Brewer,Columbia,Chatham Brewing Llc,Chatham Brewing ,59 Main St,Chatham,NY,12037,42.36326985,-73.59542927
+Micro Brewer,Westchester,Yonkers Brewing Company Llc,Yonkers Brewing Company ,92 Main St,Yonkers,NY,10701,40.93439,-73.90288000000001
+Micro Brewer,Monroe,Three Heads Brewing Inc,Three Heads Brewing Dankenstein India Pale Ale,186 Atlantic Ave,Rochester,NY,14607,43.15676,-77.57967
+Micro Brewer,Onondaga,Onco Fermentations Inc,Onco Fermentations ,397 Rte 281,Tully,NY,13159,42.79058,-76.12213
+Micro Brewer,Kings,5 Boroughs Brewery Inc,Five Boroughs Brewing Co,215 47Th St,Brooklyn,NY,11220,40.65059,-74.01478
+Micro Brewer,Kings,"Mad Scientists Brewing Partners,Llc","Sixpoint Craft Ales,Sixpoint Brewery",40 Van Dyke St,Brooklyn,NY,11231,40.67385407,-74.01204466
+Micro Brewer,Ontario,Other Half Brewing Company Inc,Other Half Brewing Company ,6621 State Rte 5 & 20,East Bloomfield,NY,14469,0.0,0.0
+Micro Brewer,Essex,Ausable Brewing Company Llc,Ausable Brewing Company,765 Mace Chasm Rd,Keeseville,NY,12944,44.50353,-73.44747
+Micro Brewer,Kings,Kings County Brewers Collective Llc,Kings County Brewers Collective ,381 Troutman St,Brooklyn,NY,11237,40.70601,-73.92358
+Micro Brewer,Erie,65 Vandalia Street Brewing Llc,Pressure Drop Brewing,65 Vandalia St,Buffalo,NY,14204,42.8665,-78.86102
+Micro Brewer,Kings,Disruption Grain Llc,Interboro Spirits & Ales,942 Grand St,Brooklyn,NY,11211,40.712720000000004,-73.93697
+Micro Brewer,Queens,Bridge And Tunnel Brewery Llc,Bridge And Tunnel Brewery ,1535 Decatur St,Ridgewood,NY,11385,40.693870000000004,-73.90249
+Micro Brewer,Dutchess,2 Way Brewing Company Inc,2 Way Brewing Company,18 W Main St,Beacon,NY,12508,41.50791494,-73.98217429
+Micro Brewer,Monroe,K2 Brewing Inc,K2 Bros Brewing,1221 Empire Blvd,Rochester,NY,14609,43.17458,-77.52149
+Micro Brewer,Suffolk,Havens Brewery Llc,Brick House Brewery,67 71 W Main Street,Patchogue,NY,11772,40.76584505,-73.01681818
+Micro Brewer,Franklin,Mohawk Gaming Enterprises Llc,Akwesasne Mohawk Casino Resort,873 State Rte 37,Hogansburg,NY,13655,44.967220000000005,-74.6443
+Micro Brewer,Saratoga,Shmaltz Brewing Company Llc,Shmaltz Brewing Company ,6 Fairchild Sq,Clifton Park,NY,12065,42.90149,-73.79286
+Micro Brewer,Saratoga,Quinn Borchardt Brewing Llc,Artisanal Brew Works,41 Geyser Rd,Saratoga Springs,NY,12866,43.06026,-73.81456
+Micro Brewer,Warren,Mean Max Brew Works Llc,Mean Max Brew Works,193 Glen St,Glens Falls,NY,12801,43.310109999999995,-73.64453
+Micro Brewer,Onondaga,Talking Cursive Brewing Company Llc,Talking Cursive Brewing Company ,301 Erie Blvd W,Syracuse,NY,13202,,
+Micro Brewer,Lewis,Rc Spot Llc,Skewed Brewing,5501 Trinity Ave,Lowville,NY,13367,43.79051,-75.48777
+Micro Brewer,Nassau,Garvies Point Brewery Inc,Garvies Point Craft Brewery,1 Garvies Point Rd,Glen Clove,NY,11542,40.86058,-73.64187
+Micro Brewer,Niagara,Woodcock Brothers Brewing Company Inc,Woodcock Brothers Brewing Company ,638 Lake St,Wilson,NY,14172,43.29804819,-78.82600036
+Micro Brewer,Livingston,Rising Storm Brewing Company Llc,Rising Storm Brewing Company ,5750 S Lima Rd,Livonia,NY,14414,42.85495,-77.70636999999999
+Micro Brewer,Erie,Froth Brewing Co Llc,Froth Brewing Co,700 Military Rd,Buffalo,NY,14216,42.95627,-78.8902
+Micro Brewer,Rockland,Andean Brewing Company Inc,Andean Brewing Company ,300 Corporate Dr,Blauvelt,NY,10913,,
+Micro Brewer,Suffolk,Montauk Brewing Company Inc,Montauk Beer Company,62 S Erie Ave,Montauk,NY,11954,41.03663,-71.94403
+Micro Brewer,Broome,Beer Tree Brew Co Llc,Beer Tree Brew Co,197 State Rte 369,Port Crane,NY,13833,42.1711,-75.83100999999999
+Micro Brewer,Suffolk,"Cow Harbor Beer Company Llc, The",Sand City Brewing Company,19 Scudder Ave,Northport,NY,11768,40.89976,-73.35081
+Micro Brewer,Essex,Hex And Hop Inc,Hex And Hop ,1719 State Rte 3,Bloomingdale,NY,12913,44.408590000000004,-74.08503
+Micro Brewer,Cayuga,Prison City Brewing Llc,Prison City Pub & Brewery,28 State St,Auburn,NY,13021,42.93179,-76.56824
+Micro Brewer,Seneca,"Irish Mafia Brewing Co Llc, The","Irish Mafia Brewing Co , The",623 Lerch Rd,Geneva,NY,14456,42.82332,-76.92369000000001
+Micro Brewer,Tompkins,Garretts Brewing Company Inc,Garretts Brewing Company ,1 W Main St,Trumansburg,NY,14886,0.0,0.0
+Micro Brewer,Saratoga,Common Roots Brewing Company Inc,Common Roots Brewing Company,30 Saratoga Ave,S Glens Falls,NY,12803,43.29705,-73.6361
+Micro Brewer,Onondaga,A J Suds Inc,The Syracuse Suds Factory,320 S Clinton,Syracuse,NY,13202,43.04852879,-76.15364183
+Micro Brewer,Ontario,Savangela Llc,Crafty Ales And Lagers,2 Exchange St,Phelps,NY,14532,42.9579339,-77.05696203
+Micro Brewer,Otsego,Cooperstown Brewing Company Llc,Cooperstown Brewing Company,110 River Street,Milford,NY,13807,42.588632000000004,-74.93983815
+Micro Brewer,Kings,Threefold Holdings Llc,Threes Brewing,333 339 Douglas St,Brooklyn,NY,11217,40.6795921,-73.98219455
+Micro Brewer,Livingston,Mortalis Brewing Company Llc,Mortalis Brewing Company,5660 Tec Dr,Avon,NY,14414,42.91247,-77.70081
+Micro Brewer,Onondaga,Middle Ages Brewing Co Ltd,Middle Ages Brewing Co ,120 Wilkinson Street,Syracuse,NY,13204,43.05086044,-76.16138165
+Micro Brewer,Sullivan,Catskill Brewery Llc,Catskill Brewery,672 Old State Rte 17,Livingston Manor,NY,12758,41.90653615,-74.82519882
+Micro Brewer,Otsego,Brewery Ommegang Ltd,Brewery Ommegang,656 County Hwy 33,Cooperstown,NY,13326,42.62696601,-74.94675672
+Micro Brewer,Kings,Other Half Brewing Company Inc,Other Half Brewing Company ,195 Centre St,Brooklyn,NY,11231,40.67366514,-73.99909135
+Micro Brewer,Erie,Big Ditch Brewing Company Llc,Big Ditch Brewing Company ,55 E Huron St,Buffalo,NY,14203,42.88819696,-78.8708429
+Micro Brewer,Ontario,Reinvention Brewing Llc,Reinvention Brewing Company,9 N Main St,Manchester,NY,14504,42.969840000000005,-77.23045
+Micro Brewer,Monroe,Ctb Group Inc,Wood Kettle Brewing,1192 Manitou Rd,Hilton,NY,14468,43.25441,-77.75026
+Micro Brewer,Franklin,Raquette River Brewing Llc,Raquette River Brewing,11 Balsam St,Tupper Lake,NY,12986,44.24300794,-74.48675883
+Micro Brewer,Erie,Kmt Management Inc,Buffalo Brew Pub,6861 Main St,Williamsville,NY,14221,42.96524938,-78.69788158
+Micro Brewer,Onondaga,Empire Brewing Company Inc,Empire Brewing Company,120 Walton Street,Syracuse,NY,13202,43.04802383,-76.15473537
+Micro Brewer,Tompkins,Ithaca Beer Company Inc,Ithaca Beer Company,122 Ithaca Beer Dr,Ithaca,NY,14850,42.41607205,-76.53508089
+Micro Brewer,Niagara,432 Brickyard Inc,Brickyard And Brewing Company,432 Center St,Lewiston,NY,14092,43.17306,-79.04332
+Micro Brewer,Rensselaer,Browns Brewing Company Llc,Brown'S Taproom,50 Factory Hill Rd,Hoosick Falls,NY,12090,42.9262399,-73.34411856
+Micro Brewer,Suffolk,Saint James Brewery Llc,Saint James Brewery ,929 Lincoln Ave Unit 11,Holbrook,NY,11741,40.77147,-73.08315
+Micro Brewer,Westchester,Broken Bow Brewery Llc,Broken Bow Brewery ,173 Marbledale Rd,Tuckahoe,NY,10707,40.95454927,-73.81913808
+Micro Brewer,Erie,Resurgence Brewing Company Llc,Resurgence Brewing Company,1250 Niagara St,Buffalo,NY,14213,42.91792,-78.89918
+Micro Brewer,Cattaraugus,S & W Company Llc,Ellicottville Brewing Co,28A Monroe St,Ellicottville,NY,14731,42.275046200000006,-78.67074524
+Micro Brewer,Erie,Hamburg Brewing Company Llc,Hamburg Brewing Company,6553 Boston State Rd,Hamburg,NY,14075,42.71061703,-78.80331058
+Micro Brewer,Kings,7 N 15Th St Corp,Greenpoint Beer & Ale Co,7 N 15Th St,Brooklyn,NY,11222,40.72495122,-73.95731001
+Micro Brewer,Steuben,Marbrew Inc,Market St Brewing Co & Restaurant,63 65 W Market St,Corning,NY,14830,42.1439276,-77.05711181
+Micro Brewer,Greene,Crossroads Brewing Company Inc,Crossroads Brewing Company ,21 Second St,Athens,NY,12015,42.26043658,-73.80965400000001
+Micro Brewer,Chemung,Upstate Brewing Company Llc,Upstate Brewing Company ,3028 Lake Rd,Elmira,NY,14903,42.13318387,-76.81213516
+Micro Brewer,Steuben,Steuben Brewing Company Llc,Steuben Brewing Company ,10286 Judson Rd,Hammondsport,NY,14840,42.50379629,-77.18650658
+Micro Brewer,Steuben,Shoemaker Brewing Company Llc,Liquid Shoes Brewing,26 E Market St,Corning,NY,14830,42.14308,-77.0535
+Micro Brewer,Seneca,Wagner Valley Brewing Llc,Wagner Brewing Co,9322 Route 414,Lodi,NY,14860,42.57353499,-76.85819852
+Micro Brewer,Seneca,Bottomless Brewing Llc,Bottomless Brewing ,3543 E Lake Rd,Geneva,NY,14456,42.85387,-76.93345
+Micro Brewer,Onondaga,Double Barrel Brewing Company Llc,Double Barrel Brewing Company ,112 Walter Dr,Syracuse,NY,13206,43.06972609,-76.09859405
+Micro Brewer,Monroe,Rohrbach Inc,Rohrbach Brewing Company,3859 Buffalo Rd,Rochester,NY,14624,43.13749607,-77.76275315
+Micro Brewer,Wyoming,Silver Lake Brewing Project Llc,Silver Lake Brewing Project,14 Borden Ave,Perry,NY,14530,42.7181,-78.0019
+Micro Brewer,Monroe,Stoneyard Brewery Llc,Stoneyard Brewery ,85 Clinton St,Brockport,NY,14420,43.21578,-77.94235
+Micro Brewer,Warren,Glens Falls Brewing Company Llc,Lake George Brew House,1043 State Rte 9,Queensbury,NY,12804,43.34395,-73.68519
+Micro Brewer,Suffolk,Barrage Brewing Company Llc,Barrage Brewing Company ,32 Allen Blvd,Farmingdale,NY,11735,40.72764628,-73.45179987
+Micro Brewer,Queens,Richard J Castagna,Bridge And Tunnel Brewery,61 02 60Th Ave,Maspeth,NY,11378,40.71685713,-73.90274365
+Micro Brewer,Monroe,Foggy Harbor Brewery Llc,Iron Tug Brewing,360 Ridge Rd W,Rochester,NY,14615,43.19978,-77.63662
+Micro Brewer,Ontario,Young Lion Brewing Company Llc,Young Lion Brewing Company ,24 Lakeshore Dr,Canandaigua,NY,14424,42.87577,-77.26992
+Micro Brewer,Schuyler,Grist Iron Brewing Llc,Grist Iron Brewing Company,4880 Ny Rte 414,Burdett,NY,14818,42.47002,-76.86684
+Micro Brewer,Suffolk,Crooked Ladder Brewing Company Llc,Crooked Ladder Brewing Company ,70 W Main St,Riverhead,NY,11901,40.91696414,-72.66333254
+Micro Brewer,Westchester,Captain Lawrence Brewing Llc,Captain Lawrence Brewing,444 Saw Mill River Rd,Elmsford,NY,10523,41.06860381,-73.81577602
+Micro Brewer,Cayuga,"Shepherds Brewing Company Llc, The",The Good Shepherds Brewing Company,31 Loop Rd,Auburn,NY,13021,42.93264,-76.56498
+Micro Brewer,Erie,Buffalo Brewing Company Llc,Buffalo Brewing Company ,314 Myrtle Ave,Buffalo,NY,14204,42.87828,-78.85813
+Micro Brewer,Schuyler,Lucky Hare Brewing Company Inc,Lucky Hare Brewing Company ,6085 Beckhorn Rd,Hector,NY,14841,42.52845,-76.8746
+Micro Brewer,Monroe,Denhart Brewing Company Llc,Triphammer Bierwerks,111 Parce Ave,Fairport,NY,14450,43.105709999999995,-77.4462
+Micro Brewer,Cattaraugus,Four Mile Brewing Llc,Four Mile Brewing ,202 East Green St,Olean,NY,14760,42.073159999999994,-78.42746
+Micro Brewer,Ontario,Gael Brewing Company Llc,Gael Brewing Company ,4180 State Rte 14,Geneva,NY,14456,0.0,0.0
+Micro Brewer,Ontario,"Irish Mafia Brewing Co Llc, The","Irish Mafia Brewing Co , The",2971 Whalen Rd,East Bloomfield,NY,14469,42.88374,-77.38886
+Micro Brewer,Suffolk,Long Ireland Brewing Company Llc,Long Ireland Beer Company,817 Pulaski Street,Riverhead,NY,11901,40.91998156,-72.67428596
+Micro Brewer,Orange,Rushing Duck Brewing Company Llc,Rushing Duck Brewing Company ,1 Battiato Ln,Chester,NY,10918,41.36197216,-74.27029093
+Micro Brewer,Suffolk,Port Jeff Brewing Company Llc,Port Jeff Brewing Company ,22 Mill Creek Rd,Port Jefferson,NY,11777,40.94038328,-73.07003643
+Micro Brewer,Onondaga,Red Hawk Brewing Ltd,Red Hawk Brewing ,4504 Bussey Rd,Syracuse,NY,13215,42.98761,-76.23225
+Micro Brewer,Rockland,Kettle Kreations Llc,The Defiant Brewing Company,6 E Dexter Plaza,Pearl River,NY,10965,41.06022361,-74.02307473
+Micro Brewer,Monroe,Bullies Entertainment Group Llc,Brindle Haus Brewing Company,377 S Union St,Spencerport,NY,14559,43.185359999999996,-77.80483000000001
+Micro Brewer,Chautauqua,S&W Company Llc,Ellicottville Brewing Company,57 Lakeside Dr,Bemus Point,NY,14712,42.15955,-79.39325
+Micro Brewer,Orange,Kraftify Llc,Pine Island Brewing,682 County Rte 1,Pine Island,NY,10969,41.297270000000005,-74.46571999999999
+Micro Brewer,Warren,Adirondack Pub & Brewery Inc,Adirondack Pub & Brewery ,33 Canada St,Lake George,NY,12845,43.4185,-73.71412
+Micro Brewer,Otsego,Butternuts Beer And Ale Llc,Butternuts Beer & Ale,4020 State Highway 51,Garrattsville,NY,13342,42.62774755,-75.18633796
+Micro Brewer,Schenectady,Van Dyck Llc,Mad Jack Brewing Company,235 237 Union St,Schenectady,NY,12305,0.0,0.0
+Micro Brewer,Schuyler,Seneca Lodge Inc,Seneca Lodge Craft Brewing,Walnut Rd Rd #2  T/O Dix,Watkins Glen,NY,14891,0.0,0.0
+Micro Brewer,Erie,Labatt Usa Operating Co Llc,Labatt Usa Brewing Company,79 Perry St,Buffalo,NY,14203,42.87536,-78.87447
+Micro Brewer,Niagara,Prosper Brewing Llc,Prosper Brewing,72 Webster St,North Tonawanda,NY,14120,43.02384,-78.87767
+Micro Brewer,Erie,Wny Beer Club Llc,Rusty Nickel Brewing Co,4350 Seneca St,W Seneca,NY,14224,42.83338,-78.74268000000001
+Micro Brewer,Onondaga,Half In The Bag Brewery Llc,Willow Rock Brewing Company,115 Game Rd,Syracuse,NY,13210,43.01251,-76.13179000000001
+Micro Brewer,Schuyler,Donna D Lucent,Pompous Ass Wine Company,4499 Rte 14,Rock Stream,NY,14878,42.45084,-76.91037
+Micro Brewer,Schenectady,Wolf Hollow Brewing Company Llc,Wolf Hollow Brewing Company ,6882 Amsterdam Rd,West Glenville,NY,12302,42.89247,-74.06753
+Micro Brewer,Dutchess,Blue Collar Brewery Inc,Blue Collar Brewery ,40 Cottage St,Poughkeepsie,NY,12601,41.70743,-73.91821999999999
+Micro Brewer,Monroe,Nine Maidens Brewing Company Llc,Nine Maidens Brewing Company ,1344 University Ave,Rochester,NY,14607,43.15061,-77.56624000000001
+Micro Brewer,Clinton,Livingood'S Restaurant & Brewery Llc,Livingood'S Restaurant & Brewery ,697 Bear Swamp Rd,Peru,NY,12972,44.57606,-73.51156999999999
+Micro Brewer,Dutchess,Mill House Hospitality Inc,Mill House Brewing Company,289 Mill St,Poughkeepsie,NY,12601,41.705290000000005,-73.92654
+Micro Brewer,Monroe,Sager Beer Works Llc,Sager Beer Works,46 Sager Dr,Rochester,NY,14607,43.15056,-77.56993
+Micro Brewer,Steuben,Keuka Brewing Co Llc,Keuka Brewing Company,8572 Briglin Road,Hammondsport,NY,14840,42.48589412,-77.19232876
+Micro Brewer,Ulster,Hudson Ale Works Llc,Hudson Ale Works ,17 Milton Ave,Highland,NY,12528,41.717859999999995,-73.96409
+Micro Brewer,Ulster,Heiko Giesberg,New Paltz Brewing Company (Pfalzerbrau),7174 Rte 209,Wawarsing,NY,12458,41.75851,-74.3584
+Micro Brewer,Schuyler,Two Goats Brewing Llc,Two Goats Brewing ,5027A State Rte 414 (Basement),Burdett,NY,14818,42.4775359,-76.86894671
+Micro Brewer,Erie,42 North Brewing Company Llc,42 North Brewing Company ,25 Pine St,East Aurora,NY,14052,42.76848,-78.60797
+Micro Brewer,Erie,Rbcprod Llc,Resurgence Brewing Company,55 Chicago St,Buffalo,NY,14204,42.86996,-78.86867
+Micro Brewer,Richmond,Gordon James Llc,The Flagship Brewing Company,38-40 Minthorne St,Staten Island,NY,10301,40.63675115,-74.07557869
+Micro Brewer,Jefferson,Sackets Harbor Brew Pub Llc,Sackets Harbor Brewing Company,212 W Main St,Sackets Harbor,NY,13685,43.947289500000004,-76.12068874
+Micro Brewer,Monroe,Railroad Street Brewing Company Inc,Rohrbach Brewing Company,97 Railroad St,Rochester,NY,14609,43.1633229,-77.58673027
+Micro Brewer,Ulster,Great Life Brewing Company Llc,Great Life Brewing Company ,75 Clarendon Ave,Kingston,NY,12401,41.94123,-73.99701999999999
+Micro Brewer,Greene,Rip Van Winkle Brewing Co Inc,Rip Van Winkle Brewing Company,4545 Rte 32,Catskill,NY,12414,42.185390000000005,-73.98673000000001
+Micro Brewer,Ulster,Keegan Ales Llc,Keegan Ales,20 Saint James St,Kingston,NY,12401,41.93175716,-74.01205885
+Micro Brewer,Steuben,Railhead Brewing Company Llc,Railhead Brewing Company ,40 Park Dr,Hornell,NY,14843,42.31623,-77.65488
+Micro Brewer,Columbia,Suarez Family Llc,Suarez Family Brewery,2278 Rte 9,Hudson,NY,12534,0.0,0.0
+Micro Brewer,Ontario,Dcl Beverage Llc,Webe Brewing Company,796 Pre Emption Rd,Geneva,NY,14456,42.86295,-77.01104000000001
+Micro Brewer,Orange,Newburgh Brewing Company Llc,Newburgh Brewing Company ,88 S Colden St,Newburgh,NY,12550,41.5044515,-74.0068325
+Micro Brewer,Warren,Coopers Cave Ale Company Ltd,Coopers Cave Ale Company ,2 Sagamore St,Glens Falls,NY,12801,43.31743081,-73.63969382
+Micro Brewer,Rockland,Spectacle Brewing Llc,Industrial Arts Brewing Co,55 W Railroad Ave,Garnerville,NY,10923,41.208,-73.99166
+Micro Brewer,Monroe,Shipyard Brewing Company Llc,Shipyard Brewing Company ,445 Saint Paul St,Rochester,NY,14605,43.164590000000004,-77.61446
+Micro Brewer,Essex,Paradox Brewery Llc,Paradox Brewery,154 State Rte 9,Schroon Lake,NY,12870,43.7810986,-73.79376036
+Micro Brewer,Monroe,Founding Fathers Products Llc,Founding Fathers Brewing Co,445 St Paul St,Rochester,NY,14605,43.16493,-77.61437
+Micro Brewer,Warren,Davidson Brothers Brewing Llc,Davidson Brothers Brewing ,184 Glen Street,Glens Falls,NY,12801,43.30988524,-73.64460759999999
+Micro Brewer,Queens,Lic Brewery Llc,Lic Beer Project,39-28 23Rd St,Long Island City,NY,11101,40.75522694,-73.93871007
+Micro Brewer,Cattaraugus,S&W Company Llc,Ellicottville Brewing Company,202 2Nd St,Little Valley,NY,14755,42.2498,-78.79359000000001
+Micro Brewer,Orange,Glenmere Brewing Company Inc,Glenmere Brewing Company,55 Maple Ave,Florida,NY,10921,41.335390000000004,-74.35998000000001
+Micro Brewer,Cayuga,Summerhill Brewing Llc,Summerhill Brewing ,384 Champlin Rd,Groton,NY,13073,42.59086,-76.29685
+Micro Brewer,Madison,Empire Farmstead Brewery Inc,Empire Brewing Company,33 Rippleton Rd,Cazenovia,NY,13035,42.92086,-75.86301999999999
+Micro Brewer,Essex,Great Adirondack Steak & Seafood Cafe Inc,Great Adirondack Steak & Seafood Cafe ,2442 Main,Lake Placid,NY,12946,44.29015509,-73.98520444
+Micro Brewer,Rensselaer,"Troy Brewing Company Inc, The",Browns Taproom,417-419 River Street,Troy,NY,12180,42.73574824,-73.68747887
+Micro Brewer,Essex,"Lake Placid Pub & Brewery Co Llc, The","Lake Placid Pub & Brewery Co , The",813 Mirror Lake Dr,Lake Placid,NY,12946,44.28321503,-73.98133061
+Micro Brewer,Orange,Equilibrium Brewery Llc,Equilibrium Brewery ,22 Henry St,Middletown,NY,10940,41.44623,-74.42222
+Micro Brewer,Essex,Big Slide Brewery & Public House Llc,Big Slide Brewery & Public House ,5686 Cascade Rd,Lake Placid,NY,12946,44.26608,-73.97001999999999
+Micro Brewer,Seneca,Three Brothers Wineries & Estates Llc,War Horse Brewing Company,623 Lerch Rd,Geneva,NY,14456,42.82332,-76.92369000000001
+Micro Brewer,Cattaraugus,Stillhouse Of Buffalo Llc,Stillhouse Of Buffalo ,6600 Rte 219,Ellicottville,NY,14731,42.285959999999996,-78.65914000000001
+Micro Brewer,Ontario,Chosen Spot Brewing Company Inc,Naked Dove Brewing Company,4048 Route 5 & 20,Canandaigua,NY,14424,42.86603789,-77.22316921
+Micro Brewer,Broome,North Brewery Llc The,The North Brewery,110 Washington Ave,Endicott,NY,13760,42.10225167,-76.04817203
+Micro Brewer,Otsego,Davidsons Brewery Corp,Council Rock Brewery,4861 State Hgwy 28,Hartwick,NY,13326,42.65755379,-74.96098351
+Micro Brewer,Clinton,Christophers Restaurant Inc,Plattsburgh Brewing Co,411 Route 3,Plattsburgh,NY,12901,44.69664649,-73.48904823
+Micro Brewer,Dutchess,Mill House Hospitality Inc,Mill House Brewing Company,125 N Hamilton St,Poughkeepsie,NY,12601,41.70969,-73.92021
+Micro Brewer,Onondaga,Ibu Llc,Ibu ,3703B Brewerton Rd,North Syracuse,NY,13212,43.11533,-76.14553000000001
+Micro Brewer,Monroe,Roc Brewing Co Llc,Roc Brewing Co ,56 S Union St,Rochester,NY,14607,43.15343228,-77.59789394
+Micro Brewer,Suffolk,27A Brewing Company Llc,27A Brewing Company ,173 N Wellwood Ave,Lindenhurst,NY,11757,40.6882,-73.37529
+Micro Brewer,Columbia,Hudson Valley Beverage Co Inc,Sloop Brewing Co,1065 County Rte 19,Elizaville,NY,12523,0.0,0.0
+Micro Brewer,Monroe,Custom Brewcrafters Inc,Cb Craft Brewers,300 Village Square Blvd,Honeoye Falls,NY,14472,42.95168817,-77.60393291
+Micro Brewer,Dutchess,Hudson Valley Brewery Llc,Hudson Valley Brewery,7 E Main St,Beacon,NY,12508,41.501709999999996,-73.96315
+Micro Brewer,Franklin,Township 7 Brewery Llc,Township 7 Brewing Co,303 State Rte 11B,Dickinson Center,NY,12930,44.73921,-74.58587
+Micro Brewer,Suffolk,Blind Bat Brewery Llc,Blind Bat Brewery ,420 Harrison Dr,Centerport,NY,11721,40.89578578,-73.38076957
+Micro Brewer,Dutchess,Darragh Park Rooney,Darragh Studio,40 Country View Rd,Millerton,NY,12546,41.96301,-73.49866999999999
+Micro Brewer,Monroe,Straub Brewery Inc,Straub Brewery ,445 St Paul St,Rochester,NY,14605,43.164590000000004,-77.61446
+Micro Brewer,Nassau,East End Grip Llc,Old Tappan Brewing Company,37 Ludlam Ave,Bayville,NY,11709,40.90569,-73.54894
+Micro Brewer,Richmond,Craft House Inc,Craft House And Kills Boro,60 62 Van Duzer St,Staten Island,NY,10301,0.0,0.0
+Micro Brewer,Schuyler,Pantomime Mixtures Llc,Pantomime Mixtures ,3839 Ball Diamond Rd,Hector,NY,14841,42.51357,-76.85665
+Micro Brewer,Rockland,Gentle Giant Brewing Company Llc,Gentle Giant Brewing Company,5-7 N Main St,Pearl River,NY,10965,0.0,0.0
+Micro Brewer,Warren,Bolton Landing Brewing Company Llc,Bolton Landing Brewing Company,4933 Lake Shore Dr,Bolton Landing,NY,12814,43.55571,-73.65583000000001
+Micro Brewer,Saratoga,Druthers Brewing Company Inc,Druthers Brewing Company ,381 Broadway,Saratoga Springs,NY,12866,43.08103,-73.78578
+Micro Brewer,Franklin,Big Tupper Brewing Llc,Big Tupper Brewing,12 Cliff Ave,Tupper Lake,NY,12986,,
+Micro Brewer,Kings,Transmitter Brewing Llc,Transmitter Brewing ,141 Flushing Ave,Brooklyn,NY,11205,40.69791,-73.97116
+Restaurant Brewer,New York,Lsebg Llc,"Birreria, Sabbia & Baita",200 5Th Avenue,New York,NY,10010,40.74286028,-73.98868674
+Restaurant Brewer,Oneida,16 Stone Llc,16 Stone Ale House,9542 Main St,Holland Patent,NY,13354,43.24188,-75.25629
+Restaurant Brewer,Putnam,D P M Ltd,Rt 6 Tap House,728 Rte 6,Mahopac,NY,10541,41.37566492,-73.72702493
+Restaurant Brewer,Kings,Beerberry Corp,Tap Beer,1781 Sheepshead Bay Rd,Brooklyn,NY,11235,40.58358,-73.95035
+Restaurant Brewer,Steuben,That Other Place Inc,Brick House Brewery,1 W Pulteney St,Corning,NY,14830,42.15122,-77.06098
+Restaurant Brewer,New York,Paulaner Brauhaus & Restaurant Llc,Paulaner Brauhaus Nyc,265-267 Bowery,New York,NY,10002,40.7233703,-73.99280296
+Restaurant Brewer,Kings,Killowen Inc,Keg & Lantern,95 97 Nassau Ave,Brooklyn,NY,11222,0.0,0.0
+Restaurant Brewer,Ulster,Jes Lyn Enterprises Ltd,Bacchus,4 S Chestnut St,New Paltz,NY,12561,41.74726107,-74.086837
+Restaurant Brewer,Ontario,Finger Lakes Foodservice Inc,Sevens Brew Pub,Rte 96 & Beaver Creek Rd,Farmington,NY,14425,42.97442,-77.34886999999999
+Restaurant Brewer,Cayuga,Prison City Brewing Llc,Prison City Pub & Brewery,28 State St,Auburn,NY,13021,42.93199,-76.56849
+Restaurant Brewer,Erie,Larkin Square Llc,Hydraulic Hearth,716 Swan St,Buffalo,NY,14210,42.87665,-78.84959
+Restaurant Brewer,Erie,Crook Malting & Brewing Llc,189,189 Main St,East Aurora,NY,14052,42.76780305,-78.62780428
+Restaurant Brewer,Broome,Ab Brewing Llc,Water Street Brewing Co,168 Water St,Binghamton,NY,13901,42.09935,-75.91408
+Restaurant Brewer,Onondaga,Big River Breweries Inc,Gordon Biersch Brewery Restaurant,306 Hiawatha Blvd West,Syracuse,NY,13290,43.06756657,-76.16997498
+Restaurant Brewer,Rockland,Xx Burger Company Inc,The Burger Loft/District 96,389-395 S Main St,New City,NY,10956,0.0,0.0
+Restaurant Brewer,Queens,Alewife Brewing Company Llc,Alewife,5-14 51St Ave,Long Island City,NY,11101,40.74228,-73.95611
+Restaurant Brewer,Erie,Pearl Street Brewing Co Llc,(Main Bar On 1St Floor),72 76 Pearl St,Buffalo,NY,14202,42.88119008,-78.87709921
+Restaurant Brewer,Erie,Old First Ward Brewing Company Llc,Gene Mccarthy'S Brewery & Kitchen,73 Hamburg St,Buffalo,NY,14204,42.86582,-78.85973
+Restaurant Brewer,Essex,Ray Brook Brew House Llc,Ray Brook Brew House ,1153 Rte 86,Ray Brook,NY,12977,0.0,0.0
+Restaurant Brewer,Erie,Grand Island Serene Gardens Llc,Sato Brewpub,110 Pearl St,Buffalo,NY,14202,42.88196,-78.87709
+Restaurant Brewer,Oneida,Talgo Llc,Nail Creek Pub & Brewery,720 Varick St,Utica,NY,13502,43.10368774,-75.24325185
+Restaurant Brewer,Dutchess,Hyde Park Brewing Company Inc,Hyde Park Brewing Company,4076 Albany Post Road,Hyde Park,NY,12538,41.76928859,-73.93001975
+Restaurant Brewer,Ontario,Dobbers Sports Bar & Grill Llc,Three Huskies Brewing,401 Lakeshore Dr,Canandaigua,NY,14424,42.87243,-77.25139
+Restaurant Brewer,Steuben,Careys Cyber Inc,Carey'S Brew House,58 Bridge St,Corning,NY,14830,42.15013,-77.06064
+Restaurant Brewer,Erie,Buffalo Riverworks Llc,Buffalo Riverworks,359 Ganson St,Buffalo,NY,14203,42.86861,-78.87302
+Restaurant Brewer,New York,Gastromarket Ltd,Death Avenue,313 317 10Th Ave,New York,NY,10001,0.0,0.0
+Restaurant Brewer,Cayuga,Next Chapter Brewing Company Inc,Next Chapter Brewpub,100 Genesee St,Auburn,NY,13021,42.9313,-76.56673
+Restaurant Brewer,Ulster,Rough Cut Brewpub Llc,Rough Cut Brewing Co,5945 Rte 44 55,Kerhonkson,NY,12446,41.76008,-74.28514
+Restaurant Brewer,Otsego,Roots Brewing Company Inc,Roots Brewing Company ,175 Main St,Oneonta,NY,13820,42.45356641,-75.06241028
+Restaurant Brewer,Erie,Big River Breweries Inc,Gordon Biersch Brewery Restaurant,102 Galleria Dr,Cheektowaga,NY,14225,42.91535774,-78.76536608
+Restaurant Brewer,Westchester,Sublime Food & Beverage Corp,The Peekskill Brewery,47 53 Water St,Peekskill,NY,10566,41.28889058,-73.93006733
+Restaurant Brewer,Kings,77 Sands Rg Llc,Randolph Beer,77 Sands St,Brooklyn,NY,11201,40.70032,-73.98723000000001
+Restaurant Brewer,Dutchess,"Culinary Institute Of America, The",The Brewery At The Cia,1995 Campus Dr,Hyde Park,NY,12538,41.746520000000004,-73.93204
+Restaurant Brewer,Suffolk,Amity Ales Inc,Amity Ales ,192 Broadway,Amityville,NY,11701,40.67879,-73.41775
+Restaurant Brewer,Saratoga,"Fairways Of Halfmoon Llc, The",Hank Hudson Brewing Company,17 Johnson Rd,Mechanicville,NY,12118,42.90128,-73.71115
+Restaurant Brewer,Greene,Hunter Foods Llc,Hunter Mountain Brewery,7267 Rte 23A,Hunter,NY,12442,42.19981,-74.19003000000001
+Restaurant Brewer,Kings,141 Lawrence Rest Llc,Circa Brewing Company,141 Lawrence St,Brooklyn,NY,11201,40.69198,-73.9862
+Restaurant Brewer,Erie,Pearl Street Brewing Co Llc,(Cellar Main Bar),76 Pearl St,Buffalo,NY,14202,42.88119008,-78.87709921
+Restaurant Brewer,Genesee,Batavia Brewing Company Llc,Eli Fish Brewing Company,109 111 Main St,Batavia,NY,14020,0.0,0.0
+Restaurant Brewer,Albany,Philly Bar & Grill Llc,Philly Bar & Grill,622 Watervliet Shaker Rd,Latham,NY,12110,42.737109999999994,-73.76745
+Restaurant Brewer,Essex,Blue Line Brewery Llc,Blue Line Brewery ,555 Lake Flower Ave,Saranac Lake,NY,12983,0.0,0.0
+Restaurant Brewer,Westchester,Cp Factoria Llc,Fin & Brew,5 John Walsh Blvd,Peekskill,NY,10566,41.27519,-73.94202
+Winery,Kings,Red Hook Winery Llc,Red Hook Winery,204 Van Dyke St Suite 325A,Brooklyn,NY,11231,,
+Winery,Ulster,Rmv Cellars Llc,Red Maple Vineyard,25 Burroughs Dr,West Park,NY,12493,,
+Winery,Yates,N Kendall Wines Llc,"Hickory Hollow Wine Cellars, Nathan K, Chepika",20 Hollister St,Dundee,NY,14837,42.52262,-76.97381
+Winery,Orange,Ferreira Carpenter Estates Llc,Ferreira Carpenter Winery,62 W Ridge Rd,Warwick,NY,10990,41.28097,-74.36792
+Winery,Schuyler,Donna D Lucent,Pompous Ass Wine Company,4499 Route 14,Rock Stream,NY,14878,42.4511206,-76.90924779
+Winery,Ontario,L & D Acquisition Llc,L & D Acquisition ,1 Lake Niagara Lane,Naples,NY,14512,42.62147967,-77.39838893
+Winery,Oneida,Prospect Falls Winery Inc,Prospect Falls Winery ,400 Academy St,Prospect,NY,13435,43.30447,-75.15305
+Winery,Suffolk,L A Winery Corp,L A Winery Corp,114 Cain Dr,Brentwood,NY,11717,40.80653971,-73.24820566
+Winery,Chautauqua,Woodbury Vineyards Inc,Woodbury Vineyards,3230 S Roberts Rd,Fredonia,NY,14063,42.4554027,-79.26934911
+Winery,Erie,Queen City Meadery Llc,Queen City Meadery ,290 Center Rd,W Seneca,NY,14224,42.84005,-78.77143000000001
+Winery,Steuben,"Element Winery Llc, The","Element Winery , The",27 West Ave,Arkport,NY,14807,42.39445,-77.69932
+Winery,Orange,Angry Orchard Cider Company Llc,Angry Orchard Cider Company ,2241 Albany Post Rd,Walden,NY,12586,41.587109999999996,-74.22169
+Winery,Yates,Point Of The Bluff Vineyard Llc,Point Of The Bluff Vineyard ,8524 Broadview Heights,Keuka Park,NY,14478,42.62001197,-77.09868161
+Winery,Ulster,Joseph Zakon Winery Ltd,Crown Regal Wine Cellars,1519 Route 9W Bldg 2,Marlboro,NY,12542,41.62322388,-73.96451737
+Winery,Schuyler,Valkyrie Crafted Libations Inc,Valkyrie Crafted Libations ,4732 Rte 414,Burdett,NY,14818,42.46233,-76.86494
+Winery,Kings,Green Farms Ii Llc,Green Farms Ii ,208 Dupont St,Brooklyn,NY,11222,40.73616,-73.95109000000001
+Winery,Chautauqua,Robert Mazza Inc,Mazza Chautauqua Cellars,8398 West Route 20,Westfield,NY,14787,42.30823259,-79.60389676
+Winery,Niagara,Flight Of Five Winery Llc,Flight Of Five Winery,2 Pine St,Lockport,NY,14094,43.17076116,-78.69284328
+Winery,Ulster,Liquid Altitude Llc,Liquid Altitude,428 Decker Rd,Wallkill,NY,12589,41.66922,-74.25457
+Winery,Cayuga,West Bay Estates Llc,Colloca Estate Winery,14678 W Bay Rd,Sterling,NY,13156,43.3293,-76.72126
+Winery,Suffolk,W A Meadwerks Inc,W A Meadwerks ,26 W Hoffman Ave,Lindenhurst,NY,11757,40.686859999999996,-73.37443
+Winery,Kings,Aron Rosenberg Enterprises Llc,Ben Ish Winery,3711 13Th Ave,Brooklyn,NY,11218,40.64141,-73.98527
+Winery,Ulster,Royal Wine Corporation,Appleation Ciders; Boondocks Spirits,Auxiliary Route 2 / 9 W No,Marlboro,NY,12542,,
+Winery,Chautauqua,"Wine Group Llc, The","Wine Group , The",85 Bourne St,Westfield,NY,14787,42.33217303,-79.57930656
+Winery,Albany,Windham Vineyards Llc,Windham Vineyards And Winery,32 Learned St,Albany,NY,12207,42.66106,-73.74353
+Winery,Ulster,Hetta Glogg Llc,Hetta Glogg ,85 Broadway,Kingston,NY,12401,41.91988,-73.98538
+Winery,Erie,Ten Thousand Vines Inc,Ten Thousand Vines,8 S Buffalo St,Hamburg,NY,14075,42.71549477,-78.82930613
+Winery,Suffolk,Wolffer Estate Vineyard Inc,Wolffer Estate,139 Sagg Rd,Sagaponack,NY,11962,40.94482,-72.27887
+Winery,Orange,Demarest Hill Winery Inc,Demarest Hill Winery ,81 Pine Island Tpke,Warwick,NY,10990,41.26686155,-74.37151209999999
+Winery,Nassau,Wineudesign Inc,Wineudesign,156 Engineers Dr,Hicksville,NY,11801,40.74494501,-73.50090047
+Winery,Monroe,Casa Larga Vineyards Inc,Casa Larga Vineyards,2287 Turk Hill Rd,Fairport,NY,14450,43.05062036,-77.43203003
+Winery,Orleans,810 Meadworks Llc,810 Meadworks ,113 W Center St,Medina,NY,14103,43.22033,-78.38766
+Winery,Suffolk,Medwick Wines Llc,Maiden & Liberty,35 Cox Neck Rd,Mattituck,NY,11952,40.98854,-72.55391
+Winery,New York,City Vineyard Llc,City Vineyard ,45 Rockefeller Plaza,New York,NY,10013,40.7595,-73.97796
+Winery,Steuben,Doyle Acquisition Corporation,Pleasant Valley Wine Co,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40199963,-77.25173009
+Winery,Saratoga,"Ledge Rock Hill Winery, Llc",Ledge Rock Hill Winery,41 Stewart Dam Road,Corinth,NY,12822,43.26983481,-73.89074373
+Winery,Saratoga,Old Tavern Farm Winery Llc,Old Tavern Farm Winery ,45 Brown Rd,Stillwater,NY,12170,43.01791,-73.71967
+Winery,Steuben,Konstantin D Frank &Sons Vinifera Wine Cellars Ltd,Konstantin D Frank &Sons Vinifera Wine Cellars ,9749 Middle Road,Hammondsport,NY,14840,42.47568081,-77.18222838
+Winery,Niagara,Spring Lake Winery Llc,Spring Lake Winery,7373 Rochester Rd,Lockport,NY,14094,43.18561077,-78.62835653
+Winery,Suffolk,Duck Walk Vineyards Inc,Duck Walk Vineyards ,231 Montauk Hgwy,Water Mill,NY,11976,40.90269679,-72.36565353
+Winery,Livingston,Eagle Crest Vineyards Llc,Eagle Crest Vineyards ,7107 Vineyard Road,Conesus,NY,14435,42.73981742,-77.62291699
+Winery,Steuben,Chateau Renaissance Inc,Chateau Renaissance ,7494 Fish Hatchery Rd,Hammondsport,NY,14840,42.38723199,-77.26471703
+Winery,Monroe,Lidestri Beverages Llc,Lidestri Spirits,1050 Lee Rd,Rochester,NY,14606,43.187709999999996,-77.6798
+Winery,Ulster,Allied Wine Corp,Stropkov Spirits And Silver Cloud Spirits,70 Berme Rd,Ellenville,NY,12428,41.71603801,-74.38245794
+Winery,Niagara,R Sean Manning Inc,Freedom Run Winery,5138 Lower Mountain Rd,Lockport,NY,14094,43.18434663,-78.76104344
+Winery,Ontario,Constellation Brands Inc,Constellation Brands ,116 Buffalo St,Canandaigua,NY,14424,42.89646521,-77.2938024
+Winery,Onondaga,Lakeland Winery Inc,Lakeland Winery,877 State Fair Blvd,Syracuse,NY,13209,43.09308516,-76.24267068
+Winery,Seneca,Swedish Hill Vineyard Inc,Swedish Hill Winery,4565 Route 414,Romulus,NY,14541,42.21985421,-76.97419268
+Winery,Kings,Goblet Wine Inc,Goblet,6010 20Th Ave,Brooklyn,NY,11204,40.61930923,-73.98296096
+Winery,Erie,Chateau Buffalo Llc,Chateau Buffalo,1500 Clinton St,Buffalo,NY,14206,42.872479799999994,-78.82111845
+Winery,New York,City Winery New York Llc,City Winery,143 Varick St,New York,NY,10013,40.72592994,-74.00579236
+Winery,Ulster,Slate Hill Vineyard Inc,Benmarl Winery,156 Highland Ave,Marlboro,NY,12542,41.59672562,-73.98256754
+Winery,Suffolk,Pindar Vineyards Llc,Pindar Vineyards ,37645 State Route 25,Peconic,NY,11958,41.03218921,-72.46561708
+Winery,Saratoga,Oliva Vineyards Llc,Oliva Vineyards,250 Excelsior Ave,Saratoga Springs,NY,12866,43.09323,-73.75738
+Winery,Orange,Engel Wines Corp,Engel Wines Corp,6 Quickway Rd,Monroe,NY,10950,41.33611,-74.17302
+Winery,Dutchess,Salt Point Meadery Llc,Salt Point Meadery ,11 Charles St,Pleasant Valley,NY,12569,41.74736,-73.83334
+Winery,St Lawrence,River Myst Winery Llc,River Myst Winery,9830 State Hwy 37,Ogdensburg,NY,13669,44.762656299999996,-75.37855498
+Winery,Nassau,Barnside Cellars Inc,Vinizzo,343 Sea Cliff Ave,Sea Cliff,NY,11579,40.84940336,-73.64941273
+Winery,Orange,Graft Cider Llc,Graft Cider,218 Ann St,Newburgh,NY,12550,41.49987,-74.01706999999999
+Winery,Suffolk,Foghat Cellars Llc,Foghat Cellars ,35 Cox Neck Rd,Mattituck,NY,11952,40.988479999999996,-72.55465
+Winery,Suffolk,Pwg Wine Company Llc,Premium Wine Group,35 Cox Neck Rd,Mattituck,NY,11952,40.98868,-72.55463
+Winery,Monroe,Wines By Design Inc,Vinecraft,1424 Buffalo Rd,Rochester,NY,14624,43.150290000000005,-77.6891
+Winery,Albany,Royal Meadery Llc,Royal Meadery ,20 Hallwood Rd - Ste. 2,Delmar,NY,12054,42.62356,-73.83185999999999
+Winery,Steuben,Ito Wines Llc,Traveling Vineyard,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40201416,-77.25183792
+Winery,Broome,Innovative Bottling Inc,Innovative Bottling ,116 Brown St,Johnson City,NY,13790,42.11843,-75.96149
+Winery,Nassau,Floral Terranes Llc,Floral Terranes ,157 E Broadway,Roslyn,NY,11576,40.797470000000004,-73.64583
+Winery,Suffolk,Hf Rfm Llc,Beacon Meadery,35 Cox Neck Rd,Mattituck,NY,11952,40.98868,-72.55463
+Winery,Ulster,Cereghino Smith Llc,Cereghino Smith,2583 Route 32,Bloomington,NY,12411,0.0,0.0
+Winery,Otsego,Sauvage Beverages Llc,Sauvage Beverages ,107 Winney Hill Rd,Oneonta,NY,13820,42.46076,-75.09212
+Winery,Kings,Brooklyn Winery Llc,Brooklyn Winery,213 N 8Th Street,Brooklyn,NY,11211,40.71721959,-73.95512328
+Winery,Kings,Coiffe Cellars Corp,Ma Lung Winery,276 Greenpoint Ave,Brooklyn,NY,11222,40.73071874,-73.94879976
+Winery,Suffolk,Del Vino Vineyards Inc,Del Vino Vineyards ,29 Norwood Rd,Northport,NY,11768,40.9135,-73.32517
+Winery,Monroe,Living Roots Wine & Company Llc,Living Roots Wine & Company ,1255 University Ave,Rochester,NY,14607,43.15048,-77.56911
+Winery,Richmond,Rlra Llc,Vino Di Vino,42 Industrial Loop,Staten Island,NY,10309,40.54753,-74.22952
+Winery,Onondaga,Anheuser Busch Llc,Anheuser Busch ,2885 Belgium Rd,Baldwinsville,NY,13027,43.16539,-76.31038000000001
+Winery,Westchester,Prospero Winery Inc,326 Marble Avenue,134 Marble Avenue,Pleasantville,NY,10570,,
+Winery,Oneida,Andrea Puma,Puma Vino,121 N Madison St,Rome,NY,13440,43.214890000000004,-75.46332
+Winery,Monroe,High Falls Operating Co Llc,North American Breweries,445 St Paul St,Rochester,NY,14605,43.16493105,-77.61437097
+Winery,Columbia,Clermont Vineyards & Winery Llc,Clermont Vineyards & Winery ,241 County Rte 6,Germantown,NY,12526,42.07962982,-73.89375852
+Winery,Suffolk,Jason'S Vineyard'S Inc,Jason'S Vineyard'S ,1785 Main Rd,Jamesport,NY,11947,40.95266958,-72.57543902
+Winery,Kings,Gotham Sake Llc,Brooklyn Kura,68 34Th St,Brooklyn,NY,11232,40.759240000000005,-73.92449
+Winery,Suffolk,Kwaw Amos,Oson Wine,35 Cox Neck Rd,Mattituck,NY,11952,40.98868,-72.55463
+Winery,New York,City Vineyard Llc,City Vineyard ,233 West St,New York,NY,10013,40.72132,-74.01234000000001
+Winery,Warren,Adirondack Winery Llc,Adirondack Winery ,395 Big Bay Rd,Queensbury,NY,12804,43.29078017,-73.6820309
+Winery,Cattaraugus,Winery Of Ellicottville Llc,Winery Of Ellicottville ,14 Monroe St,Ellicottville,NY,14731,42.27594533,-78.67144075
+Winery,Orange,Brotherhood America'S Oldest Winery Ltd,Brotherhood Vinecrest Co,100 Brotherhood Plaza Dr,Washingtonville,NY,10992,41.43069504,-74.1615352
+Winery,Schuyler,Hazlitts 1852 Vineyards Inc,Hazlitts 1852 Vineyards,5712 Rte 414,Hector,NY,14841,42.51050559,-76.87671294
+Winery,Cayuga,Long Point Winery Ltd,Long Point Winery,1485 Lake Road,Aurora,NY,13026,42.71074334,-76.68579399
+Winery,Schuyler,J R Dill Winery Llc,J R Dill Winery,4922 State Route 414,Burdett,NY,14818,42.4714497,-76.86754395
+Winery,Niagara,Black Willow Winery Llc,Black Willow Winery ,5565 W Lake Rd,Burt,NY,14028,43.33163653,-78.73506054
+Winery,Steuben,Bully Hill Vineyards Inc,The Lake Keuka Wine Co,8843 Greyton H Taylor Mem'L Dr,Hammondsport,NY,148400458,42.42883165,-77.20872151
+Winery,Erie,Grapevine Dvine Llc,Grapevine Dvine ,5500 Broadway St,Lancaster,NY,14086,42.89963,-78.66591
+Winery,Seneca,Ventosa Vineyards Llc,Ventosa Vineyards,3440 Route 96A,Geneva,NY,14456,42.85906813,-76.93631553
+Winery,Dutchess,Millbrook Winery Inc,Williams & Selyem Winery,26 Wing Rd,Millbrook,NY,12545,,
+Winery,Tompkins,Ports Of New York Llc,Ports Of New York ,815 Taber St,Ithaca,NY,14850,42.43845773,-76.5135085
+Winery,Wyoming,Main Street Winery Llc,Main Street Winery ,249 Main St,Arcade,NY,14009,42.534440000000004,-78.42293000000001
+Winery,St Lawrence,High Peaks Winery Llc,High Peaks Winery ,805 Pickle St,Winthrop,NY,13697,44.775356099999996,-74.85701627
+Winery / Farm Winery Retail,Suffolk,Pindar Vineyards Llc,Pindar Vineyards ,117 Main Street,Port Jefferson,NY,11777,40.94573481,-73.06832557
+Winery / Farm Winery Retail,Steuben,Chateau Renaissance Inc,Chateau Renaissance Wine Cellars,7494 Fish Hatchery Rd,Hammondsport,NY,14840,42.38717952,-77.26484049
+Winery / Farm Winery Retail,Schuyler,Doyle Acquisition Corporation,Seneca Harbor Wine Center,2 N Franklin St,Watkins Glen,NY,14891,42.38351970000001,-76.87515622
+Winery / Farm Winery Retail,Steuben,Doyle Acquisition Corporation,Pleasant Valley Wine Co,8260 Pleasant Valley Rd,Hammondsport,NY,14840,42.40199963,-77.25173009
+Winery / Farm Winery Retail,Warren,Adirondack Winery Llc,Adirondack Winery ,4971 Lake Shore Dr,Bolton Landing,NY,12814,43.55814,-73.65491
+Winery / Farm Winery Retail,Seneca,Doyle Acquisition Corporation,Caywood Vineyards,9666 Route 414,Lodi,NY,14860,42.55655966,-76.86593089
+Winery / Farm Winery Retail,Yates,N Kendall Wines Llc,"Hickory Hollow Wine Cellars, Nathan K, Chepika",5289 State Rte 14,Dundee,NY,14837,42.50743,-76.9239
+Winery / Farm Winery Retail,Dutchess,Millbrook Winery Inc,Williams & Selyem Winery,26 Wing Rd,Millbrook,NY,12545,,
+Winery / Farm Winery Retail,Warren,Adirondack Winery Llc,Adirondack Winery,285 Canada St,Lake George,NY,12845,43.42572426,-73.7127071
